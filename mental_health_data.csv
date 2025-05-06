@@ -1,0 +1,1201 @@
+user_id,feeling_today,stress_level,sleep_quality,eating_healthy,exercise_frequency,social_support,routine_satisfaction,recent_happiness,relaxation_frequency,overwhelmed,social_connection,emotional_selfcare,motivation,lifestyle_happiness,goal_setting,depression_percent,anxiety_percent,stress_percent,suggestion
+1,Happy,3,Poorly,Sometimes,Few times,Sometimes,Not satisfied,Family/Friends,Rarely,Sometimes,5,No,Not motivated,Somewhat,Maybe,45,0,20,Consider regular exercise and mindfulness.
+2,Sad,4,Very well,Sometimes,Few times,No,Not satisfied,Family/Friends,Sometimes,Yes,2,Trying,Not motivated,No,Yes,80,55,20,Increase social interactions or join groups.
+3,Neutral,7,Poorly,No,Few times,No,Not satisfied,Nature/Relaxing,Daily,Sometimes,10,Trying,Not motivated,No,Maybe,75,10,10,Set small achievable goals for motivation.
+4,Neutral,10,Okay,Sometimes,Rarely,Yes,Neutral,Achievement,Sometimes,Yes,7,Yes,Somewhat,No,Maybe,25,15,45,Talk to a trusted friend or therapist.
+5,Sad,10,Poorly,Yes,Daily,Sometimes,Neutral,Achievement,Daily,Sometimes,8,No,Not motivated,Yes,Maybe,55,20,30,Increase social interactions or join groups.
+6,Sad,8,Very well,No,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Daily,Yes,3,No,Not motivated,No,No,95,45,45,Talk to a trusted friend or therapist.
+7,Happy,4,Poorly,Yes,Daily,Sometimes,Neutral,Family/Friends,Daily,No,6,Trying,Not motivated,Somewhat,Yes,25,0,10,Seek professional help if feeling overwhelmed.
+8,Sad,3,Poorly,No,Few times,Yes,Not satisfied,Achievement,Sometimes,No,1,No,Highly motivated,Yes,No,75,30,10,Focus on better sleep habits.
+9,Neutral,5,Very well,Yes,Few times,Yes,Not satisfied,Nature/Relaxing,Daily,Sometimes,7,Trying,Not motivated,No,Yes,35,0,0,Practice relaxation and hobbies more often.
+10,Happy,9,Okay,Sometimes,Few times,No,Very satisfied,Achievement,Daily,Yes,9,Trying,Highly motivated,Somewhat,Maybe,15,25,40,Increase social interactions or join groups.
+11,Happy,4,Okay,No,Few times,Yes,Not satisfied,Nature/Relaxing,Rarely,Yes,6,Trying,Highly motivated,No,No,35,15,30,Increase social interactions or join groups.
+12,Happy,10,Poorly,Yes,Few times,Sometimes,Not satisfied,Family/Friends,Daily,Sometimes,6,Trying,Not motivated,No,No,50,0,30,Talk to a trusted friend or therapist.
+13,Sad,6,Very well,Yes,Rarely,Sometimes,Not satisfied,Family/Friends,Sometimes,No,1,Yes,Somewhat,Yes,Maybe,50,30,5,Increase social interactions or join groups.
+14,Happy,6,Poorly,No,Rarely,Sometimes,Neutral,Nature/Relaxing,Daily,No,2,Trying,Somewhat,Yes,No,45,10,15,Maintain a balanced diet and hydration.
+15,Sad,6,Okay,No,Daily,No,Very satisfied,Achievement,Rarely,No,5,Yes,Highly motivated,No,No,60,30,10,Consider regular exercise and mindfulness.
+16,Sad,9,Okay,Yes,Few times,Yes,Neutral,Nature/Relaxing,Sometimes,Yes,3,Trying,Not motivated,Yes,No,40,45,40,Seek professional help if feeling overwhelmed.
+17,Happy,8,Poorly,Yes,Rarely,No,Neutral,Family/Friends,Rarely,Sometimes,4,Yes,Somewhat,Yes,Yes,40,10,45,Practice relaxation and hobbies more often.
+18,Sad,8,Very well,Sometimes,Daily,Yes,Not satisfied,Nature/Relaxing,Daily,No,8,Trying,Somewhat,Somewhat,Maybe,30,20,20,Practice relaxation and hobbies more often.
+19,Anxious,7,Poorly,Sometimes,Daily,Yes,Neutral,Family/Friends,Sometimes,Yes,5,No,Highly motivated,Yes,Yes,45,35,30,Maintain a balanced diet and hydration.
+20,Anxious,5,Okay,No,Few times,Sometimes,Neutral,Family/Friends,Rarely,Sometimes,1,Yes,Not motivated,Somewhat,No,50,30,10,Set small achievable goals for motivation.
+21,Anxious,7,Very well,No,Daily,Yes,Neutral,Family/Friends,Rarely,No,9,Yes,Somewhat,Yes,Maybe,30,20,10,Seek professional help if feeling overwhelmed.
+22,Anxious,5,Very well,Sometimes,Daily,Sometimes,Very satisfied,Achievement,Rarely,Yes,4,Yes,Somewhat,Yes,Maybe,20,35,30,Practice relaxation and hobbies more often.
+23,Sad,10,Very well,No,Few times,No,Not satisfied,Achievement,Sometimes,Yes,10,Yes,Somewhat,Somewhat,Yes,55,45,40,Maintain a balanced diet and hydration.
+24,Sad,9,Very well,Yes,Daily,Yes,Very satisfied,Nature/Relaxing,Daily,No,7,Trying,Somewhat,Somewhat,Maybe,20,20,20,Talk to a trusted friend or therapist.
+25,Neutral,9,Okay,No,Few times,No,Neutral,Achievement,Daily,Yes,10,No,Highly motivated,Yes,Maybe,35,25,40,Consider regular exercise and mindfulness.
+26,Anxious,1,Very well,Sometimes,Few times,Sometimes,Very satisfied,Family/Friends,Rarely,Yes,9,Yes,Somewhat,No,No,35,35,30,Practice relaxation and hobbies more often.
+27,Sad,8,Poorly,Yes,Daily,Sometimes,Not satisfied,Nature/Relaxing,Rarely,Sometimes,5,Trying,Highly motivated,No,Maybe,60,20,40,Maintain a balanced diet and hydration.
+28,Sad,1,Okay,Yes,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,No,7,No,Somewhat,Somewhat,Maybe,30,20,0,Consider regular exercise and mindfulness.
+29,Neutral,5,Very well,Sometimes,Few times,Yes,Neutral,Achievement,Daily,Yes,7,Trying,Somewhat,No,Maybe,15,15,20,Set small achievable goals for motivation.
+30,Sad,9,Very well,No,Daily,Yes,Neutral,Family/Friends,Daily,Yes,3,Yes,Somewhat,Somewhat,No,40,45,40,Seek professional help if feeling overwhelmed.
+31,Happy,2,Poorly,Yes,Few times,No,Very satisfied,Nature/Relaxing,Daily,No,1,No,Not motivated,Somewhat,No,60,20,10,Focus on better sleep habits.
+32,Neutral,10,Very well,Sometimes,Few times,Sometimes,Not satisfied,Family/Friends,Daily,No,2,Yes,Highly motivated,Yes,No,20,10,20,Focus on better sleep habits.
+33,Neutral,10,Very well,No,Daily,No,Very satisfied,Achievement,Daily,No,3,No,Not motivated,No,Yes,70,20,20,Increase social interactions or join groups.
+34,Neutral,1,Poorly,Yes,Few times,Yes,Neutral,Achievement,Rarely,No,4,Trying,Not motivated,Somewhat,No,25,0,20,Consider regular exercise and mindfulness.
+35,Happy,2,Poorly,No,Rarely,No,Not satisfied,Family/Friends,Daily,No,6,Yes,Somewhat,Somewhat,Yes,60,10,15,Talk to a trusted friend or therapist.
+36,Neutral,6,Very well,Yes,Rarely,Yes,Not satisfied,Family/Friends,Daily,Yes,9,Trying,Somewhat,Somewhat,Yes,20,15,25,Consider regular exercise and mindfulness.
+37,Neutral,10,Okay,No,Rarely,No,Very satisfied,Family/Friends,Daily,Yes,9,Trying,Highly motivated,No,Maybe,50,25,45,Practice relaxation and hobbies more often.
+38,Happy,3,Very well,Yes,Daily,Yes,Very satisfied,Family/Friends,Sometimes,Sometimes,4,Yes,Highly motivated,No,Yes,15,0,0,Maintain a balanced diet and hydration.
+39,Sad,2,Poorly,Yes,Daily,Yes,Neutral,Family/Friends,Daily,Yes,6,Yes,Not motivated,No,Maybe,60,35,30,Maintain a balanced diet and hydration.
+40,Anxious,7,Okay,Yes,Rarely,No,Not satisfied,Family/Friends,Rarely,No,5,Yes,Somewhat,Yes,No,55,30,15,Set small achievable goals for motivation.
+41,Neutral,8,Poorly,Sometimes,Rarely,Sometimes,Not satisfied,Family/Friends,Sometimes,Yes,8,Trying,Highly motivated,Yes,No,35,15,55,Practice relaxation and hobbies more often.
+42,Neutral,3,Poorly,Yes,Rarely,Sometimes,Neutral,Family/Friends,Sometimes,Sometimes,7,Yes,Not motivated,Somewhat,Maybe,35,0,15,Seek professional help if feeling overwhelmed.
+43,Sad,4,Very well,Sometimes,Rarely,Yes,Not satisfied,Achievement,Daily,No,4,No,Not motivated,Somewhat,Maybe,60,20,5,Practice relaxation and hobbies more often.
+44,Neutral,5,Okay,Sometimes,Few times,Yes,Very satisfied,Nature/Relaxing,Rarely,Yes,8,Yes,Highly motivated,No,Maybe,15,15,30,Focus on better sleep habits.
+45,Sad,4,Okay,No,Few times,No,Neutral,Achievement,Daily,No,4,Trying,Not motivated,No,Maybe,70,30,0,Seek professional help if feeling overwhelmed.
+46,Neutral,5,Okay,Sometimes,Daily,Sometimes,Neutral,Achievement,Rarely,No,4,Yes,Somewhat,No,Yes,15,0,10,Increase social interactions or join groups.
+47,Sad,7,Poorly,Yes,Rarely,Yes,Not satisfied,Nature/Relaxing,Rarely,No,5,No,Highly motivated,Yes,No,65,20,25,Increase social interactions or join groups.
+48,Happy,2,Very well,Yes,Rarely,Yes,Very satisfied,Nature/Relaxing,Sometimes,Yes,6,Yes,Somewhat,Somewhat,No,10,15,25,Maintain a balanced diet and hydration.
+49,Happy,9,Poorly,No,Daily,No,Very satisfied,Family/Friends,Rarely,Yes,8,Yes,Not motivated,Somewhat,Maybe,50,25,60,Set small achievable goals for motivation.
+50,Sad,5,Poorly,No,Daily,Sometimes,Very satisfied,Nature/Relaxing,Daily,Sometimes,10,Yes,Somewhat,No,Maybe,60,20,10,Consider regular exercise and mindfulness.
+51,Happy,7,Okay,Sometimes,Few times,Sometimes,Not satisfied,Achievement,Rarely,Sometimes,8,Trying,Not motivated,No,Yes,35,0,10,Seek professional help if feeling overwhelmed.
+52,Sad,8,Very well,No,Rarely,Sometimes,Neutral,Nature/Relaxing,Sometimes,No,10,Yes,Somewhat,No,Yes,55,20,25,Practice relaxation and hobbies more often.
+53,Happy,3,Very well,Sometimes,Few times,Sometimes,Very satisfied,Family/Friends,Daily,No,8,No,Somewhat,Somewhat,Maybe,10,0,0,Consider regular exercise and mindfulness.
+54,Happy,6,Okay,Sometimes,Few times,Yes,Neutral,Nature/Relaxing,Sometimes,No,1,No,Somewhat,No,Yes,35,10,0,Talk to a trusted friend or therapist.
+55,Sad,8,Okay,Yes,Few times,Yes,Neutral,Family/Friends,Rarely,No,3,No,Somewhat,Somewhat,Yes,40,30,30,Practice relaxation and hobbies more often.
+56,Anxious,3,Very well,No,Few times,Yes,Neutral,Family/Friends,Sometimes,No,9,No,Highly motivated,No,Maybe,55,20,0,Maintain a balanced diet and hydration.
+57,Happy,6,Very well,No,Rarely,No,Very satisfied,Nature/Relaxing,Sometimes,Sometimes,7,No,Not motivated,Somewhat,Maybe,55,10,5,Focus on better sleep habits.
+58,Anxious,8,Very well,Yes,Rarely,No,Neutral,Achievement,Rarely,Yes,2,Trying,Highly motivated,Somewhat,Yes,55,55,55,Practice relaxation and hobbies more often.
+59,Sad,6,Poorly,Sometimes,Few times,No,Not satisfied,Family/Friends,Daily,Yes,9,Trying,Highly motivated,Somewhat,Maybe,60,45,30,Set small achievable goals for motivation.
+60,Anxious,3,Very well,Yes,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Yes,8,Yes,Somewhat,Yes,No,30,35,25,Set small achievable goals for motivation.
+61,Neutral,4,Poorly,Yes,Daily,Yes,Not satisfied,Achievement,Rarely,Sometimes,4,No,Not motivated,No,No,60,0,20,Seek professional help if feeling overwhelmed.
+62,Neutral,7,Poorly,No,Rarely,Yes,Neutral,Family/Friends,Daily,Sometimes,1,Yes,Not motivated,Somewhat,Yes,55,10,15,Focus on better sleep habits.
+63,Sad,4,Poorly,Yes,Daily,Yes,Very satisfied,Family/Friends,Rarely,Yes,9,No,Not motivated,No,Yes,70,35,40,Seek professional help if feeling overwhelmed.
+64,Sad,7,Okay,No,Few times,Yes,Very satisfied,Nature/Relaxing,Sometimes,No,7,Trying,Highly motivated,Yes,Maybe,30,20,0,Set small achievable goals for motivation.
+65,Happy,4,Poorly,Sometimes,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,Yes,4,Trying,Highly motivated,Somewhat,Yes,15,15,40,Talk to a trusted friend or therapist.
+66,Neutral,10,Okay,Yes,Daily,Sometimes,Neutral,Achievement,Rarely,Yes,2,No,Highly motivated,No,Maybe,35,25,50,Seek professional help if feeling overwhelmed.
+67,Neutral,2,Poorly,Sometimes,Rarely,No,Neutral,Family/Friends,Rarely,Yes,9,Yes,Highly motivated,Somewhat,No,40,25,45,Practice relaxation and hobbies more often.
+68,Neutral,1,Very well,Sometimes,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Yes,8,Yes,Not motivated,No,No,35,15,35,Set small achievable goals for motivation.
+69,Sad,1,Very well,Sometimes,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,No,5,Trying,Somewhat,No,Maybe,45,20,15,Talk to a trusted friend or therapist.
+70,Neutral,1,Very well,Sometimes,Rarely,Sometimes,Neutral,Nature/Relaxing,Rarely,No,3,No,Highly motivated,Yes,Yes,30,10,15,Maintain a balanced diet and hydration.
+71,Anxious,6,Okay,No,Daily,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Yes,6,Yes,Somewhat,Somewhat,Maybe,30,35,20,Talk to a trusted friend or therapist.
+72,Neutral,1,Okay,Yes,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Rarely,Yes,2,Yes,Highly motivated,No,No,45,25,35,Maintain a balanced diet and hydration.
+73,Happy,9,Okay,Sometimes,Daily,Sometimes,Neutral,Family/Friends,Daily,Sometimes,4,No,Highly motivated,Somewhat,No,10,0,20,Increase social interactions or join groups.
+74,Sad,5,Poorly,Yes,Daily,Sometimes,Very satisfied,Family/Friends,Sometimes,Sometimes,8,No,Highly motivated,Yes,No,45,20,10,Seek professional help if feeling overwhelmed.
+75,Sad,2,Very well,No,Daily,Yes,Very satisfied,Family/Friends,Rarely,Yes,9,No,Not motivated,Somewhat,Yes,50,35,30,Focus on better sleep habits.
+76,Happy,7,Poorly,Yes,Daily,Sometimes,Very satisfied,Achievement,Sometimes,No,2,Trying,Highly motivated,Somewhat,Yes,25,10,10,Set small achievable goals for motivation.
+77,Anxious,10,Okay,Sometimes,Few times,Yes,Very satisfied,Family/Friends,Sometimes,Yes,3,No,Not motivated,Yes,Yes,50,45,40,Set small achievable goals for motivation.
+78,Anxious,7,Very well,Yes,Few times,Yes,Neutral,Achievement,Sometimes,No,5,No,Not motivated,No,Maybe,55,20,0,Focus on better sleep habits.
+79,Sad,1,Very well,Yes,Few times,Yes,Neutral,Nature/Relaxing,Sometimes,Yes,7,Yes,Highly motivated,No,Maybe,35,35,20,Focus on better sleep habits.
+80,Neutral,2,Poorly,Sometimes,Rarely,Yes,Very satisfied,Nature/Relaxing,Sometimes,No,1,Yes,Highly motivated,No,Maybe,50,10,15,Maintain a balanced diet and hydration.
+81,Anxious,6,Poorly,No,Few times,Yes,Not satisfied,Family/Friends,Rarely,Sometimes,4,Yes,Somewhat,Yes,Yes,55,20,20,Talk to a trusted friend or therapist.
+82,Sad,9,Very well,No,Daily,Sometimes,Very satisfied,Family/Friends,Rarely,No,8,Yes,Not motivated,Somewhat,Maybe,40,20,30,Consider regular exercise and mindfulness.
+83,Sad,3,Poorly,Sometimes,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Daily,Sometimes,6,Yes,Not motivated,Yes,No,65,20,15,Set small achievable goals for motivation.
+84,Neutral,4,Very well,Sometimes,Rarely,Yes,Neutral,Nature/Relaxing,Daily,No,3,No,Highly motivated,Somewhat,Yes,30,10,5,Focus on better sleep habits.
+85,Neutral,4,Poorly,Sometimes,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,Sometimes,8,No,Highly motivated,Yes,Maybe,35,0,25,Increase social interactions or join groups.
+86,Anxious,4,Okay,Yes,Rarely,No,Not satisfied,Family/Friends,Sometimes,No,1,No,Somewhat,Somewhat,Yes,75,40,5,Set small achievable goals for motivation.
+87,Neutral,3,Poorly,Sometimes,Few times,Yes,Not satisfied,Nature/Relaxing,Daily,Yes,9,Trying,Somewhat,No,Maybe,40,15,30,Talk to a trusted friend or therapist.
+88,Neutral,7,Very well,Sometimes,Few times,Sometimes,Neutral,Achievement,Daily,No,8,No,Somewhat,No,Maybe,25,0,0,Talk to a trusted friend or therapist.
+89,Happy,6,Poorly,Sometimes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Sometimes,9,Trying,Highly motivated,Somewhat,No,15,0,10,Focus on better sleep habits.
+90,Neutral,8,Very well,No,Rarely,No,Not satisfied,Family/Friends,Sometimes,Yes,4,Trying,Not motivated,No,Yes,70,25,45,Seek professional help if feeling overwhelmed.
+91,Anxious,5,Poorly,No,Few times,Sometimes,Very satisfied,Achievement,Daily,No,4,Trying,Not motivated,No,No,70,20,10,Practice relaxation and hobbies more often.
+92,Neutral,8,Very well,Sometimes,Daily,No,Very satisfied,Family/Friends,Daily,Sometimes,10,Yes,Somewhat,Yes,No,15,10,20,Increase social interactions or join groups.
+93,Anxious,3,Okay,Sometimes,Rarely,No,Very satisfied,Family/Friends,Rarely,No,8,No,Highly motivated,Somewhat,Maybe,55,30,15,Consider regular exercise and mindfulness.
+94,Happy,3,Poorly,Yes,Few times,Yes,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,9,Yes,Highly motivated,No,No,40,0,10,Practice relaxation and hobbies more often.
+95,Anxious,9,Very well,No,Rarely,Yes,Not satisfied,Nature/Relaxing,Rarely,No,1,No,Highly motivated,Yes,Maybe,70,30,35,Consider regular exercise and mindfulness.
+96,Sad,1,Okay,Sometimes,Daily,Yes,Neutral,Family/Friends,Rarely,Sometimes,1,Yes,Highly motivated,No,Yes,45,30,10,Focus on better sleep habits.
+97,Sad,5,Poorly,Yes,Daily,Yes,Neutral,Family/Friends,Rarely,No,10,No,Highly motivated,Yes,Maybe,45,20,20,Consider regular exercise and mindfulness.
+98,Anxious,3,Very well,No,Rarely,Yes,Very satisfied,Family/Friends,Sometimes,No,2,Yes,Highly motivated,Somewhat,Yes,50,30,5,Practice relaxation and hobbies more often.
+99,Happy,1,Okay,Sometimes,Daily,Sometimes,Very satisfied,Achievement,Sometimes,No,5,Trying,Highly motivated,Somewhat,No,0,0,0,Consider regular exercise and mindfulness.
+100,Neutral,7,Very well,Yes,Daily,Sometimes,Neutral,Family/Friends,Sometimes,No,1,Trying,Highly motivated,Somewhat,No,10,10,0,Talk to a trusted friend or therapist.
+101,Neutral,10,Very well,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Sometimes,No,2,Trying,Somewhat,No,Maybe,35,10,20,Seek professional help if feeling overwhelmed.
+102,Anxious,2,Poorly,Sometimes,Rarely,Yes,Neutral,Achievement,Sometimes,Sometimes,5,Trying,Highly motivated,No,Maybe,60,20,15,Maintain a balanced diet and hydration.
+103,Happy,5,Poorly,No,Daily,No,Very satisfied,Family/Friends,Daily,Sometimes,3,Yes,Not motivated,Yes,Maybe,60,20,10,Increase social interactions or join groups.
+104,Anxious,1,Poorly,Sometimes,Rarely,Yes,Neutral,Achievement,Rarely,Yes,7,No,Highly motivated,Somewhat,Maybe,55,35,45,Maintain a balanced diet and hydration.
+105,Neutral,6,Okay,No,Rarely,Yes,Very satisfied,Family/Friends,Daily,Yes,6,Yes,Somewhat,Somewhat,Maybe,20,15,25,Focus on better sleep habits.
+106,Happy,5,Okay,No,Daily,No,Neutral,Family/Friends,Rarely,Yes,2,No,Highly motivated,Yes,Maybe,45,35,30,Increase social interactions or join groups.
+107,Anxious,2,Very well,No,Rarely,Sometimes,Very satisfied,Achievement,Daily,Yes,8,Yes,Highly motivated,No,Yes,55,35,25,Practice relaxation and hobbies more often.
+108,Sad,6,Poorly,No,Daily,No,Neutral,Achievement,Daily,No,9,Yes,Not motivated,No,Maybe,85,30,10,Practice relaxation and hobbies more often.
+109,Sad,1,Very well,Sometimes,Rarely,No,Neutral,Nature/Relaxing,Daily,Yes,4,Trying,Highly motivated,No,Yes,60,45,25,Set small achievable goals for motivation.
+110,Neutral,9,Very well,Sometimes,Daily,Sometimes,Very satisfied,Family/Friends,Daily,No,7,Trying,Highly motivated,No,Yes,15,0,20,Set small achievable goals for motivation.
+111,Neutral,2,Poorly,Sometimes,Few times,Yes,Very satisfied,Family/Friends,Daily,Yes,4,Trying,Somewhat,No,Maybe,30,15,30,Talk to a trusted friend or therapist.
+112,Neutral,3,Okay,Sometimes,Rarely,Yes,Not satisfied,Achievement,Daily,Yes,4,No,Somewhat,Yes,No,30,15,25,Talk to a trusted friend or therapist.
+113,Happy,1,Okay,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Rarely,No,5,Yes,Somewhat,No,Maybe,25,0,10,Seek professional help if feeling overwhelmed.
+114,Neutral,10,Poorly,Yes,Few times,Yes,Neutral,Family/Friends,Daily,Yes,7,Yes,Highly motivated,Yes,Yes,15,15,50,Maintain a balanced diet and hydration.
+115,Neutral,2,Poorly,No,Few times,Sometimes,Very satisfied,Family/Friends,Daily,No,2,No,Not motivated,No,Maybe,70,10,10,Talk to a trusted friend or therapist.
+116,Neutral,5,Very well,No,Few times,Yes,Not satisfied,Family/Friends,Daily,Sometimes,9,Trying,Not motivated,Yes,Maybe,30,0,0,Practice relaxation and hobbies more often.
+117,Neutral,4,Very well,Yes,Few times,Yes,Not satisfied,Nature/Relaxing,Daily,Sometimes,5,Trying,Somewhat,No,Maybe,25,0,0,Consider regular exercise and mindfulness.
+118,Neutral,4,Poorly,Sometimes,Daily,Yes,Very satisfied,Family/Friends,Rarely,Sometimes,7,Trying,Not motivated,Yes,Maybe,25,0,20,Increase social interactions or join groups.
+119,Anxious,1,Very well,Sometimes,Rarely,Sometimes,Neutral,Family/Friends,Sometimes,Yes,10,Trying,Somewhat,Somewhat,Yes,30,35,25,Practice relaxation and hobbies more often.
+120,Anxious,4,Poorly,Sometimes,Few times,No,Neutral,Nature/Relaxing,Rarely,Yes,8,Trying,Somewhat,Yes,Maybe,50,45,40,Seek professional help if feeling overwhelmed.
+121,Neutral,2,Poorly,No,Daily,Yes,Neutral,Achievement,Sometimes,No,8,No,Somewhat,Somewhat,No,35,0,10,Focus on better sleep habits.
+122,Happy,2,Very well,No,Few times,No,Not satisfied,Family/Friends,Sometimes,Sometimes,6,Yes,Not motivated,No,No,60,10,0,Practice relaxation and hobbies more often.
+123,Happy,10,Poorly,Sometimes,Few times,No,Neutral,Achievement,Rarely,Yes,1,Yes,Not motivated,Yes,Maybe,50,35,60,Seek professional help if feeling overwhelmed.
+124,Anxious,7,Okay,Yes,Rarely,Yes,Not satisfied,Family/Friends,Sometimes,No,9,Yes,Somewhat,Yes,Maybe,40,20,5,Seek professional help if feeling overwhelmed.
+125,Happy,1,Poorly,Yes,Daily,Yes,Very satisfied,Nature/Relaxing,Daily,Sometimes,2,Yes,Not motivated,No,Maybe,50,10,10,Talk to a trusted friend or therapist.
+126,Anxious,9,Poorly,No,Few times,Sometimes,Neutral,Nature/Relaxing,Daily,No,6,Yes,Somewhat,No,Maybe,60,20,30,Seek professional help if feeling overwhelmed.
+127,Anxious,6,Okay,Yes,Daily,Yes,Neutral,Nature/Relaxing,Rarely,Yes,5,Trying,Somewhat,Somewhat,No,20,35,30,Maintain a balanced diet and hydration.
+128,Happy,7,Poorly,No,Daily,No,Very satisfied,Family/Friends,Sometimes,Sometimes,2,Trying,Not motivated,No,No,75,20,10,Maintain a balanced diet and hydration.
+129,Sad,7,Very well,No,Rarely,Yes,Very satisfied,Family/Friends,Sometimes,Yes,2,Trying,Highly motivated,Yes,Yes,50,45,25,Talk to a trusted friend or therapist.
+130,Sad,2,Poorly,Yes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Rarely,No,7,No,Highly motivated,Somewhat,Yes,55,20,20,Practice relaxation and hobbies more often.
+131,Neutral,2,Very well,No,Rarely,Yes,Neutral,Family/Friends,Rarely,Sometimes,5,Yes,Somewhat,Somewhat,Maybe,20,0,15,Talk to a trusted friend or therapist.
+132,Happy,9,Very well,Yes,Few times,Yes,Not satisfied,Family/Friends,Rarely,Yes,8,Trying,Not motivated,Yes,Yes,20,15,50,Consider regular exercise and mindfulness.
+133,Neutral,7,Very well,No,Daily,Yes,Neutral,Family/Friends,Daily,Sometimes,7,Yes,Somewhat,Yes,Maybe,10,0,0,Maintain a balanced diet and hydration.
+134,Happy,3,Okay,Sometimes,Daily,No,Neutral,Nature/Relaxing,Daily,Sometimes,2,Trying,Not motivated,No,Maybe,50,20,0,Set small achievable goals for motivation.
+135,Anxious,1,Okay,No,Few times,No,Very satisfied,Family/Friends,Daily,Sometimes,8,Trying,Somewhat,No,No,60,30,0,Practice relaxation and hobbies more often.
+136,Happy,3,Very well,Sometimes,Daily,Yes,Neutral,Nature/Relaxing,Sometimes,No,10,Trying,Highly motivated,Somewhat,Yes,0,0,0,Focus on better sleep habits.
+137,Sad,1,Poorly,Sometimes,Few times,Sometimes,Very satisfied,Achievement,Rarely,Yes,10,Trying,Somewhat,No,Maybe,50,35,40,Maintain a balanced diet and hydration.
+138,Neutral,9,Okay,No,Daily,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,No,7,Trying,Not motivated,Somewhat,No,30,0,20,Talk to a trusted friend or therapist.
+139,Anxious,7,Poorly,No,Rarely,Sometimes,Neutral,Family/Friends,Rarely,No,8,No,Somewhat,No,No,80,20,25,Maintain a balanced diet and hydration.
+140,Sad,7,Very well,Sometimes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,No,3,Yes,Not motivated,No,No,55,30,0,Practice relaxation and hobbies more often.
+141,Sad,1,Okay,Sometimes,Few times,Sometimes,Very satisfied,Family/Friends,Rarely,No,5,Trying,Not motivated,Somewhat,No,30,20,10,Consider regular exercise and mindfulness.
+142,Neutral,1,Very well,No,Daily,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,Yes,2,Trying,Somewhat,Somewhat,Maybe,30,25,20,Consider regular exercise and mindfulness.
+143,Happy,3,Very well,No,Rarely,No,Very satisfied,Family/Friends,Sometimes,No,4,Trying,Highly motivated,No,Maybe,50,10,5,Talk to a trusted friend or therapist.
+144,Neutral,7,Poorly,No,Daily,No,Very satisfied,Achievement,Daily,No,5,Trying,Not motivated,Somewhat,Maybe,50,10,10,Focus on better sleep habits.
+145,Neutral,9,Very well,Sometimes,Daily,Sometimes,Not satisfied,Nature/Relaxing,Rarely,Sometimes,7,Yes,Somewhat,No,Maybe,25,0,30,Maintain a balanced diet and hydration.
+146,Neutral,8,Very well,No,Rarely,Yes,Very satisfied,Family/Friends,Rarely,Yes,9,No,Highly motivated,No,Maybe,45,15,55,Consider regular exercise and mindfulness.
+147,Happy,7,Very well,Sometimes,Daily,Yes,Not satisfied,Nature/Relaxing,Sometimes,No,10,Yes,Somewhat,Yes,Yes,10,0,0,Consider regular exercise and mindfulness.
+148,Anxious,7,Very well,No,Few times,Yes,Not satisfied,Achievement,Rarely,Sometimes,3,Yes,Somewhat,No,No,65,30,10,Focus on better sleep habits.
+149,Anxious,6,Poorly,Sometimes,Rarely,Yes,Very satisfied,Family/Friends,Rarely,No,6,Trying,Highly motivated,Somewhat,No,45,20,25,Maintain a balanced diet and hydration.
+150,Neutral,2,Poorly,Sometimes,Daily,No,Neutral,Family/Friends,Sometimes,No,2,Trying,Not motivated,Somewhat,Maybe,50,20,10,Set small achievable goals for motivation.
+151,Anxious,1,Poorly,No,Few times,Yes,Very satisfied,Nature/Relaxing,Daily,No,5,No,Not motivated,Yes,No,65,20,10,Seek professional help if feeling overwhelmed.
+152,Neutral,7,Very well,Sometimes,Few times,No,Not satisfied,Achievement,Daily,No,9,Yes,Highly motivated,Somewhat,No,25,10,0,Talk to a trusted friend or therapist.
+153,Sad,10,Very well,Yes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Daily,No,2,Yes,Somewhat,Somewhat,No,30,30,20,Practice relaxation and hobbies more often.
+154,Happy,1,Very well,Yes,Few times,Sometimes,Not satisfied,Achievement,Sometimes,No,2,No,Somewhat,Yes,No,30,10,0,Focus on better sleep habits.
+155,Anxious,1,Poorly,Yes,Few times,Sometimes,Not satisfied,Achievement,Rarely,Yes,8,Yes,Not motivated,Yes,Maybe,55,35,40,Seek professional help if feeling overwhelmed.
+156,Neutral,9,Okay,Yes,Few times,Yes,Not satisfied,Achievement,Rarely,Yes,10,Trying,Not motivated,Somewhat,Yes,20,15,50,Focus on better sleep habits.
+157,Sad,3,Poorly,No,Daily,Sometimes,Neutral,Family/Friends,Sometimes,Sometimes,8,Trying,Somewhat,Yes,Yes,45,20,10,Consider regular exercise and mindfulness.
+158,Sad,1,Very well,Yes,Daily,No,Very satisfied,Nature/Relaxing,Daily,Sometimes,5,No,Highly motivated,No,Maybe,60,30,0,Focus on better sleep habits.
+159,Sad,3,Okay,Yes,Daily,Yes,Not satisfied,Nature/Relaxing,Sometimes,No,5,Trying,Somewhat,No,Maybe,45,20,0,Seek professional help if feeling overwhelmed.
+160,Anxious,3,Okay,Yes,Daily,Sometimes,Neutral,Achievement,Daily,Sometimes,4,No,Highly motivated,Yes,Maybe,30,20,0,Maintain a balanced diet and hydration.
+161,Neutral,8,Very well,Yes,Rarely,Sometimes,Not satisfied,Achievement,Rarely,No,9,No,Highly motivated,Yes,Maybe,30,0,35,Practice relaxation and hobbies more often.
+162,Anxious,6,Very well,Yes,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Sometimes,7,Yes,Somewhat,Somewhat,Maybe,30,20,15,Set small achievable goals for motivation.
+163,Neutral,9,Very well,No,Rarely,Sometimes,Neutral,Nature/Relaxing,Rarely,No,3,No,Somewhat,No,Yes,55,10,35,Focus on better sleep habits.
+164,Neutral,7,Poorly,Yes,Rarely,No,Very satisfied,Achievement,Daily,Yes,3,No,Not motivated,Somewhat,Yes,70,35,35,Maintain a balanced diet and hydration.
+165,Neutral,2,Okay,No,Rarely,Sometimes,Neutral,Nature/Relaxing,Rarely,Yes,2,Trying,Somewhat,Yes,Yes,30,25,35,Focus on better sleep habits.
+166,Happy,3,Okay,No,Daily,Yes,Not satisfied,Family/Friends,Rarely,No,8,Yes,Somewhat,No,Yes,35,0,10,Focus on better sleep habits.
+167,Happy,2,Very well,No,Daily,Sometimes,Very satisfied,Nature/Relaxing,Daily,Yes,1,No,Highly motivated,No,Maybe,45,25,20,Set small achievable goals for motivation.
+168,Happy,2,Okay,Yes,Daily,Sometimes,Neutral,Achievement,Sometimes,Yes,6,No,Somewhat,Yes,Yes,10,15,20,Maintain a balanced diet and hydration.
+169,Anxious,2,Poorly,No,Daily,Yes,Neutral,Nature/Relaxing,Rarely,Sometimes,8,No,Not motivated,No,Maybe,80,20,20,Focus on better sleep habits.
+170,Neutral,4,Very well,Yes,Few times,Yes,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,1,No,Somewhat,Yes,Yes,30,10,0,Maintain a balanced diet and hydration.
+171,Happy,6,Okay,Sometimes,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Rarely,No,1,Yes,Not motivated,No,Maybe,45,10,15,Consider regular exercise and mindfulness.
+172,Neutral,5,Okay,Yes,Few times,No,Not satisfied,Achievement,Daily,No,1,Trying,Not motivated,No,No,60,20,0,Talk to a trusted friend or therapist.
+173,Neutral,8,Okay,Sometimes,Daily,No,Very satisfied,Family/Friends,Rarely,No,5,Yes,Highly motivated,No,No,30,10,30,Seek professional help if feeling overwhelmed.
+174,Anxious,6,Very well,No,Rarely,Sometimes,Not satisfied,Family/Friends,Daily,Yes,5,Yes,Not motivated,No,Maybe,75,35,25,Consider regular exercise and mindfulness.
+175,Anxious,6,Poorly,Yes,Few times,Sometimes,Not satisfied,Family/Friends,Rarely,Yes,9,No,Highly motivated,Yes,Maybe,55,35,40,Set small achievable goals for motivation.
+176,Anxious,4,Okay,Yes,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,No,9,Trying,Not motivated,Somewhat,Maybe,30,20,0,Focus on better sleep habits.
+177,Neutral,1,Poorly,No,Rarely,Sometimes,Neutral,Nature/Relaxing,Daily,Yes,7,Trying,Somewhat,Somewhat,No,35,15,35,Seek professional help if feeling overwhelmed.
+178,Anxious,9,Poorly,Sometimes,Few times,Sometimes,Neutral,Achievement,Daily,No,5,Yes,Somewhat,Yes,Yes,35,20,30,Practice relaxation and hobbies more often.
+179,Sad,2,Very well,Yes,Rarely,No,Neutral,Nature/Relaxing,Sometimes,No,6,Yes,Somewhat,Somewhat,No,45,30,5,Practice relaxation and hobbies more often.
+180,Happy,9,Very well,No,Rarely,Yes,Neutral,Achievement,Daily,No,1,No,Not motivated,No,No,65,10,25,Talk to a trusted friend or therapist.
+181,Happy,8,Okay,No,Rarely,No,Neutral,Achievement,Sometimes,No,1,Trying,Not motivated,Yes,Maybe,55,20,25,Maintain a balanced diet and hydration.
+182,Anxious,8,Okay,Sometimes,Rarely,No,Neutral,Nature/Relaxing,Rarely,Yes,2,No,Highly motivated,No,Maybe,80,55,55,Practice relaxation and hobbies more often.
+183,Neutral,5,Very well,Yes,Rarely,Yes,Not satisfied,Nature/Relaxing,Sometimes,Yes,6,Trying,Somewhat,Somewhat,Yes,20,15,25,Practice relaxation and hobbies more often.
+184,Sad,5,Okay,No,Few times,Sometimes,Not satisfied,Family/Friends,Rarely,No,2,Yes,Not motivated,Somewhat,Maybe,60,30,10,Increase social interactions or join groups.
+185,Anxious,9,Very well,Sometimes,Few times,No,Neutral,Achievement,Sometimes,No,9,Trying,Somewhat,Somewhat,Yes,35,30,20,Talk to a trusted friend or therapist.
+186,Anxious,5,Poorly,Sometimes,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,Yes,2,Trying,Not motivated,No,No,80,45,45,Focus on better sleep habits.
+187,Anxious,9,Very well,Sometimes,Rarely,Yes,Not satisfied,Nature/Relaxing,Rarely,No,6,No,Somewhat,Somewhat,Maybe,50,20,35,Consider regular exercise and mindfulness.
+188,Happy,4,Poorly,No,Rarely,Yes,Very satisfied,Nature/Relaxing,Rarely,Yes,10,Trying,Not motivated,Somewhat,Yes,45,15,45,Focus on better sleep habits.
+189,Sad,4,Poorly,No,Few times,Sometimes,Neutral,Family/Friends,Sometimes,Sometimes,7,No,Highly motivated,No,No,70,20,10,Set small achievable goals for motivation.
+190,Anxious,3,Okay,Sometimes,Rarely,Sometimes,Very satisfied,Family/Friends,Sometimes,Sometimes,9,Yes,Somewhat,Yes,No,30,20,5,Consider regular exercise and mindfulness.
+191,Happy,4,Okay,No,Few times,No,Very satisfied,Family/Friends,Sometimes,Sometimes,4,Trying,Not motivated,Yes,Yes,35,10,0,Consider regular exercise and mindfulness.
+192,Anxious,9,Very well,Sometimes,Daily,Sometimes,Neutral,Nature/Relaxing,Daily,Sometimes,7,No,Highly motivated,Somewhat,Yes,30,20,20,Focus on better sleep habits.
+193,Sad,3,Very well,Sometimes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,No,9,Trying,Highly motivated,Yes,Yes,30,20,0,Talk to a trusted friend or therapist.
+194,Anxious,3,Poorly,No,Rarely,No,Neutral,Family/Friends,Sometimes,Yes,5,Yes,Somewhat,Yes,Maybe,70,45,35,Practice relaxation and hobbies more often.
+195,Sad,6,Okay,Yes,Daily,Sometimes,Very satisfied,Achievement,Rarely,Sometimes,4,Trying,Not motivated,Somewhat,No,30,20,10,Consider regular exercise and mindfulness.
+196,Sad,3,Poorly,Sometimes,Daily,Yes,Very satisfied,Family/Friends,Daily,Yes,10,Yes,Somewhat,Somewhat,Maybe,35,35,30,Increase social interactions or join groups.
+197,Anxious,9,Very well,No,Daily,No,Neutral,Family/Friends,Rarely,Yes,5,Yes,Somewhat,Somewhat,No,45,45,50,Focus on better sleep habits.
+198,Sad,6,Poorly,Sometimes,Rarely,Sometimes,Very satisfied,Achievement,Sometimes,Yes,4,Trying,Somewhat,No,Yes,60,35,35,Consider regular exercise and mindfulness.
+199,Neutral,5,Okay,Yes,Rarely,Yes,Neutral,Family/Friends,Daily,Sometimes,6,Trying,Somewhat,Somewhat,Maybe,10,0,5,Consider regular exercise and mindfulness.
+200,Anxious,1,Okay,Yes,Rarely,No,Neutral,Achievement,Daily,No,4,Trying,Not motivated,Yes,Maybe,55,30,5,Talk to a trusted friend or therapist.
+201,Anxious,10,Okay,No,Rarely,Yes,Neutral,Nature/Relaxing,Daily,Sometimes,1,No,Not motivated,Yes,Maybe,70,30,25,Practice relaxation and hobbies more often.
+202,Neutral,5,Okay,No,Few times,No,Neutral,Family/Friends,Sometimes,Sometimes,10,Trying,Highly motivated,Somewhat,Yes,25,10,0,Practice relaxation and hobbies more often.
+203,Sad,4,Very well,Sometimes,Few times,Yes,Neutral,Nature/Relaxing,Sometimes,Yes,8,No,Highly motivated,Somewhat,No,30,35,20,Focus on better sleep habits.
+204,Neutral,7,Very well,No,Rarely,Sometimes,Neutral,Achievement,Rarely,Yes,10,Trying,Not motivated,Somewhat,Yes,30,15,35,Maintain a balanced diet and hydration.
+205,Sad,10,Poorly,Yes,Few times,Yes,Very satisfied,Family/Friends,Rarely,Sometimes,3,Yes,Highly motivated,No,Yes,60,30,40,Set small achievable goals for motivation.
+206,Anxious,8,Okay,No,Daily,No,Not satisfied,Nature/Relaxing,Daily,Sometimes,7,Yes,Highly motivated,No,No,70,30,20,Increase social interactions or join groups.
+207,Anxious,7,Okay,Yes,Daily,Yes,Neutral,Achievement,Rarely,Yes,8,No,Highly motivated,Yes,Yes,30,35,30,Practice relaxation and hobbies more often.
+208,Anxious,10,Poorly,Yes,Daily,Sometimes,Very satisfied,Family/Friends,Daily,No,1,No,Highly motivated,No,Yes,70,30,30,Talk to a trusted friend or therapist.
+209,Sad,2,Poorly,Sometimes,Rarely,Sometimes,Neutral,Achievement,Rarely,Yes,5,No,Somewhat,Yes,No,55,35,45,Maintain a balanced diet and hydration.
+210,Happy,2,Very well,No,Daily,No,Not satisfied,Family/Friends,Daily,Yes,5,Yes,Not motivated,Yes,Maybe,45,25,20,Set small achievable goals for motivation.
+211,Anxious,4,Poorly,Sometimes,Few times,Yes,Not satisfied,Family/Friends,Daily,Yes,8,Yes,Somewhat,Yes,Yes,45,35,30,Maintain a balanced diet and hydration.
+212,Anxious,2,Okay,Yes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Daily,Yes,2,Trying,Not motivated,Somewhat,Maybe,40,45,20,Set small achievable goals for motivation.
+213,Neutral,5,Poorly,Yes,Daily,No,Not satisfied,Family/Friends,Daily,Sometimes,1,Trying,Not motivated,No,Maybe,75,20,10,Seek professional help if feeling overwhelmed.
+214,Anxious,4,Poorly,No,Daily,Sometimes,Not satisfied,Family/Friends,Sometimes,Yes,1,No,Not motivated,Yes,No,85,45,30,Focus on better sleep habits.
+215,Sad,2,Okay,Yes,Rarely,Yes,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,8,Trying,Not motivated,No,Yes,65,20,5,Talk to a trusted friend or therapist.
+216,Anxious,5,Okay,No,Rarely,No,Very satisfied,Nature/Relaxing,Sometimes,No,5,No,Not motivated,Somewhat,Yes,75,30,5,Practice relaxation and hobbies more often.
+217,Sad,2,Okay,No,Few times,No,Neutral,Family/Friends,Daily,Sometimes,9,Yes,Somewhat,No,Maybe,60,30,0,Maintain a balanced diet and hydration.
+218,Happy,1,Very well,No,Daily,No,Neutral,Nature/Relaxing,Sometimes,Yes,5,Yes,Somewhat,No,Maybe,40,25,20,Practice relaxation and hobbies more often.
+219,Neutral,1,Okay,Sometimes,Daily,No,Neutral,Family/Friends,Rarely,No,6,No,Not motivated,No,Maybe,50,10,10,Talk to a trusted friend or therapist.
+220,Neutral,10,Poorly,Sometimes,Few times,Sometimes,Neutral,Family/Friends,Daily,Yes,1,Trying,Not motivated,Yes,No,35,25,50,Increase social interactions or join groups.
+221,Neutral,2,Poorly,No,Daily,No,Very satisfied,Achievement,Daily,Sometimes,7,Yes,Not motivated,No,No,65,10,10,Maintain a balanced diet and hydration.
+222,Sad,10,Okay,Sometimes,Rarely,No,Neutral,Family/Friends,Rarely,Sometimes,10,Trying,Highly motivated,Yes,No,45,30,35,Talk to a trusted friend or therapist.
+223,Anxious,3,Very well,No,Rarely,No,Not satisfied,Achievement,Rarely,Sometimes,9,Trying,Somewhat,No,Maybe,80,30,15,Talk to a trusted friend or therapist.
+224,Sad,10,Poorly,Yes,Daily,Sometimes,Very satisfied,Achievement,Rarely,No,5,Trying,Highly motivated,Yes,Maybe,35,20,40,Increase social interactions or join groups.
+225,Happy,3,Poorly,Sometimes,Few times,No,Not satisfied,Family/Friends,Sometimes,Sometimes,8,No,Highly motivated,Somewhat,Maybe,50,10,10,Talk to a trusted friend or therapist.
+226,Anxious,10,Very well,Yes,Rarely,No,Not satisfied,Family/Friends,Sometimes,Yes,7,No,Highly motivated,Yes,Maybe,65,45,45,Seek professional help if feeling overwhelmed.
+227,Neutral,4,Very well,Sometimes,Rarely,Yes,Not satisfied,Nature/Relaxing,Daily,Yes,2,No,Somewhat,Somewhat,No,40,25,25,Increase social interactions or join groups.
+228,Anxious,4,Very well,No,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,No,2,Trying,Somewhat,Yes,Maybe,40,30,0,Practice relaxation and hobbies more often.
+229,Happy,4,Very well,Sometimes,Daily,Sometimes,Not satisfied,Nature/Relaxing,Rarely,Yes,6,Trying,Highly motivated,Somewhat,Yes,10,15,30,Consider regular exercise and mindfulness.
+230,Happy,4,Okay,Sometimes,Rarely,No,Very satisfied,Nature/Relaxing,Daily,Sometimes,5,Yes,Somewhat,Somewhat,No,25,10,5,Focus on better sleep habits.
+231,Neutral,1,Very well,No,Few times,No,Very satisfied,Family/Friends,Daily,Yes,2,Trying,Somewhat,Yes,Yes,35,35,20,Seek professional help if feeling overwhelmed.
+232,Anxious,3,Very well,Yes,Rarely,Sometimes,Not satisfied,Achievement,Rarely,Sometimes,8,No,Not motivated,Somewhat,Maybe,60,20,15,Set small achievable goals for motivation.
+233,Anxious,4,Okay,Sometimes,Daily,Sometimes,Very satisfied,Achievement,Daily,Sometimes,6,Trying,Somewhat,No,No,35,20,0,Set small achievable goals for motivation.
+234,Sad,3,Okay,No,Rarely,Yes,Very satisfied,Nature/Relaxing,Daily,Yes,9,Trying,Highly motivated,Yes,No,40,35,25,Increase social interactions or join groups.
+235,Neutral,1,Very well,Sometimes,Few times,Yes,Neutral,Nature/Relaxing,Rarely,Sometimes,4,Yes,Somewhat,Yes,Maybe,0,0,10,Increase social interactions or join groups.
+236,Neutral,8,Okay,No,Rarely,No,Not satisfied,Family/Friends,Rarely,Yes,5,No,Somewhat,No,No,70,25,55,Increase social interactions or join groups.
+237,Happy,7,Okay,Yes,Daily,Sometimes,Not satisfied,Family/Friends,Rarely,No,3,No,Highly motivated,No,Yes,45,10,10,Maintain a balanced diet and hydration.
+238,Happy,3,Very well,Yes,Rarely,Sometimes,Neutral,Nature/Relaxing,Daily,Yes,4,Yes,Highly motivated,Yes,Yes,10,15,25,Consider regular exercise and mindfulness.
+239,Happy,4,Poorly,Yes,Daily,No,Very satisfied,Family/Friends,Sometimes,Sometimes,10,Trying,Somewhat,Somewhat,Maybe,30,10,10,Focus on better sleep habits.
+240,Anxious,10,Okay,Sometimes,Few times,No,Neutral,Nature/Relaxing,Rarely,Yes,4,Yes,Highly motivated,No,Maybe,50,45,50,Consider regular exercise and mindfulness.
+241,Anxious,8,Very well,No,Rarely,Sometimes,Not satisfied,Achievement,Rarely,No,5,Yes,Somewhat,Somewhat,No,50,20,35,Consider regular exercise and mindfulness.
+242,Happy,7,Very well,No,Rarely,Sometimes,Not satisfied,Achievement,Daily,No,2,Trying,Highly motivated,No,Yes,55,10,5,Talk to a trusted friend or therapist.
+243,Neutral,10,Very well,Yes,Few times,No,Neutral,Family/Friends,Rarely,No,2,No,Somewhat,Yes,Yes,35,20,30,Increase social interactions or join groups.
+244,Happy,8,Very well,Sometimes,Few times,No,Neutral,Nature/Relaxing,Daily,No,3,Yes,Highly motivated,No,Maybe,40,20,20,Seek professional help if feeling overwhelmed.
+245,Happy,3,Very well,No,Rarely,No,Very satisfied,Nature/Relaxing,Rarely,Sometimes,10,Yes,Somewhat,No,Yes,50,10,15,Focus on better sleep habits.
+246,Neutral,3,Poorly,No,Rarely,Sometimes,Very satisfied,Achievement,Rarely,Sometimes,10,No,Highly motivated,No,Maybe,60,0,25,Practice relaxation and hobbies more often.
+247,Neutral,5,Poorly,Sometimes,Rarely,Yes,Very satisfied,Achievement,Sometimes,Yes,5,Trying,Highly motivated,No,Maybe,40,15,35,Seek professional help if feeling overwhelmed.
+248,Anxious,1,Okay,Yes,Rarely,No,Neutral,Family/Friends,Daily,Yes,10,Yes,Highly motivated,Yes,Maybe,45,45,25,Set small achievable goals for motivation.
+249,Anxious,5,Poorly,Yes,Daily,No,Not satisfied,Achievement,Sometimes,Sometimes,9,No,Not motivated,Yes,Yes,80,30,10,Maintain a balanced diet and hydration.
+250,Sad,5,Poorly,Yes,Few times,Sometimes,Not satisfied,Achievement,Daily,Sometimes,4,Yes,Highly motivated,Somewhat,Maybe,45,20,10,Practice relaxation and hobbies more often.
+251,Happy,10,Very well,Yes,Daily,Yes,Not satisfied,Family/Friends,Sometimes,No,8,Trying,Highly motivated,Somewhat,Yes,10,0,20,Set small achievable goals for motivation.
+252,Neutral,7,Very well,No,Rarely,No,Very satisfied,Family/Friends,Daily,No,8,Yes,Somewhat,Yes,No,35,10,5,Talk to a trusted friend or therapist.
+253,Happy,3,Poorly,No,Rarely,Sometimes,Very satisfied,Family/Friends,Sometimes,Sometimes,4,No,Highly motivated,Somewhat,Yes,45,0,15,Seek professional help if feeling overwhelmed.
+254,Anxious,2,Poorly,No,Daily,No,Neutral,Achievement,Sometimes,Sometimes,3,No,Not motivated,No,Yes,100,40,10,Seek professional help if feeling overwhelmed.
+255,Sad,3,Very well,Yes,Few times,Yes,Very satisfied,Family/Friends,Sometimes,Sometimes,9,Yes,Somewhat,No,Maybe,35,20,0,Consider regular exercise and mindfulness.
+256,Happy,4,Very well,Sometimes,Few times,Yes,Very satisfied,Family/Friends,Sometimes,No,8,Yes,Somewhat,Somewhat,Yes,0,0,0,Focus on better sleep habits.
+257,Sad,2,Very well,Yes,Rarely,Sometimes,Neutral,Nature/Relaxing,Rarely,Sometimes,7,Trying,Not motivated,No,No,55,20,15,Set small achievable goals for motivation.
+258,Neutral,6,Poorly,No,Daily,Yes,Not satisfied,Nature/Relaxing,Rarely,Yes,1,Trying,Somewhat,Yes,Maybe,45,25,40,Increase social interactions or join groups.
+259,Sad,2,Okay,No,Daily,Yes,Not satisfied,Family/Friends,Sometimes,No,7,Trying,Not motivated,No,Yes,65,20,0,Set small achievable goals for motivation.
+260,Neutral,9,Poorly,No,Few times,Sometimes,Not satisfied,Family/Friends,Sometimes,Sometimes,5,No,Somewhat,Yes,Yes,45,0,30,Consider regular exercise and mindfulness.
+261,Happy,6,Poorly,Sometimes,Rarely,No,Not satisfied,Family/Friends,Sometimes,Yes,4,No,Somewhat,Yes,No,60,25,35,Increase social interactions or join groups.
+262,Happy,10,Very well,No,Rarely,Yes,Neutral,Nature/Relaxing,Rarely,No,3,Yes,Not motivated,Yes,Maybe,40,10,35,Focus on better sleep habits.
+263,Sad,7,Poorly,Sometimes,Daily,Yes,Very satisfied,Nature/Relaxing,Daily,No,7,Yes,Highly motivated,Yes,Yes,35,20,10,Focus on better sleep habits.
+264,Happy,7,Poorly,No,Few times,Yes,Not satisfied,Nature/Relaxing,Rarely,Sometimes,5,Trying,Somewhat,No,Yes,50,0,20,Maintain a balanced diet and hydration.
+265,Neutral,1,Okay,Yes,Daily,Sometimes,Very satisfied,Achievement,Sometimes,Yes,9,Yes,Highly motivated,Yes,No,0,15,20,Set small achievable goals for motivation.
+266,Anxious,9,Very well,No,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,Yes,3,No,Somewhat,Somewhat,Yes,50,45,40,Consider regular exercise and mindfulness.
+267,Sad,6,Very well,Sometimes,Daily,No,Neutral,Achievement,Rarely,No,2,Trying,Not motivated,No,Maybe,70,40,10,Focus on better sleep habits.
+268,Neutral,3,Very well,No,Rarely,No,Neutral,Nature/Relaxing,Rarely,No,4,No,Highly motivated,Somewhat,Yes,45,10,15,Seek professional help if feeling overwhelmed.
+269,Sad,7,Poorly,No,Rarely,No,Neutral,Nature/Relaxing,Rarely,Sometimes,9,Yes,Not motivated,Somewhat,No,80,30,25,Increase social interactions or join groups.
+270,Sad,7,Okay,Sometimes,Few times,Sometimes,Neutral,Family/Friends,Rarely,Sometimes,3,Yes,Highly motivated,No,Yes,45,30,10,Focus on better sleep habits.
+271,Anxious,9,Very well,Sometimes,Few times,No,Neutral,Achievement,Daily,No,4,Yes,Somewhat,Yes,No,35,30,20,Focus on better sleep habits.
+272,Neutral,4,Poorly,No,Rarely,No,Neutral,Family/Friends,Rarely,Sometimes,5,No,Not motivated,No,Yes,85,10,25,Maintain a balanced diet and hydration.
+273,Anxious,7,Poorly,No,Daily,No,Not satisfied,Family/Friends,Rarely,No,9,Yes,Not motivated,Somewhat,Yes,80,30,20,Set small achievable goals for motivation.
+274,Anxious,6,Very well,Sometimes,Few times,Yes,Neutral,Achievement,Daily,Yes,4,Yes,Not motivated,No,No,45,35,20,Set small achievable goals for motivation.
+275,Neutral,3,Poorly,No,Daily,Yes,Very satisfied,Nature/Relaxing,Daily,Yes,7,No,Somewhat,Yes,No,35,15,30,Consider regular exercise and mindfulness.
+276,Happy,8,Very well,No,Daily,Yes,Neutral,Achievement,Rarely,Yes,4,No,Somewhat,Somewhat,Maybe,20,15,50,Practice relaxation and hobbies more often.
+277,Anxious,10,Poorly,Sometimes,Rarely,Sometimes,Neutral,Nature/Relaxing,Sometimes,No,7,No,Somewhat,No,Yes,70,20,35,Set small achievable goals for motivation.
+278,Anxious,4,Very well,No,Rarely,Sometimes,Neutral,Achievement,Daily,Yes,1,Trying,Not motivated,Yes,Yes,60,45,25,Increase social interactions or join groups.
+279,Happy,3,Very well,Sometimes,Rarely,Sometimes,Not satisfied,Family/Friends,Sometimes,Yes,8,Yes,Highly motivated,No,Yes,35,15,25,Consider regular exercise and mindfulness.
+280,Sad,5,Okay,Yes,Few times,No,Very satisfied,Achievement,Daily,No,8,Yes,Not motivated,Somewhat,Maybe,45,30,0,Talk to a trusted friend or therapist.
+281,Sad,7,Poorly,Yes,Rarely,Yes,Very satisfied,Family/Friends,Sometimes,No,2,Trying,Somewhat,Somewhat,Yes,55,30,15,Set small achievable goals for motivation.
+282,Anxious,7,Poorly,Yes,Rarely,Yes,Very satisfied,Family/Friends,Daily,No,9,No,Highly motivated,Yes,No,55,20,15,Consider regular exercise and mindfulness.
+283,Happy,1,Very well,Yes,Rarely,No,Very satisfied,Nature/Relaxing,Sometimes,Sometimes,7,Trying,Somewhat,Somewhat,No,25,10,5,Set small achievable goals for motivation.
+284,Neutral,2,Very well,Yes,Rarely,No,Very satisfied,Nature/Relaxing,Sometimes,Yes,4,No,Somewhat,Yes,Maybe,35,25,25,Focus on better sleep habits.
+285,Sad,2,Okay,Sometimes,Daily,No,Not satisfied,Nature/Relaxing,Sometimes,No,8,Yes,Somewhat,No,No,60,30,0,Set small achievable goals for motivation.
+286,Anxious,3,Poorly,No,Daily,Sometimes,Not satisfied,Achievement,Rarely,No,4,No,Not motivated,Somewhat,Yes,75,20,20,Set small achievable goals for motivation.
+287,Anxious,9,Okay,Yes,Daily,Sometimes,Not satisfied,Achievement,Rarely,Sometimes,8,Trying,Highly motivated,Somewhat,Yes,30,20,30,Practice relaxation and hobbies more often.
+288,Anxious,9,Very well,Sometimes,Daily,Sometimes,Neutral,Family/Friends,Rarely,No,10,Trying,Somewhat,No,Yes,35,20,30,Talk to a trusted friend or therapist.
+289,Neutral,10,Very well,No,Rarely,No,Very satisfied,Achievement,Daily,Sometimes,3,Trying,Not motivated,Somewhat,Yes,55,20,25,Set small achievable goals for motivation.
+290,Sad,7,Very well,Yes,Rarely,Yes,Neutral,Family/Friends,Sometimes,No,8,No,Not motivated,Yes,Maybe,50,20,5,Maintain a balanced diet and hydration.
+291,Anxious,3,Very well,Yes,Few times,Yes,Neutral,Family/Friends,Sometimes,Sometimes,2,Trying,Somewhat,No,No,45,30,0,Seek professional help if feeling overwhelmed.
+292,Sad,3,Poorly,Sometimes,Rarely,Sometimes,Neutral,Nature/Relaxing,Daily,Sometimes,6,Yes,Not motivated,Somewhat,No,55,20,15,Talk to a trusted friend or therapist.
+293,Neutral,3,Poorly,Yes,Rarely,Yes,Neutral,Nature/Relaxing,Rarely,Yes,9,Yes,Not motivated,Yes,Maybe,35,15,45,Practice relaxation and hobbies more often.
+294,Sad,6,Poorly,Sometimes,Daily,Sometimes,Neutral,Achievement,Rarely,Yes,4,Yes,Not motivated,Yes,Maybe,45,35,40,Focus on better sleep habits.
+295,Anxious,2,Okay,No,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,7,No,Highly motivated,Yes,No,60,20,5,Consider regular exercise and mindfulness.
+296,Neutral,7,Very well,No,Rarely,Yes,Very satisfied,Nature/Relaxing,Rarely,Yes,9,Trying,Somewhat,No,Yes,35,15,35,Practice relaxation and hobbies more often.
+297,Sad,1,Poorly,Yes,Daily,No,Very satisfied,Nature/Relaxing,Rarely,Sometimes,3,No,Not motivated,Somewhat,Maybe,80,40,20,Maintain a balanced diet and hydration.
+298,Happy,1,Poorly,Sometimes,Few times,No,Neutral,Nature/Relaxing,Sometimes,Yes,8,Trying,Highly motivated,No,No,45,25,30,Maintain a balanced diet and hydration.
+299,Neutral,5,Very well,No,Daily,No,Very satisfied,Nature/Relaxing,Rarely,Yes,5,No,Somewhat,Yes,No,35,25,30,Set small achievable goals for motivation.
+300,Neutral,1,Very well,Yes,Rarely,Yes,Very satisfied,Nature/Relaxing,Sometimes,No,6,Yes,Somewhat,Yes,Maybe,10,0,5,Seek professional help if feeling overwhelmed.
+301,Anxious,2,Poorly,No,Daily,Sometimes,Neutral,Achievement,Daily,Yes,8,Trying,Highly motivated,Yes,Maybe,45,35,30,Talk to a trusted friend or therapist.
+302,Sad,2,Very well,No,Daily,Yes,Not satisfied,Achievement,Sometimes,Yes,10,No,Not motivated,Yes,Maybe,60,35,20,Consider regular exercise and mindfulness.
+303,Happy,10,Very well,No,Rarely,Sometimes,Very satisfied,Achievement,Daily,Sometimes,6,Yes,Not motivated,Somewhat,No,30,0,25,Practice relaxation and hobbies more often.
+304,Happy,3,Okay,Yes,Few times,No,Very satisfied,Family/Friends,Rarely,Sometimes,1,No,Somewhat,No,Yes,50,20,10,Seek professional help if feeling overwhelmed.
+305,Happy,5,Very well,No,Daily,Yes,Neutral,Nature/Relaxing,Rarely,No,9,Yes,Not motivated,Somewhat,Yes,20,0,10,Consider regular exercise and mindfulness.
+306,Sad,10,Very well,No,Rarely,Sometimes,Very satisfied,Achievement,Daily,No,5,No,Not motivated,Somewhat,Maybe,60,20,25,Increase social interactions or join groups.
+307,Sad,8,Okay,Sometimes,Rarely,No,Very satisfied,Achievement,Rarely,No,3,Yes,Highly motivated,Somewhat,Yes,55,40,35,Seek professional help if feeling overwhelmed.
+308,Anxious,4,Okay,Yes,Few times,Yes,Very satisfied,Family/Friends,Sometimes,Yes,2,Yes,Somewhat,Somewhat,Yes,30,45,20,Maintain a balanced diet and hydration.
+309,Neutral,4,Very well,Yes,Rarely,Yes,Very satisfied,Family/Friends,Rarely,Sometimes,5,Trying,Highly motivated,Yes,Maybe,10,0,15,Maintain a balanced diet and hydration.
+310,Sad,5,Okay,No,Rarely,No,Very satisfied,Family/Friends,Rarely,Yes,9,No,Highly motivated,Yes,Yes,65,45,35,Practice relaxation and hobbies more often.
+311,Anxious,5,Poorly,No,Daily,No,Neutral,Family/Friends,Daily,Yes,10,Trying,Not motivated,Somewhat,Yes,70,45,30,Focus on better sleep habits.
+312,Neutral,3,Okay,Yes,Few times,Sometimes,Not satisfied,Achievement,Daily,Yes,1,No,Highly motivated,Yes,Maybe,30,25,20,Talk to a trusted friend or therapist.
+313,Anxious,9,Okay,No,Few times,No,Neutral,Achievement,Rarely,Yes,10,No,Not motivated,Yes,Yes,65,45,50,Consider regular exercise and mindfulness.
+314,Anxious,5,Okay,Sometimes,Rarely,No,Very satisfied,Family/Friends,Sometimes,Sometimes,4,Yes,Not motivated,No,Maybe,70,30,5,Consider regular exercise and mindfulness.
+315,Sad,3,Okay,No,Daily,Sometimes,Very satisfied,Family/Friends,Daily,Sometimes,7,Trying,Somewhat,Yes,Yes,30,20,0,Seek professional help if feeling overwhelmed.
+316,Happy,10,Poorly,Sometimes,Few times,No,Not satisfied,Nature/Relaxing,Rarely,Yes,5,No,Somewhat,No,Maybe,65,25,60,Practice relaxation and hobbies more often.
+317,Happy,3,Very well,Yes,Daily,Yes,Not satisfied,Family/Friends,Sometimes,Sometimes,4,No,Highly motivated,Somewhat,No,20,0,0,Practice relaxation and hobbies more often.
+318,Neutral,7,Very well,Sometimes,Daily,No,Very satisfied,Family/Friends,Sometimes,Yes,4,No,Not motivated,No,Yes,50,25,20,Increase social interactions or join groups.
+319,Anxious,8,Okay,Yes,Rarely,No,Very satisfied,Achievement,Rarely,Yes,1,Yes,Not motivated,Somewhat,Maybe,65,55,55,Focus on better sleep habits.
+320,Happy,1,Very well,Sometimes,Daily,Yes,Not satisfied,Achievement,Rarely,Sometimes,7,No,Somewhat,No,Yes,35,0,10,Focus on better sleep habits.
+321,Anxious,5,Poorly,Sometimes,Few times,No,Very satisfied,Family/Friends,Sometimes,Sometimes,1,Yes,Highly motivated,Yes,Maybe,60,40,10,Maintain a balanced diet and hydration.
+322,Happy,5,Poorly,Sometimes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Yes,2,Yes,Not motivated,No,Maybe,50,25,40,Increase social interactions or join groups.
+323,Neutral,2,Okay,Yes,Rarely,No,Very satisfied,Nature/Relaxing,Rarely,No,3,Trying,Not motivated,No,No,60,20,15,Increase social interactions or join groups.
+324,Happy,10,Poorly,Yes,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,Sometimes,7,No,Somewhat,No,Maybe,40,0,40,Set small achievable goals for motivation.
+325,Sad,1,Okay,Yes,Rarely,Sometimes,Not satisfied,Family/Friends,Daily,Sometimes,6,No,Highly motivated,No,Maybe,65,20,5,Maintain a balanced diet and hydration.
+326,Neutral,4,Very well,Sometimes,Daily,Sometimes,Very satisfied,Achievement,Rarely,Yes,5,Yes,Not motivated,No,No,25,15,30,Focus on better sleep habits.
+327,Neutral,10,Poorly,Sometimes,Daily,Sometimes,Neutral,Family/Friends,Daily,No,5,Trying,Somewhat,Yes,Maybe,15,0,30,Talk to a trusted friend or therapist.
+328,Sad,4,Very well,No,Daily,Yes,Very satisfied,Achievement,Sometimes,Sometimes,4,Trying,Highly motivated,Yes,Maybe,30,20,0,Seek professional help if feeling overwhelmed.
+329,Anxious,8,Poorly,No,Rarely,No,Neutral,Achievement,Daily,No,1,Trying,Not motivated,Somewhat,Yes,90,40,35,Seek professional help if feeling overwhelmed.
+330,Anxious,2,Poorly,No,Few times,No,Very satisfied,Family/Friends,Sometimes,Sometimes,8,No,Somewhat,Yes,Yes,70,30,10,Increase social interactions or join groups.
+331,Sad,7,Okay,No,Rarely,No,Neutral,Nature/Relaxing,Sometimes,No,6,No,Somewhat,No,Maybe,80,30,5,Seek professional help if feeling overwhelmed.
+332,Anxious,8,Very well,Sometimes,Rarely,Yes,Neutral,Achievement,Daily,No,4,Yes,Not motivated,Somewhat,Yes,40,20,25,Focus on better sleep habits.
+333,Anxious,3,Very well,Sometimes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Rarely,No,7,Yes,Not motivated,Yes,No,40,20,10,Practice relaxation and hobbies more often.
+334,Neutral,7,Okay,Sometimes,Few times,Sometimes,Very satisfied,Family/Friends,Rarely,No,2,No,Somewhat,Somewhat,No,20,10,10,Seek professional help if feeling overwhelmed.
+335,Sad,6,Very well,Yes,Few times,Sometimes,Neutral,Achievement,Daily,Yes,8,No,Somewhat,No,Yes,45,35,20,Set small achievable goals for motivation.
+336,Anxious,7,Poorly,Yes,Rarely,No,Not satisfied,Achievement,Sometimes,Yes,4,No,Not motivated,No,Maybe,100,45,35,Seek professional help if feeling overwhelmed.
+337,Anxious,5,Poorly,No,Few times,No,Very satisfied,Achievement,Sometimes,Sometimes,10,Yes,Somewhat,Yes,Yes,60,30,10,Seek professional help if feeling overwhelmed.
+338,Happy,8,Very well,Sometimes,Few times,Sometimes,Not satisfied,Achievement,Rarely,No,6,Trying,Highly motivated,No,No,25,0,30,Focus on better sleep habits.
+339,Sad,5,Very well,Yes,Few times,No,Very satisfied,Achievement,Daily,Sometimes,2,No,Somewhat,Yes,No,55,40,0,Set small achievable goals for motivation.
+340,Neutral,1,Very well,Sometimes,Rarely,No,Neutral,Family/Friends,Sometimes,No,2,Yes,Somewhat,Yes,No,35,20,5,Seek professional help if feeling overwhelmed.
+341,Sad,8,Very well,No,Rarely,No,Very satisfied,Family/Friends,Daily,Yes,2,Trying,Not motivated,Somewhat,Yes,75,55,45,Seek professional help if feeling overwhelmed.
+342,Sad,7,Okay,No,Few times,No,Neutral,Nature/Relaxing,Rarely,No,1,Yes,Not motivated,No,No,80,40,10,Consider regular exercise and mindfulness.
+343,Neutral,5,Okay,No,Daily,No,Not satisfied,Family/Friends,Rarely,Sometimes,10,No,Somewhat,Somewhat,No,45,10,10,Increase social interactions or join groups.
+344,Happy,1,Poorly,Yes,Rarely,Sometimes,Not satisfied,Family/Friends,Sometimes,No,2,No,Not motivated,Somewhat,No,65,10,15,Seek professional help if feeling overwhelmed.
+345,Sad,3,Poorly,Yes,Daily,No,Very satisfied,Achievement,Daily,No,4,Trying,Not motivated,Somewhat,Maybe,60,30,10,Focus on better sleep habits.
+346,Anxious,1,Very well,Sometimes,Few times,No,Not satisfied,Nature/Relaxing,Rarely,Sometimes,5,No,Highly motivated,Yes,No,55,30,10,Seek professional help if feeling overwhelmed.
+347,Sad,6,Okay,No,Few times,No,Not satisfied,Achievement,Rarely,No,9,Yes,Not motivated,Somewhat,Maybe,65,30,10,Set small achievable goals for motivation.
+348,Anxious,10,Poorly,No,Rarely,Yes,Not satisfied,Nature/Relaxing,Rarely,No,4,No,Highly motivated,Yes,No,75,20,45,Consider regular exercise and mindfulness.
+349,Anxious,4,Okay,Yes,Daily,Yes,Neutral,Achievement,Rarely,Sometimes,6,No,Somewhat,Somewhat,No,30,20,10,Increase social interactions or join groups.
+350,Anxious,8,Poorly,Yes,Daily,Yes,Not satisfied,Achievement,Rarely,Yes,2,Yes,Highly motivated,No,No,70,45,60,Talk to a trusted friend or therapist.
+351,Happy,9,Poorly,Yes,Rarely,No,Not satisfied,Family/Friends,Sometimes,Sometimes,1,Yes,Not motivated,No,Maybe,85,20,35,Increase social interactions or join groups.
+352,Sad,7,Okay,Yes,Few times,No,Very satisfied,Family/Friends,Rarely,No,2,No,Not motivated,Yes,Maybe,65,40,10,Practice relaxation and hobbies more often.
+353,Neutral,6,Very well,No,Rarely,No,Neutral,Achievement,Rarely,Yes,1,No,Somewhat,Somewhat,Maybe,55,35,35,Seek professional help if feeling overwhelmed.
+354,Sad,4,Okay,No,Rarely,No,Neutral,Nature/Relaxing,Rarely,Yes,7,Trying,Somewhat,No,Maybe,70,45,35,Set small achievable goals for motivation.
+355,Neutral,4,Very well,No,Rarely,Sometimes,Neutral,Family/Friends,Rarely,No,2,No,Somewhat,No,Yes,55,10,15,Maintain a balanced diet and hydration.
+356,Anxious,7,Okay,Sometimes,Daily,Sometimes,Neutral,Achievement,Daily,Sometimes,10,Yes,Highly motivated,No,Maybe,35,20,0,Increase social interactions or join groups.
+357,Happy,9,Okay,Yes,Daily,No,Very satisfied,Achievement,Rarely,Yes,9,No,Highly motivated,Somewhat,Yes,25,25,50,Set small achievable goals for motivation.
+358,Happy,6,Poorly,No,Daily,Sometimes,Not satisfied,Family/Friends,Sometimes,Yes,5,No,Somewhat,No,Maybe,60,15,30,Practice relaxation and hobbies more often.
+359,Anxious,1,Poorly,No,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Rarely,No,4,Yes,Somewhat,No,Yes,70,20,25,Set small achievable goals for motivation.
+360,Anxious,6,Poorly,Sometimes,Daily,Sometimes,Neutral,Achievement,Daily,Sometimes,10,Trying,Somewhat,No,No,50,20,10,Talk to a trusted friend or therapist.
+361,Anxious,3,Poorly,No,Few times,No,Neutral,Nature/Relaxing,Sometimes,Sometimes,6,Trying,Not motivated,Yes,No,70,30,10,Increase social interactions or join groups.
+362,Happy,3,Very well,Sometimes,Daily,No,Not satisfied,Nature/Relaxing,Daily,No,7,Trying,Not motivated,Yes,No,35,10,0,Increase social interactions or join groups.
+363,Neutral,1,Okay,Yes,Few times,Sometimes,Neutral,Achievement,Sometimes,Sometimes,2,Yes,Highly motivated,Somewhat,No,10,10,0,Consider regular exercise and mindfulness.
+364,Happy,7,Okay,No,Daily,Sometimes,Neutral,Nature/Relaxing,Rarely,No,5,No,Highly motivated,No,No,35,0,10,Seek professional help if feeling overwhelmed.
+365,Anxious,1,Very well,No,Rarely,Sometimes,Very satisfied,Achievement,Rarely,Sometimes,4,No,Somewhat,Yes,Yes,50,20,15,Focus on better sleep habits.
+366,Neutral,2,Okay,Sometimes,Daily,Sometimes,Not satisfied,Family/Friends,Rarely,No,8,Yes,Not motivated,Yes,Maybe,20,0,10,Talk to a trusted friend or therapist.
+367,Anxious,7,Poorly,Sometimes,Rarely,No,Very satisfied,Achievement,Sometimes,Sometimes,3,No,Not motivated,Yes,Maybe,90,40,15,Focus on better sleep habits.
+368,Anxious,4,Poorly,Sometimes,Rarely,Yes,Not satisfied,Achievement,Sometimes,Yes,9,Trying,Somewhat,Yes,Yes,55,35,35,Seek professional help if feeling overwhelmed.
+369,Sad,1,Poorly,Sometimes,Rarely,Sometimes,Not satisfied,Achievement,Sometimes,Yes,8,No,Somewhat,Yes,No,65,35,35,Set small achievable goals for motivation.
+370,Happy,6,Okay,Yes,Daily,Yes,Very satisfied,Achievement,Rarely,No,1,No,Highly motivated,No,Yes,35,10,10,Consider regular exercise and mindfulness.
+371,Happy,6,Okay,Yes,Rarely,No,Neutral,Nature/Relaxing,Sometimes,No,6,Yes,Highly motivated,No,Yes,40,10,5,Increase social interactions or join groups.
+372,Neutral,3,Okay,Sometimes,Daily,No,Not satisfied,Achievement,Daily,No,7,Yes,Somewhat,Yes,Maybe,25,10,0,Maintain a balanced diet and hydration.
+373,Sad,8,Poorly,Sometimes,Daily,Sometimes,Very satisfied,Nature/Relaxing,Daily,No,2,Trying,Not motivated,No,No,70,30,30,Practice relaxation and hobbies more often.
+374,Neutral,5,Poorly,Sometimes,Daily,Yes,Very satisfied,Achievement,Daily,No,10,Yes,Somewhat,No,Maybe,30,0,10,Practice relaxation and hobbies more often.
+375,Anxious,8,Okay,Sometimes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Rarely,Sometimes,3,Yes,Somewhat,No,Maybe,55,30,30,Set small achievable goals for motivation.
+376,Happy,6,Very well,No,Few times,Sometimes,Neutral,Family/Friends,Sometimes,Sometimes,5,Trying,Highly motivated,Somewhat,Maybe,10,0,0,Seek professional help if feeling overwhelmed.
+377,Neutral,2,Very well,Sometimes,Rarely,Sometimes,Neutral,Nature/Relaxing,Daily,Sometimes,9,Yes,Somewhat,No,Maybe,25,0,5,Consider regular exercise and mindfulness.
+378,Anxious,4,Poorly,Sometimes,Rarely,Sometimes,Very satisfied,Achievement,Sometimes,Yes,3,Trying,Not motivated,No,No,80,45,35,Talk to a trusted friend or therapist.
+379,Sad,2,Okay,No,Few times,No,Not satisfied,Family/Friends,Rarely,No,3,Yes,Not motivated,Somewhat,Yes,75,40,10,Set small achievable goals for motivation.
+380,Anxious,1,Very well,No,Daily,Sometimes,Not satisfied,Family/Friends,Rarely,Sometimes,3,No,Highly motivated,Somewhat,No,60,30,10,Talk to a trusted friend or therapist.
+381,Neutral,1,Very well,Yes,Few times,Sometimes,Neutral,Achievement,Daily,No,9,Trying,Not motivated,Somewhat,Maybe,10,0,0,Seek professional help if feeling overwhelmed.
+382,Neutral,4,Okay,No,Few times,Sometimes,Neutral,Nature/Relaxing,Rarely,Yes,7,Trying,Highly motivated,Somewhat,Maybe,10,15,30,Seek professional help if feeling overwhelmed.
+383,Happy,6,Okay,No,Daily,Sometimes,Neutral,Family/Friends,Sometimes,Yes,8,Yes,Not motivated,Somewhat,No,20,15,20,Practice relaxation and hobbies more often.
+384,Sad,5,Very well,No,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Sometimes,9,Trying,Highly motivated,Yes,Yes,30,20,0,Focus on better sleep habits.
+385,Sad,7,Okay,No,Rarely,Sometimes,Neutral,Family/Friends,Daily,No,8,Trying,Somewhat,Yes,No,40,20,5,Consider regular exercise and mindfulness.
+386,Neutral,10,Very well,Sometimes,Few times,Sometimes,Neutral,Achievement,Daily,Yes,6,Trying,Highly motivated,Somewhat,Yes,0,15,40,Set small achievable goals for motivation.
+387,Sad,1,Very well,Yes,Rarely,Sometimes,Neutral,Nature/Relaxing,Rarely,Sometimes,3,No,Somewhat,Yes,Maybe,50,30,15,Consider regular exercise and mindfulness.
+388,Anxious,10,Okay,Yes,Daily,Yes,Not satisfied,Achievement,Daily,Sometimes,6,Yes,Not motivated,No,No,55,20,20,Consider regular exercise and mindfulness.
+389,Neutral,2,Poorly,Sometimes,Rarely,Sometimes,Very satisfied,Achievement,Daily,No,4,Trying,Highly motivated,Yes,Yes,25,0,15,Practice relaxation and hobbies more often.
+390,Anxious,7,Okay,Sometimes,Rarely,Sometimes,Neutral,Achievement,Daily,No,5,No,Somewhat,Somewhat,No,40,20,5,Increase social interactions or join groups.
+391,Happy,5,Poorly,Yes,Few times,No,Not satisfied,Family/Friends,Rarely,Sometimes,6,Trying,Not motivated,No,Yes,65,10,20,Talk to a trusted friend or therapist.
+392,Anxious,4,Okay,Sometimes,Daily,No,Not satisfied,Nature/Relaxing,Sometimes,No,8,Trying,Somewhat,Somewhat,Yes,45,30,0,Maintain a balanced diet and hydration.
+393,Sad,8,Very well,Yes,Few times,No,Not satisfied,Achievement,Rarely,Sometimes,2,Trying,Somewhat,Yes,Maybe,55,40,30,Set small achievable goals for motivation.
+394,Anxious,2,Very well,No,Few times,No,Neutral,Family/Friends,Daily,Sometimes,2,No,Somewhat,Somewhat,Yes,65,40,0,Consider regular exercise and mindfulness.
+395,Happy,5,Okay,Sometimes,Daily,Sometimes,Neutral,Achievement,Daily,Sometimes,1,No,Not motivated,No,Maybe,45,10,0,Increase social interactions or join groups.
+396,Neutral,1,Poorly,Yes,Rarely,No,Neutral,Family/Friends,Sometimes,Yes,2,Yes,Not motivated,No,No,75,35,35,Talk to a trusted friend or therapist.
+397,Anxious,1,Very well,No,Daily,Yes,Neutral,Family/Friends,Rarely,Yes,7,Yes,Highly motivated,Yes,Maybe,30,35,30,Consider regular exercise and mindfulness.
+398,Sad,6,Very well,Yes,Few times,Yes,Neutral,Achievement,Sometimes,Yes,6,No,Highly motivated,Yes,No,30,35,20,Talk to a trusted friend or therapist.
+399,Sad,4,Very well,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Sometimes,Sometimes,2,Yes,Not motivated,No,Yes,65,30,0,Talk to a trusted friend or therapist.
+400,Happy,5,Very well,Yes,Few times,Sometimes,Not satisfied,Family/Friends,Daily,Sometimes,8,Yes,Highly motivated,No,Maybe,25,0,0,Maintain a balanced diet and hydration.
+401,Happy,8,Poorly,No,Few times,Yes,Neutral,Achievement,Rarely,Sometimes,7,No,Somewhat,No,Yes,50,0,40,Set small achievable goals for motivation.
+402,Sad,6,Okay,Yes,Rarely,No,Very satisfied,Achievement,Rarely,No,1,Yes,Not motivated,Yes,Yes,65,40,15,Seek professional help if feeling overwhelmed.
+403,Happy,3,Okay,Sometimes,Daily,Sometimes,Very satisfied,Nature/Relaxing,Daily,Sometimes,9,Trying,Not motivated,Yes,Maybe,10,0,0,Practice relaxation and hobbies more often.
+404,Anxious,3,Very well,Yes,Few times,No,Neutral,Achievement,Sometimes,Yes,9,Trying,Somewhat,No,Maybe,50,45,20,Seek professional help if feeling overwhelmed.
+405,Anxious,3,Poorly,Sometimes,Few times,No,Very satisfied,Achievement,Daily,Sometimes,5,Trying,Not motivated,No,Maybe,75,30,10,Set small achievable goals for motivation.
+406,Anxious,9,Very well,No,Few times,No,Very satisfied,Family/Friends,Rarely,Yes,5,No,Not motivated,No,Maybe,80,45,50,Practice relaxation and hobbies more often.
+407,Neutral,5,Poorly,Yes,Rarely,No,Neutral,Achievement,Daily,Yes,2,No,Highly motivated,Somewhat,No,60,35,35,Increase social interactions or join groups.
+408,Anxious,7,Poorly,Sometimes,Daily,Yes,Neutral,Family/Friends,Sometimes,Sometimes,8,Yes,Not motivated,Yes,No,45,20,10,Consider regular exercise and mindfulness.
+409,Neutral,1,Poorly,Yes,Daily,Yes,Very satisfied,Achievement,Daily,Sometimes,3,Yes,Not motivated,Somewhat,Maybe,35,10,10,Talk to a trusted friend or therapist.
+410,Sad,4,Very well,No,Rarely,Yes,Neutral,Nature/Relaxing,Daily,No,1,Yes,Not motivated,Yes,Maybe,60,30,5,Talk to a trusted friend or therapist.
+411,Happy,9,Very well,Sometimes,Few times,Sometimes,Neutral,Family/Friends,Rarely,Sometimes,8,Yes,Not motivated,Yes,Yes,10,0,30,Maintain a balanced diet and hydration.
+412,Sad,10,Very well,Sometimes,Daily,Sometimes,Neutral,Nature/Relaxing,Rarely,No,5,Trying,Somewhat,No,Maybe,35,20,30,Talk to a trusted friend or therapist.
+413,Sad,9,Okay,Yes,Rarely,No,Not satisfied,Achievement,Rarely,No,8,No,Not motivated,Yes,Yes,75,30,35,Focus on better sleep habits.
+414,Anxious,7,Okay,Sometimes,Daily,No,Not satisfied,Achievement,Daily,No,8,Trying,Not motivated,Yes,Yes,55,30,0,Increase social interactions or join groups.
+415,Happy,3,Okay,Yes,Rarely,No,Very satisfied,Nature/Relaxing,Rarely,Yes,2,Trying,Not motivated,Somewhat,Maybe,45,35,35,Set small achievable goals for motivation.
+416,Neutral,6,Very well,Sometimes,Daily,Sometimes,Very satisfied,Achievement,Daily,Yes,3,Yes,Highly motivated,No,No,25,25,20,Practice relaxation and hobbies more often.
+417,Neutral,6,Poorly,Yes,Rarely,No,Neutral,Achievement,Sometimes,Sometimes,5,Yes,Not motivated,Yes,No,50,10,15,Practice relaxation and hobbies more often.
+418,Happy,7,Okay,No,Few times,No,Very satisfied,Achievement,Daily,Yes,8,Yes,Highly motivated,Yes,Yes,25,25,20,Consider regular exercise and mindfulness.
+419,Anxious,6,Very well,Yes,Daily,Sometimes,Very satisfied,Family/Friends,Daily,Yes,3,Yes,Somewhat,Yes,No,30,45,20,Increase social interactions or join groups.
+420,Anxious,6,Very well,Sometimes,Daily,Sometimes,Very satisfied,Nature/Relaxing,Rarely,No,4,Yes,Highly motivated,Somewhat,No,20,20,10,Seek professional help if feeling overwhelmed.
+421,Sad,7,Very well,No,Daily,Yes,Neutral,Nature/Relaxing,Rarely,No,9,No,Highly motivated,Yes,Yes,40,20,10,Maintain a balanced diet and hydration.
+422,Sad,2,Poorly,Sometimes,Few times,No,Not satisfied,Achievement,Daily,Yes,2,Trying,Highly motivated,Somewhat,Maybe,70,55,30,Set small achievable goals for motivation.
+423,Anxious,7,Poorly,No,Few times,Yes,Not satisfied,Nature/Relaxing,Rarely,Sometimes,9,Yes,Not motivated,Somewhat,No,65,20,20,Set small achievable goals for motivation.
+424,Neutral,3,Very well,Sometimes,Rarely,Yes,Neutral,Achievement,Sometimes,No,9,Yes,Not motivated,No,Yes,35,0,5,Focus on better sleep habits.
+425,Sad,9,Poorly,Sometimes,Few times,Yes,Very satisfied,Achievement,Daily,No,1,Yes,Highly motivated,Somewhat,Yes,45,30,30,Increase social interactions or join groups.
+426,Anxious,6,Poorly,No,Rarely,No,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,3,No,Highly motivated,Yes,Maybe,100,40,15,Increase social interactions or join groups.
+427,Happy,10,Very well,No,Few times,Yes,Neutral,Family/Friends,Sometimes,Yes,10,Trying,Highly motivated,Somewhat,Yes,10,15,40,Set small achievable goals for motivation.
+428,Sad,1,Very well,Sometimes,Few times,No,Very satisfied,Nature/Relaxing,Daily,Yes,5,Trying,Highly motivated,Yes,Yes,35,45,20,Talk to a trusted friend or therapist.
+429,Anxious,8,Very well,No,Daily,No,Neutral,Achievement,Daily,Sometimes,5,Trying,Highly motivated,Somewhat,No,45,30,20,Maintain a balanced diet and hydration.
+430,Happy,4,Very well,Yes,Daily,No,Neutral,Family/Friends,Daily,Yes,9,Trying,Somewhat,Somewhat,No,15,25,20,Seek professional help if feeling overwhelmed.
+431,Anxious,8,Okay,No,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Rarely,No,6,No,Not motivated,Yes,No,70,20,35,Seek professional help if feeling overwhelmed.
+432,Anxious,8,Very well,Sometimes,Daily,Yes,Neutral,Achievement,Daily,Yes,5,No,Somewhat,Yes,Maybe,30,35,40,Talk to a trusted friend or therapist.
+433,Anxious,1,Okay,Yes,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,Sometimes,6,No,Somewhat,No,Yes,45,20,0,Consider regular exercise and mindfulness.
+434,Neutral,7,Okay,Sometimes,Few times,No,Very satisfied,Achievement,Rarely,Yes,2,Trying,Not motivated,No,Yes,50,35,30,Consider regular exercise and mindfulness.
+435,Neutral,1,Poorly,Sometimes,Few times,Yes,Not satisfied,Achievement,Daily,Yes,8,No,Somewhat,No,Maybe,50,15,30,Consider regular exercise and mindfulness.
+436,Sad,6,Poorly,No,Daily,No,Very satisfied,Nature/Relaxing,Rarely,Sometimes,8,Yes,Not motivated,Yes,No,70,30,20,Consider regular exercise and mindfulness.
+437,Happy,2,Poorly,Yes,Daily,Sometimes,Neutral,Family/Friends,Daily,Sometimes,5,No,Highly motivated,Somewhat,No,25,0,10,Consider regular exercise and mindfulness.
+438,Neutral,3,Poorly,No,Rarely,Yes,Neutral,Family/Friends,Rarely,No,6,No,Somewhat,Somewhat,Maybe,45,0,25,Maintain a balanced diet and hydration.
+439,Anxious,9,Very well,No,Rarely,No,Very satisfied,Nature/Relaxing,Rarely,Sometimes,5,Trying,Highly motivated,No,No,70,30,35,Maintain a balanced diet and hydration.
+440,Neutral,10,Very well,No,Daily,Yes,Very satisfied,Family/Friends,Daily,Sometimes,4,Yes,Somewhat,No,No,25,0,20,Practice relaxation and hobbies more often.
+441,Neutral,9,Very well,Sometimes,Few times,No,Neutral,Family/Friends,Sometimes,Yes,10,Yes,Highly motivated,No,Maybe,30,25,40,Talk to a trusted friend or therapist.
+442,Happy,1,Okay,Yes,Few times,Sometimes,Not satisfied,Achievement,Rarely,Yes,9,No,Not motivated,Yes,Maybe,30,15,30,Increase social interactions or join groups.
+443,Neutral,3,Very well,Yes,Rarely,Yes,Not satisfied,Family/Friends,Rarely,Yes,4,No,Not motivated,Somewhat,Maybe,40,15,35,Focus on better sleep habits.
+444,Anxious,4,Poorly,Sometimes,Rarely,No,Very satisfied,Nature/Relaxing,Daily,No,4,Yes,Not motivated,Yes,Maybe,70,30,15,Consider regular exercise and mindfulness.
+445,Neutral,1,Poorly,No,Rarely,Yes,Very satisfied,Family/Friends,Rarely,Sometimes,4,Trying,Highly motivated,Somewhat,No,35,0,25,Seek professional help if feeling overwhelmed.
+446,Neutral,7,Poorly,No,Rarely,Yes,Not satisfied,Family/Friends,Daily,No,7,Trying,Highly motivated,Somewhat,Maybe,45,0,15,Practice relaxation and hobbies more often.
+447,Happy,8,Okay,Sometimes,Daily,Yes,Not satisfied,Achievement,Rarely,Yes,3,No,Somewhat,Yes,Maybe,30,25,50,Seek professional help if feeling overwhelmed.
+448,Neutral,4,Very well,No,Daily,No,Neutral,Nature/Relaxing,Daily,No,7,Yes,Somewhat,Yes,Maybe,25,10,0,Seek professional help if feeling overwhelmed.
+449,Happy,7,Poorly,No,Few times,No,Neutral,Achievement,Sometimes,Sometimes,10,Trying,Not motivated,Yes,Maybe,50,10,10,Practice relaxation and hobbies more often.
+450,Anxious,6,Very well,Sometimes,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,No,3,No,Not motivated,Somewhat,No,50,30,10,Talk to a trusted friend or therapist.
+451,Happy,10,Very well,No,Few times,Yes,Neutral,Nature/Relaxing,Rarely,Yes,5,No,Not motivated,No,Maybe,45,15,50,Practice relaxation and hobbies more often.
+452,Sad,8,Okay,Yes,Daily,Yes,Neutral,Nature/Relaxing,Rarely,Yes,6,Trying,Highly motivated,No,Yes,35,35,50,Talk to a trusted friend or therapist.
+453,Anxious,2,Okay,Sometimes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,1,Yes,Highly motivated,No,Yes,55,30,0,Practice relaxation and hobbies more often.
+454,Happy,9,Very well,No,Rarely,Sometimes,Neutral,Family/Friends,Rarely,No,5,Trying,Somewhat,Somewhat,Yes,20,0,35,Practice relaxation and hobbies more often.
+455,Happy,8,Very well,No,Daily,No,Neutral,Family/Friends,Rarely,Sometimes,4,No,Not motivated,Somewhat,Maybe,45,10,30,Maintain a balanced diet and hydration.
+456,Anxious,2,Okay,No,Rarely,Yes,Neutral,Achievement,Rarely,Yes,7,No,Somewhat,No,Maybe,65,35,35,Seek professional help if feeling overwhelmed.
+457,Happy,3,Very well,Sometimes,Rarely,Sometimes,Neutral,Family/Friends,Daily,Sometimes,7,Trying,Highly motivated,Somewhat,Yes,10,0,5,Consider regular exercise and mindfulness.
+458,Neutral,10,Poorly,Yes,Daily,Yes,Very satisfied,Family/Friends,Daily,Sometimes,4,Trying,Not motivated,No,No,40,0,30,Maintain a balanced diet and hydration.
+459,Happy,10,Very well,Sometimes,Few times,Yes,Very satisfied,Achievement,Sometimes,No,7,Trying,Highly motivated,No,Yes,15,0,20,Focus on better sleep habits.
+460,Happy,4,Poorly,Yes,Rarely,Yes,Not satisfied,Family/Friends,Daily,No,3,Trying,Not motivated,No,Yes,70,10,15,Increase social interactions or join groups.
+461,Sad,6,Okay,Yes,Rarely,Yes,Very satisfied,Achievement,Daily,Sometimes,5,Yes,Not motivated,Yes,No,40,20,5,Maintain a balanced diet and hydration.
+462,Neutral,3,Poorly,No,Daily,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Sometimes,2,Yes,Highly motivated,No,No,50,10,10,Increase social interactions or join groups.
+463,Anxious,7,Poorly,Sometimes,Rarely,Yes,Very satisfied,Nature/Relaxing,Daily,Yes,10,Trying,Not motivated,Yes,No,55,35,35,Practice relaxation and hobbies more often.
+464,Neutral,5,Okay,Yes,Daily,Yes,Neutral,Nature/Relaxing,Daily,Sometimes,6,Yes,Somewhat,Somewhat,Maybe,0,0,0,Maintain a balanced diet and hydration.
+465,Anxious,5,Very well,Yes,Daily,No,Neutral,Nature/Relaxing,Daily,Yes,6,Yes,Somewhat,Somewhat,Maybe,35,45,20,Talk to a trusted friend or therapist.
+466,Neutral,4,Okay,Sometimes,Rarely,Sometimes,Neutral,Family/Friends,Daily,Yes,5,Trying,Not motivated,Yes,No,20,15,25,Talk to a trusted friend or therapist.
+467,Sad,1,Very well,Sometimes,Few times,No,Neutral,Achievement,Daily,No,3,No,Not motivated,Somewhat,Yes,65,40,0,Increase social interactions or join groups.
+468,Happy,6,Very well,Yes,Few times,Sometimes,Not satisfied,Family/Friends,Rarely,Yes,3,No,Somewhat,Somewhat,Maybe,30,25,30,Talk to a trusted friend or therapist.
+469,Neutral,7,Okay,Yes,Daily,Yes,Not satisfied,Family/Friends,Rarely,Sometimes,6,Trying,Somewhat,No,Maybe,25,0,10,Maintain a balanced diet and hydration.
+470,Anxious,7,Poorly,Yes,Daily,Yes,Neutral,Family/Friends,Daily,Sometimes,4,Yes,Somewhat,No,Maybe,50,20,10,Focus on better sleep habits.
+471,Neutral,8,Very well,Yes,Daily,Yes,Very satisfied,Family/Friends,Daily,Sometimes,3,No,Highly motivated,Yes,Yes,20,10,20,Consider regular exercise and mindfulness.
+472,Happy,8,Poorly,Sometimes,Daily,Yes,Very satisfied,Nature/Relaxing,Daily,No,4,Yes,Somewhat,Somewhat,No,15,0,30,Practice relaxation and hobbies more often.
+473,Neutral,8,Okay,Yes,Daily,No,Very satisfied,Nature/Relaxing,Daily,Yes,7,No,Highly motivated,Somewhat,Yes,25,25,40,Focus on better sleep habits.
+474,Neutral,9,Very well,Yes,Few times,No,Neutral,Achievement,Rarely,Yes,2,Yes,Not motivated,No,Maybe,50,35,50,Increase social interactions or join groups.
+475,Sad,3,Poorly,Yes,Daily,Sometimes,Very satisfied,Family/Friends,Daily,No,3,Trying,Somewhat,No,Maybe,60,30,10,Talk to a trusted friend or therapist.
+476,Anxious,9,Poorly,Yes,Rarely,Sometimes,Neutral,Family/Friends,Rarely,Sometimes,1,Yes,Not motivated,Somewhat,No,65,30,45,Set small achievable goals for motivation.
+477,Anxious,8,Poorly,No,Daily,Yes,Neutral,Achievement,Rarely,No,5,Trying,Somewhat,No,Maybe,60,20,40,Seek professional help if feeling overwhelmed.
+478,Anxious,9,Poorly,Yes,Rarely,No,Very satisfied,Achievement,Sometimes,Sometimes,9,Yes,Somewhat,Yes,Yes,60,30,35,Practice relaxation and hobbies more often.
+479,Anxious,4,Poorly,Sometimes,Daily,Yes,Very satisfied,Achievement,Sometimes,No,5,Yes,Not motivated,No,No,60,20,10,Focus on better sleep habits.
+480,Happy,2,Okay,Yes,Daily,Sometimes,Very satisfied,Achievement,Sometimes,No,1,No,Not motivated,Somewhat,Yes,30,10,0,Focus on better sleep habits.
+481,Neutral,7,Very well,No,Few times,Yes,Neutral,Achievement,Daily,Sometimes,7,No,Somewhat,Somewhat,Maybe,20,0,0,Seek professional help if feeling overwhelmed.
+482,Sad,3,Poorly,Yes,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,Sometimes,8,Yes,Highly motivated,Yes,No,35,20,10,Talk to a trusted friend or therapist.
+483,Sad,7,Okay,Yes,Few times,Yes,Neutral,Family/Friends,Daily,Yes,2,Trying,Highly motivated,Somewhat,No,30,45,20,Practice relaxation and hobbies more often.
+484,Anxious,4,Okay,Sometimes,Daily,No,Very satisfied,Nature/Relaxing,Rarely,Yes,3,Trying,Not motivated,Somewhat,Yes,55,55,30,Increase social interactions or join groups.
+485,Neutral,8,Okay,Yes,Daily,No,Not satisfied,Achievement,Rarely,Sometimes,2,Trying,Highly motivated,Yes,Yes,35,20,30,Maintain a balanced diet and hydration.
+486,Neutral,7,Poorly,Yes,Daily,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Sometimes,6,No,Not motivated,Yes,Yes,35,0,20,Consider regular exercise and mindfulness.
+487,Anxious,10,Okay,Yes,Few times,Yes,Not satisfied,Nature/Relaxing,Daily,Sometimes,5,Yes,Highly motivated,Yes,Maybe,30,20,20,Talk to a trusted friend or therapist.
+488,Sad,9,Very well,Sometimes,Few times,No,Not satisfied,Nature/Relaxing,Sometimes,No,7,Yes,Not motivated,Yes,Yes,55,30,20,Practice relaxation and hobbies more often.
+489,Neutral,3,Poorly,Yes,Rarely,No,Not satisfied,Family/Friends,Rarely,Yes,4,Trying,Highly motivated,Yes,Yes,50,25,45,Talk to a trusted friend or therapist.
+490,Neutral,2,Poorly,Sometimes,Few times,Sometimes,Not satisfied,Achievement,Daily,Sometimes,6,Yes,Somewhat,No,Maybe,40,0,10,Talk to a trusted friend or therapist.
+491,Happy,4,Very well,No,Rarely,Yes,Neutral,Family/Friends,Sometimes,Yes,2,No,Not motivated,Somewhat,Maybe,50,25,25,Focus on better sleep habits.
+492,Happy,10,Poorly,No,Daily,No,Very satisfied,Family/Friends,Sometimes,Yes,2,Trying,Not motivated,Yes,Yes,60,35,50,Practice relaxation and hobbies more often.
+493,Happy,7,Poorly,Yes,Rarely,Yes,Not satisfied,Nature/Relaxing,Rarely,Sometimes,8,No,Highly motivated,Somewhat,Yes,45,0,25,Talk to a trusted friend or therapist.
+494,Sad,6,Okay,Yes,Few times,Sometimes,Neutral,Family/Friends,Rarely,No,7,Yes,Not motivated,No,No,45,20,10,Increase social interactions or join groups.
+495,Sad,1,Very well,No,Few times,Sometimes,Neutral,Nature/Relaxing,Rarely,Sometimes,9,No,Not motivated,No,Yes,65,20,10,Set small achievable goals for motivation.
+496,Sad,2,Okay,No,Rarely,Sometimes,Very satisfied,Family/Friends,Sometimes,Yes,10,Trying,Highly motivated,No,Maybe,55,35,25,Consider regular exercise and mindfulness.
+497,Anxious,1,Very well,Sometimes,Rarely,Yes,Very satisfied,Achievement,Sometimes,Sometimes,9,Yes,Not motivated,Yes,No,40,20,5,Talk to a trusted friend or therapist.
+498,Neutral,5,Okay,Sometimes,Rarely,Yes,Neutral,Nature/Relaxing,Sometimes,Yes,9,No,Highly motivated,Yes,Maybe,20,15,25,Talk to a trusted friend or therapist.
+499,Sad,7,Very well,Yes,Rarely,No,Neutral,Achievement,Sometimes,No,4,Yes,Not motivated,No,Yes,70,30,5,Consider regular exercise and mindfulness.
+500,Anxious,2,Very well,No,Few times,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Sometimes,7,Trying,Highly motivated,Yes,Maybe,30,20,10,Consider regular exercise and mindfulness.
+501,Sad,7,Poorly,No,Few times,Yes,Neutral,Family/Friends,Sometimes,No,3,Trying,Somewhat,No,Yes,70,30,10,Maintain a balanced diet and hydration.
+502,Neutral,10,Very well,Yes,Few times,Yes,Not satisfied,Nature/Relaxing,Rarely,No,9,Trying,Somewhat,Yes,No,10,0,30,Talk to a trusted friend or therapist.
+503,Anxious,5,Very well,Sometimes,Rarely,Sometimes,Not satisfied,Achievement,Daily,Sometimes,1,Yes,Highly motivated,No,Maybe,65,30,5,Seek professional help if feeling overwhelmed.
+504,Sad,4,Very well,Yes,Daily,Sometimes,Not satisfied,Family/Friends,Rarely,Yes,1,Trying,Somewhat,Somewhat,Yes,40,45,30,Consider regular exercise and mindfulness.
+505,Happy,5,Poorly,No,Daily,Yes,Very satisfied,Family/Friends,Rarely,Yes,7,No,Somewhat,No,No,50,15,40,Focus on better sleep habits.
+506,Sad,7,Poorly,Yes,Daily,No,Not satisfied,Achievement,Rarely,No,5,No,Highly motivated,No,Maybe,85,30,20,Set small achievable goals for motivation.
+507,Neutral,5,Okay,Sometimes,Few times,Yes,Neutral,Nature/Relaxing,Daily,Yes,9,Trying,Somewhat,Yes,No,0,15,20,Increase social interactions or join groups.
+508,Sad,4,Very well,Sometimes,Rarely,Yes,Neutral,Family/Friends,Daily,Yes,5,Yes,Highly motivated,Somewhat,No,30,35,25,Maintain a balanced diet and hydration.
+509,Sad,8,Poorly,Sometimes,Daily,No,Not satisfied,Family/Friends,Daily,No,10,Yes,Highly motivated,Somewhat,No,60,30,30,Set small achievable goals for motivation.
+510,Happy,10,Very well,No,Daily,Sometimes,Not satisfied,Family/Friends,Rarely,No,7,Yes,Somewhat,No,Yes,35,0,30,Consider regular exercise and mindfulness.
+511,Sad,3,Okay,No,Daily,Yes,Not satisfied,Family/Friends,Rarely,No,8,No,Somewhat,Yes,No,50,20,10,Maintain a balanced diet and hydration.
+512,Happy,4,Very well,Sometimes,Rarely,No,Not satisfied,Achievement,Sometimes,Sometimes,4,No,Highly motivated,Yes,Maybe,45,10,5,Practice relaxation and hobbies more often.
+513,Sad,3,Okay,Sometimes,Rarely,Sometimes,Neutral,Nature/Relaxing,Sometimes,No,3,Trying,Highly motivated,Yes,Maybe,40,30,5,Set small achievable goals for motivation.
+514,Neutral,7,Very well,Yes,Daily,Yes,Neutral,Nature/Relaxing,Rarely,No,5,Trying,Highly motivated,Somewhat,Yes,0,0,10,Consider regular exercise and mindfulness.
+515,Happy,5,Very well,Sometimes,Rarely,Sometimes,Not satisfied,Achievement,Daily,Sometimes,9,Yes,Highly motivated,Somewhat,Maybe,20,0,5,Maintain a balanced diet and hydration.
+516,Neutral,7,Very well,Yes,Daily,No,Very satisfied,Nature/Relaxing,Sometimes,Yes,5,No,Highly motivated,No,Yes,40,25,20,Focus on better sleep habits.
+517,Happy,1,Poorly,No,Rarely,No,Very satisfied,Achievement,Sometimes,Yes,1,No,Highly motivated,Yes,Maybe,70,35,35,Focus on better sleep habits.
+518,Sad,3,Okay,No,Rarely,No,Very satisfied,Nature/Relaxing,Rarely,No,4,Trying,Not motivated,Somewhat,Maybe,65,30,15,Talk to a trusted friend or therapist.
+519,Anxious,9,Very well,Sometimes,Rarely,Yes,Very satisfied,Achievement,Daily,Sometimes,4,Yes,Not motivated,Yes,Maybe,40,20,25,Talk to a trusted friend or therapist.
+520,Neutral,2,Okay,Yes,Daily,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,No,9,Trying,Highly motivated,Somewhat,Maybe,10,0,0,Talk to a trusted friend or therapist.
+521,Neutral,10,Okay,Yes,Rarely,Sometimes,Neutral,Family/Friends,Daily,No,8,Yes,Highly motivated,No,Maybe,25,0,25,Focus on better sleep habits.
+522,Happy,2,Okay,Yes,Few times,Sometimes,Not satisfied,Achievement,Sometimes,Sometimes,7,No,Highly motivated,No,Maybe,35,0,0,Consider regular exercise and mindfulness.
+523,Happy,5,Okay,Sometimes,Daily,Yes,Very satisfied,Family/Friends,Rarely,Yes,3,No,Not motivated,Yes,No,30,25,30,Consider regular exercise and mindfulness.
+524,Happy,10,Poorly,Yes,Rarely,Sometimes,Neutral,Family/Friends,Daily,Yes,5,No,Not motivated,Somewhat,Maybe,45,15,55,Set small achievable goals for motivation.
+525,Sad,1,Poorly,Yes,Daily,Sometimes,Neutral,Achievement,Sometimes,Sometimes,8,Yes,Highly motivated,No,Maybe,50,20,10,Focus on better sleep habits.
+526,Happy,1,Very well,Sometimes,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Yes,5,Trying,Somewhat,No,No,25,15,35,Increase social interactions or join groups.
+527,Sad,3,Okay,Yes,Rarely,No,Very satisfied,Family/Friends,Daily,Sometimes,3,No,Somewhat,No,No,80,40,5,Focus on better sleep habits.
+528,Neutral,3,Very well,Sometimes,Rarely,Yes,Very satisfied,Achievement,Daily,Sometimes,10,Yes,Somewhat,Somewhat,No,10,0,5,Increase social interactions or join groups.
+529,Sad,9,Very well,No,Rarely,No,Neutral,Achievement,Sometimes,Sometimes,9,Yes,Highly motivated,Somewhat,Yes,55,30,25,Seek professional help if feeling overwhelmed.
+530,Anxious,7,Very well,Yes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,No,3,Yes,Highly motivated,Somewhat,Maybe,40,30,0,Set small achievable goals for motivation.
+531,Happy,3,Okay,Yes,Daily,No,Neutral,Achievement,Sometimes,No,1,Trying,Highly motivated,Somewhat,Yes,25,20,0,Talk to a trusted friend or therapist.
+532,Neutral,7,Poorly,Sometimes,Daily,No,Not satisfied,Nature/Relaxing,Rarely,Yes,1,Yes,Highly motivated,Somewhat,Maybe,50,35,40,Maintain a balanced diet and hydration.
+533,Neutral,6,Poorly,No,Daily,No,Very satisfied,Achievement,Rarely,No,2,Yes,Somewhat,Yes,Yes,50,20,20,Focus on better sleep habits.
+534,Anxious,8,Very well,No,Daily,No,Neutral,Nature/Relaxing,Daily,Sometimes,2,Yes,Highly motivated,Somewhat,Maybe,55,40,20,Set small achievable goals for motivation.
+535,Happy,3,Very well,No,Rarely,Yes,Not satisfied,Family/Friends,Rarely,Sometimes,5,Yes,Somewhat,Somewhat,Yes,30,0,15,Set small achievable goals for motivation.
+536,Anxious,8,Very well,Sometimes,Few times,No,Very satisfied,Family/Friends,Rarely,Yes,7,Yes,Not motivated,Somewhat,Maybe,45,45,50,Consider regular exercise and mindfulness.
+537,Neutral,6,Poorly,Sometimes,Few times,Sometimes,Very satisfied,Achievement,Sometimes,Yes,1,Yes,Not motivated,Yes,Yes,35,25,30,Seek professional help if feeling overwhelmed.
+538,Anxious,6,Poorly,Sometimes,Few times,No,Neutral,Achievement,Sometimes,Yes,8,No,Somewhat,Yes,Yes,60,45,30,Talk to a trusted friend or therapist.
+539,Neutral,10,Okay,No,Few times,Yes,Not satisfied,Nature/Relaxing,Rarely,Sometimes,6,Yes,Not motivated,Yes,Maybe,30,0,30,Maintain a balanced diet and hydration.
+540,Anxious,6,Okay,Yes,Rarely,Sometimes,Neutral,Achievement,Rarely,No,2,Trying,Not motivated,Somewhat,Yes,50,30,15,Talk to a trusted friend or therapist.
+541,Anxious,8,Okay,No,Daily,Sometimes,Very satisfied,Achievement,Daily,Sometimes,1,Trying,Not motivated,No,Yes,65,30,20,Practice relaxation and hobbies more often.
+542,Happy,6,Very well,Yes,Few times,Yes,Not satisfied,Family/Friends,Sometimes,Sometimes,3,Trying,Not motivated,Somewhat,Yes,30,10,0,Maintain a balanced diet and hydration.
+543,Sad,3,Very well,No,Rarely,Sometimes,Not satisfied,Achievement,Sometimes,Sometimes,6,No,Highly motivated,Somewhat,Maybe,60,20,5,Talk to a trusted friend or therapist.
+544,Happy,3,Okay,Sometimes,Few times,Sometimes,Not satisfied,Family/Friends,Daily,Sometimes,9,No,Highly motivated,No,Maybe,35,0,0,Increase social interactions or join groups.
+545,Happy,1,Poorly,Sometimes,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Daily,No,6,No,Somewhat,Yes,Maybe,35,0,15,Consider regular exercise and mindfulness.
+546,Happy,5,Very well,Sometimes,Rarely,Sometimes,Neutral,Family/Friends,Sometimes,Sometimes,7,Trying,Highly motivated,No,Yes,25,0,5,Seek professional help if feeling overwhelmed.
+547,Neutral,9,Okay,Yes,Rarely,No,Neutral,Achievement,Rarely,Yes,2,Yes,Highly motivated,No,Maybe,50,35,55,Practice relaxation and hobbies more often.
+548,Sad,10,Very well,No,Daily,Yes,Not satisfied,Achievement,Sometimes,Yes,2,Trying,Highly motivated,Somewhat,No,50,45,40,Focus on better sleep habits.
+549,Anxious,9,Very well,No,Daily,No,Neutral,Family/Friends,Daily,Yes,1,Yes,Highly motivated,No,Maybe,70,55,40,Focus on better sleep habits.
+550,Happy,4,Poorly,No,Rarely,Yes,Very satisfied,Family/Friends,Sometimes,Sometimes,9,Trying,Somewhat,Somewhat,Maybe,35,0,15,Talk to a trusted friend or therapist.
+551,Happy,3,Poorly,No,Daily,No,Not satisfied,Achievement,Sometimes,Sometimes,2,Yes,Not motivated,Somewhat,Maybe,70,20,10,Seek professional help if feeling overwhelmed.
+552,Anxious,2,Okay,Yes,Daily,Sometimes,Neutral,Family/Friends,Daily,Yes,1,Trying,Not motivated,No,No,55,45,20,Consider regular exercise and mindfulness.
+553,Sad,4,Okay,No,Daily,Sometimes,Neutral,Family/Friends,Daily,Yes,9,Yes,Somewhat,Yes,Maybe,30,35,20,Set small achievable goals for motivation.
+554,Happy,9,Very well,Sometimes,Daily,No,Not satisfied,Achievement,Sometimes,No,10,Yes,Somewhat,No,No,40,10,20,Practice relaxation and hobbies more often.
+555,Happy,3,Very well,Sometimes,Daily,No,Not satisfied,Family/Friends,Sometimes,No,6,Yes,Somewhat,No,No,40,10,0,Focus on better sleep habits.
+556,Happy,5,Very well,No,Daily,No,Not satisfied,Family/Friends,Sometimes,Sometimes,6,Trying,Not motivated,Somewhat,Yes,45,10,0,Talk to a trusted friend or therapist.
+557,Anxious,8,Very well,Yes,Few times,Yes,Not satisfied,Nature/Relaxing,Sometimes,Yes,7,Trying,Highly motivated,Somewhat,No,30,35,40,Maintain a balanced diet and hydration.
+558,Sad,8,Okay,No,Daily,Sometimes,Very satisfied,Family/Friends,Daily,No,10,Trying,Not motivated,No,Yes,55,20,20,Seek professional help if feeling overwhelmed.
+559,Happy,8,Poorly,Yes,Daily,No,Neutral,Family/Friends,Rarely,Yes,9,Yes,Highly motivated,No,Yes,45,25,60,Maintain a balanced diet and hydration.
+560,Sad,8,Poorly,Sometimes,Few times,Sometimes,Very satisfied,Achievement,Sometimes,No,4,No,Highly motivated,Somewhat,Maybe,45,20,30,Talk to a trusted friend or therapist.
+561,Happy,7,Very well,Sometimes,Few times,Yes,Very satisfied,Achievement,Sometimes,Yes,9,Trying,Not motivated,No,Yes,25,15,20,Set small achievable goals for motivation.
+562,Neutral,6,Poorly,Yes,Daily,Sometimes,Very satisfied,Family/Friends,Daily,Yes,3,No,Not motivated,Somewhat,No,45,25,30,Practice relaxation and hobbies more often.
+563,Neutral,8,Poorly,No,Rarely,Yes,Neutral,Family/Friends,Daily,Sometimes,3,Trying,Highly motivated,Yes,Yes,45,10,35,Consider regular exercise and mindfulness.
+564,Anxious,9,Okay,Sometimes,Few times,No,Very satisfied,Family/Friends,Rarely,Sometimes,8,Trying,Somewhat,Somewhat,Maybe,35,30,30,Set small achievable goals for motivation.
+565,Neutral,2,Very well,No,Rarely,Sometimes,Neutral,Family/Friends,Daily,Sometimes,7,Trying,Highly motivated,Yes,No,20,0,5,Seek professional help if feeling overwhelmed.
+566,Happy,5,Poorly,Yes,Rarely,Yes,Neutral,Achievement,Daily,Yes,3,No,Not motivated,Somewhat,Maybe,55,25,35,Increase social interactions or join groups.
+567,Neutral,8,Okay,Yes,Daily,Sometimes,Not satisfied,Family/Friends,Rarely,Sometimes,2,No,Highly motivated,Yes,Maybe,30,10,30,Maintain a balanced diet and hydration.
+568,Sad,8,Okay,Yes,Daily,Sometimes,Not satisfied,Nature/Relaxing,Rarely,Sometimes,10,Trying,Highly motivated,Yes,Yes,30,20,30,Set small achievable goals for motivation.
+569,Happy,3,Okay,No,Few times,Sometimes,Neutral,Achievement,Daily,Sometimes,4,Yes,Highly motivated,Yes,Maybe,10,0,0,Maintain a balanced diet and hydration.
+570,Neutral,8,Very well,No,Few times,Yes,Very satisfied,Nature/Relaxing,Rarely,No,7,Trying,Highly motivated,Somewhat,No,10,0,30,Practice relaxation and hobbies more often.
+571,Sad,7,Very well,Sometimes,Few times,No,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,3,Trying,Somewhat,No,No,70,40,0,Set small achievable goals for motivation.
+572,Anxious,8,Okay,No,Few times,No,Not satisfied,Family/Friends,Sometimes,No,10,Trying,Highly motivated,Somewhat,Yes,55,30,20,Focus on better sleep habits.
+573,Happy,1,Okay,No,Few times,Sometimes,Not satisfied,Nature/Relaxing,Daily,Sometimes,6,Trying,Somewhat,Somewhat,No,20,0,0,Consider regular exercise and mindfulness.
+574,Sad,10,Very well,Yes,Few times,No,Neutral,Nature/Relaxing,Daily,No,1,Trying,Somewhat,No,No,60,40,20,Maintain a balanced diet and hydration.
+575,Sad,9,Poorly,Sometimes,Daily,Yes,Not satisfied,Achievement,Daily,No,1,No,Highly motivated,No,Yes,80,30,30,Seek professional help if feeling overwhelmed.
+576,Neutral,10,Poorly,No,Rarely,Yes,Not satisfied,Achievement,Sometimes,Yes,9,Yes,Somewhat,Somewhat,Yes,45,15,55,Increase social interactions or join groups.
+577,Sad,9,Poorly,Sometimes,Few times,Yes,Neutral,Nature/Relaxing,Rarely,Sometimes,9,Yes,Not motivated,No,Yes,60,20,40,Set small achievable goals for motivation.
+578,Neutral,8,Poorly,No,Daily,Sometimes,Not satisfied,Achievement,Daily,No,9,No,Not motivated,Somewhat,No,55,0,30,Seek professional help if feeling overwhelmed.
+579,Happy,4,Okay,Sometimes,Few times,Yes,Very satisfied,Nature/Relaxing,Daily,Sometimes,2,Trying,Not motivated,Somewhat,Maybe,20,10,0,Set small achievable goals for motivation.
+580,Happy,2,Very well,Sometimes,Few times,No,Very satisfied,Achievement,Rarely,Sometimes,5,Trying,Not motivated,Yes,No,25,10,10,Set small achievable goals for motivation.
+581,Neutral,9,Poorly,Sometimes,Rarely,Yes,Very satisfied,Achievement,Rarely,Sometimes,9,Yes,Not motivated,Yes,Maybe,35,0,45,Increase social interactions or join groups.
+582,Sad,3,Okay,Sometimes,Rarely,Sometimes,Neutral,Family/Friends,Daily,Yes,7,No,Somewhat,No,No,55,35,25,Maintain a balanced diet and hydration.
+583,Anxious,8,Okay,Sometimes,Daily,No,Very satisfied,Family/Friends,Rarely,Yes,2,Yes,Not motivated,Somewhat,Yes,55,55,50,Talk to a trusted friend or therapist.
+584,Anxious,1,Poorly,Yes,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,Sometimes,10,No,Not motivated,No,No,70,20,20,Seek professional help if feeling overwhelmed.
+585,Sad,8,Okay,Yes,Rarely,Sometimes,Neutral,Achievement,Daily,No,2,Trying,Somewhat,No,Yes,55,30,25,Seek professional help if feeling overwhelmed.
+586,Neutral,2,Very well,No,Few times,Sometimes,Neutral,Nature/Relaxing,Rarely,No,3,Trying,Somewhat,Yes,Yes,20,10,10,Focus on better sleep habits.
+587,Anxious,7,Poorly,Sometimes,Few times,No,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,1,No,Highly motivated,Yes,No,80,40,10,Set small achievable goals for motivation.
+588,Anxious,9,Okay,Yes,Few times,Yes,Not satisfied,Achievement,Rarely,Sometimes,7,Yes,Highly motivated,Yes,No,30,20,30,Consider regular exercise and mindfulness.
+589,Anxious,2,Very well,Yes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Sometimes,3,Trying,Highly motivated,Somewhat,Yes,30,30,10,Talk to a trusted friend or therapist.
+590,Happy,2,Very well,Sometimes,Rarely,Sometimes,Neutral,Nature/Relaxing,Sometimes,Yes,2,No,Highly motivated,Yes,Maybe,30,25,25,Increase social interactions or join groups.
+591,Neutral,7,Poorly,Yes,Daily,No,Not satisfied,Nature/Relaxing,Daily,Yes,1,No,Somewhat,Yes,Yes,60,35,30,Practice relaxation and hobbies more often.
+592,Happy,6,Poorly,Yes,Daily,No,Very satisfied,Nature/Relaxing,Sometimes,No,7,Yes,Highly motivated,No,No,45,10,10,Practice relaxation and hobbies more often.
+593,Happy,2,Okay,Yes,Few times,No,Not satisfied,Achievement,Rarely,No,1,Yes,Not motivated,Yes,Yes,45,20,10,Increase social interactions or join groups.
+594,Neutral,6,Very well,Yes,Daily,Yes,Not satisfied,Nature/Relaxing,Daily,Yes,6,No,Not motivated,Somewhat,Yes,30,15,20,Set small achievable goals for motivation.
+595,Anxious,10,Okay,No,Few times,Yes,Not satisfied,Achievement,Rarely,No,4,No,Not motivated,Somewhat,Maybe,60,20,30,Talk to a trusted friend or therapist.
+596,Happy,10,Okay,Sometimes,Daily,Sometimes,Very satisfied,Nature/Relaxing,Daily,Yes,6,Yes,Highly motivated,Somewhat,Yes,0,15,40,Consider regular exercise and mindfulness.
+597,Anxious,5,Very well,No,Daily,Yes,Neutral,Nature/Relaxing,Rarely,Sometimes,1,No,Somewhat,Yes,Yes,50,30,10,Set small achievable goals for motivation.
+598,Anxious,8,Very well,Yes,Daily,No,Not satisfied,Nature/Relaxing,Sometimes,Yes,2,No,Not motivated,Yes,No,75,55,40,Set small achievable goals for motivation.
+599,Neutral,4,Very well,Yes,Rarely,Yes,Very satisfied,Family/Friends,Sometimes,Yes,5,Trying,Not motivated,Somewhat,No,20,15,25,Talk to a trusted friend or therapist.
+600,Happy,4,Very well,Sometimes,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,Yes,9,Trying,Somewhat,No,Yes,35,15,25,Increase social interactions or join groups.
+601,Neutral,4,Very well,No,Daily,Sometimes,Very satisfied,Achievement,Sometimes,Sometimes,1,Trying,Highly motivated,No,Yes,35,10,0,Focus on better sleep habits.
+602,Sad,8,Poorly,Sometimes,Few times,Yes,Very satisfied,Family/Friends,Daily,Sometimes,5,Yes,Highly motivated,Yes,Maybe,35,20,30,Talk to a trusted friend or therapist.
+603,Happy,1,Poorly,No,Daily,Yes,Not satisfied,Nature/Relaxing,Daily,No,7,No,Not motivated,Somewhat,Yes,55,0,10,Increase social interactions or join groups.
+604,Sad,2,Very well,Sometimes,Rarely,No,Very satisfied,Achievement,Rarely,Sometimes,10,Trying,Somewhat,No,No,60,30,15,Practice relaxation and hobbies more often.
+605,Sad,2,Okay,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Daily,No,7,Yes,Highly motivated,Somewhat,Yes,30,20,0,Practice relaxation and hobbies more often.
+606,Sad,9,Poorly,Sometimes,Rarely,Sometimes,Neutral,Nature/Relaxing,Rarely,Yes,4,No,Somewhat,Yes,No,55,35,65,Seek professional help if feeling overwhelmed.
+607,Sad,3,Very well,No,Daily,Yes,Not satisfied,Achievement,Rarely,Sometimes,3,No,Somewhat,No,Maybe,75,30,10,Practice relaxation and hobbies more often.
+608,Neutral,10,Very well,No,Daily,Sometimes,Neutral,Achievement,Sometimes,Yes,10,No,Somewhat,Somewhat,Yes,20,15,40,Practice relaxation and hobbies more often.
+609,Neutral,9,Okay,No,Few times,No,Very satisfied,Nature/Relaxing,Rarely,No,5,Trying,Not motivated,No,No,50,10,30,Increase social interactions or join groups.
+610,Happy,9,Poorly,No,Daily,Sometimes,Not satisfied,Achievement,Sometimes,Yes,7,Trying,Somewhat,No,Yes,50,15,50,Seek professional help if feeling overwhelmed.
+611,Happy,9,Very well,Yes,Few times,No,Very satisfied,Achievement,Daily,No,1,Yes,Not motivated,No,No,50,20,20,Set small achievable goals for motivation.
+612,Neutral,2,Poorly,Sometimes,Few times,Sometimes,Neutral,Family/Friends,Rarely,Yes,6,Trying,Somewhat,No,No,30,15,40,Focus on better sleep habits.
+613,Neutral,2,Okay,No,Rarely,Yes,Neutral,Family/Friends,Sometimes,Yes,9,No,Not motivated,No,Yes,55,15,25,Seek professional help if feeling overwhelmed.
+614,Anxious,4,Okay,Sometimes,Few times,Sometimes,Very satisfied,Family/Friends,Daily,Yes,9,Trying,Highly motivated,Somewhat,Yes,20,35,20,Talk to a trusted friend or therapist.
+615,Anxious,9,Very well,Sometimes,Rarely,No,Not satisfied,Achievement,Rarely,No,8,Trying,Not motivated,Yes,Maybe,65,30,35,Set small achievable goals for motivation.
+616,Sad,10,Okay,Yes,Rarely,Yes,Neutral,Achievement,Daily,Sometimes,8,Trying,Highly motivated,Yes,Yes,30,20,25,Increase social interactions or join groups.
+617,Neutral,5,Very well,Yes,Daily,Sometimes,Very satisfied,Nature/Relaxing,Rarely,No,1,No,Highly motivated,Yes,Maybe,20,10,10,Practice relaxation and hobbies more often.
+618,Sad,5,Very well,Yes,Rarely,No,Not satisfied,Family/Friends,Sometimes,Yes,2,Trying,Somewhat,Somewhat,Maybe,65,55,25,Consider regular exercise and mindfulness.
+619,Happy,5,Very well,Yes,Rarely,Yes,Not satisfied,Family/Friends,Daily,Sometimes,6,No,Not motivated,Yes,No,40,0,5,Seek professional help if feeling overwhelmed.
+620,Sad,3,Very well,No,Few times,Sometimes,Very satisfied,Achievement,Sometimes,Yes,3,Yes,Highly motivated,Yes,Yes,40,45,20,Talk to a trusted friend or therapist.
+621,Neutral,8,Very well,Sometimes,Rarely,No,Neutral,Family/Friends,Daily,Sometimes,3,Yes,Not motivated,No,No,60,20,25,Focus on better sleep habits.
+622,Neutral,2,Okay,Yes,Daily,Yes,Neutral,Family/Friends,Rarely,Sometimes,9,Trying,Not motivated,No,No,25,0,10,Set small achievable goals for motivation.
+623,Neutral,2,Very well,Yes,Rarely,Sometimes,Very satisfied,Family/Friends,Sometimes,Yes,1,Trying,Not motivated,Somewhat,No,30,25,25,Consider regular exercise and mindfulness.
+624,Sad,4,Okay,No,Rarely,No,Not satisfied,Achievement,Daily,Yes,8,Trying,Highly motivated,No,Yes,80,45,25,Seek professional help if feeling overwhelmed.
+625,Sad,1,Very well,Yes,Few times,Yes,Neutral,Achievement,Daily,Yes,10,No,Somewhat,No,No,45,35,20,Increase social interactions or join groups.
+626,Neutral,3,Very well,Yes,Daily,Sometimes,Very satisfied,Family/Friends,Sometimes,Sometimes,6,No,Not motivated,No,Yes,35,0,0,Talk to a trusted friend or therapist.
+627,Happy,10,Poorly,Sometimes,Daily,Yes,Not satisfied,Nature/Relaxing,Sometimes,Yes,1,No,Not motivated,Yes,No,55,25,50,Focus on better sleep habits.
+628,Happy,4,Very well,Yes,Few times,No,Not satisfied,Achievement,Rarely,Sometimes,10,No,Somewhat,No,Yes,50,10,10,Practice relaxation and hobbies more often.
+629,Sad,2,Okay,Sometimes,Few times,No,Not satisfied,Achievement,Rarely,Sometimes,1,No,Not motivated,Somewhat,Yes,75,40,10,Consider regular exercise and mindfulness.
+630,Neutral,4,Okay,Sometimes,Few times,No,Neutral,Nature/Relaxing,Sometimes,Sometimes,7,Trying,Highly motivated,Yes,No,15,10,0,Talk to a trusted friend or therapist.
+631,Sad,7,Poorly,No,Daily,Sometimes,Neutral,Nature/Relaxing,Rarely,No,6,Trying,Somewhat,Yes,Yes,45,20,20,Increase social interactions or join groups.
+632,Neutral,3,Very well,Sometimes,Rarely,Yes,Very satisfied,Nature/Relaxing,Rarely,Yes,4,Yes,Somewhat,No,Yes,25,15,35,Talk to a trusted friend or therapist.
+633,Neutral,5,Okay,Sometimes,Daily,Sometimes,Neutral,Nature/Relaxing,Daily,No,10,No,Somewhat,Yes,No,10,0,0,Focus on better sleep habits.
+634,Happy,5,Poorly,Sometimes,Few times,No,Not satisfied,Family/Friends,Rarely,Yes,3,Trying,Somewhat,Yes,No,50,35,40,Set small achievable goals for motivation.
+635,Neutral,5,Poorly,No,Daily,Sometimes,Neutral,Family/Friends,Rarely,Sometimes,1,No,Somewhat,Yes,Yes,45,10,20,Increase social interactions or join groups.
+636,Anxious,8,Poorly,Sometimes,Rarely,Sometimes,Not satisfied,Family/Friends,Sometimes,Yes,6,No,Somewhat,Yes,Yes,65,35,55,Consider regular exercise and mindfulness.
+637,Happy,5,Very well,Sometimes,Daily,Yes,Very satisfied,Family/Friends,Rarely,No,7,Yes,Somewhat,Somewhat,No,0,0,10,Talk to a trusted friend or therapist.
+638,Anxious,3,Very well,Yes,Rarely,Yes,Not satisfied,Family/Friends,Rarely,Yes,5,No,Not motivated,Yes,No,60,35,35,Maintain a balanced diet and hydration.
+639,Anxious,5,Very well,No,Daily,Yes,Not satisfied,Nature/Relaxing,Daily,Yes,8,Trying,Highly motivated,Somewhat,Maybe,40,35,20,Increase social interactions or join groups.
+640,Neutral,2,Very well,Sometimes,Rarely,Sometimes,Very satisfied,Family/Friends,Daily,Sometimes,8,Trying,Somewhat,Yes,Yes,10,0,5,Focus on better sleep habits.
+641,Neutral,5,Poorly,No,Few times,No,Not satisfied,Family/Friends,Sometimes,Sometimes,2,No,Not motivated,No,No,95,20,10,Maintain a balanced diet and hydration.
+642,Neutral,6,Okay,Yes,Rarely,Yes,Not satisfied,Family/Friends,Daily,No,7,Trying,Somewhat,No,No,35,0,5,Talk to a trusted friend or therapist.
+643,Sad,5,Okay,No,Daily,No,Neutral,Achievement,Rarely,Sometimes,9,Trying,Highly motivated,No,No,60,30,10,Consider regular exercise and mindfulness.
+644,Happy,7,Very well,No,Few times,Sometimes,Not satisfied,Family/Friends,Sometimes,Yes,1,No,Somewhat,Somewhat,Maybe,40,25,20,Increase social interactions or join groups.
+645,Happy,3,Okay,Sometimes,Few times,Sometimes,Neutral,Achievement,Rarely,No,9,No,Highly motivated,No,Yes,25,0,10,Seek professional help if feeling overwhelmed.
+646,Anxious,9,Okay,Sometimes,Rarely,No,Neutral,Family/Friends,Rarely,No,6,Trying,Somewhat,Somewhat,Maybe,45,30,35,Focus on better sleep habits.
+647,Neutral,4,Okay,Sometimes,Few times,Yes,Very satisfied,Family/Friends,Daily,Sometimes,9,Yes,Somewhat,No,Maybe,15,0,0,Seek professional help if feeling overwhelmed.
+648,Anxious,1,Okay,No,Daily,No,Neutral,Nature/Relaxing,Sometimes,Sometimes,6,Yes,Somewhat,Yes,Maybe,45,30,0,Increase social interactions or join groups.
+649,Neutral,4,Very well,No,Few times,No,Not satisfied,Family/Friends,Daily,Sometimes,6,No,Not motivated,Somewhat,Maybe,55,10,0,Consider regular exercise and mindfulness.
+650,Anxious,2,Very well,No,Few times,No,Not satisfied,Family/Friends,Daily,Yes,3,Yes,Highly motivated,Somewhat,No,65,55,20,Talk to a trusted friend or therapist.
+651,Neutral,4,Okay,Sometimes,Daily,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,No,6,No,Not motivated,No,Yes,45,0,0,Talk to a trusted friend or therapist.
+652,Anxious,3,Very well,Sometimes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,No,1,Yes,Not motivated,Yes,No,50,30,0,Talk to a trusted friend or therapist.
+653,Sad,9,Very well,Yes,Few times,Yes,Very satisfied,Nature/Relaxing,Sometimes,Yes,1,Trying,Highly motivated,Yes,No,30,45,40,Focus on better sleep habits.
+654,Sad,9,Very well,No,Few times,Yes,Neutral,Family/Friends,Daily,Sometimes,10,Trying,Not motivated,Yes,Yes,40,20,20,Maintain a balanced diet and hydration.
+655,Sad,1,Okay,Yes,Daily,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Yes,10,No,Not motivated,Somewhat,Yes,40,35,30,Consider regular exercise and mindfulness.
+656,Neutral,7,Poorly,No,Daily,Sometimes,Neutral,Family/Friends,Rarely,Sometimes,1,No,Somewhat,No,No,60,10,20,Talk to a trusted friend or therapist.
+657,Sad,5,Poorly,No,Rarely,Sometimes,Neutral,Achievement,Daily,Sometimes,8,Trying,Not motivated,No,Yes,80,20,15,Talk to a trusted friend or therapist.
+658,Neutral,7,Okay,Sometimes,Daily,No,Very satisfied,Nature/Relaxing,Sometimes,No,5,Trying,Not motivated,No,No,40,10,0,Maintain a balanced diet and hydration.
+659,Sad,3,Very well,Yes,Rarely,Sometimes,Not satisfied,Achievement,Sometimes,Sometimes,4,Yes,Not motivated,Somewhat,Maybe,50,20,5,Talk to a trusted friend or therapist.
+660,Sad,8,Okay,No,Rarely,No,Very satisfied,Family/Friends,Sometimes,Sometimes,3,Yes,Highly motivated,Somewhat,Maybe,65,40,25,Practice relaxation and hobbies more often.
+661,Neutral,9,Poorly,No,Rarely,Yes,Not satisfied,Family/Friends,Daily,Yes,2,Trying,Not motivated,No,No,80,25,55,Increase social interactions or join groups.
+662,Neutral,10,Okay,Yes,Daily,No,Not satisfied,Family/Friends,Sometimes,Yes,2,Yes,Highly motivated,Somewhat,Yes,35,35,40,Maintain a balanced diet and hydration.
+663,Happy,3,Okay,Yes,Daily,Yes,Neutral,Family/Friends,Sometimes,No,4,No,Highly motivated,No,Maybe,25,0,0,Focus on better sleep habits.
+664,Anxious,8,Poorly,Yes,Daily,No,Not satisfied,Family/Friends,Sometimes,Sometimes,2,Yes,Not motivated,Yes,No,80,40,30,Talk to a trusted friend or therapist.
+665,Anxious,3,Okay,Yes,Rarely,Yes,Very satisfied,Family/Friends,Rarely,Sometimes,6,Yes,Highly motivated,Somewhat,Yes,30,20,15,Focus on better sleep habits.
+666,Sad,1,Okay,Yes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Yes,10,Trying,Somewhat,No,Yes,35,35,30,Consider regular exercise and mindfulness.
+667,Happy,10,Poorly,No,Few times,Sometimes,Very satisfied,Family/Friends,Rarely,No,7,No,Somewhat,No,Maybe,50,0,40,Maintain a balanced diet and hydration.
+668,Happy,5,Very well,No,Rarely,No,Neutral,Nature/Relaxing,Sometimes,Yes,10,No,Highly motivated,No,Maybe,60,25,25,Talk to a trusted friend or therapist.
+669,Happy,3,Very well,Yes,Few times,Yes,Not satisfied,Family/Friends,Daily,Yes,2,Yes,Highly motivated,Yes,Yes,20,25,20,Talk to a trusted friend or therapist.
+670,Happy,10,Okay,Yes,Rarely,No,Very satisfied,Achievement,Daily,Sometimes,10,No,Not motivated,No,Yes,60,10,25,Set small achievable goals for motivation.
+671,Neutral,1,Okay,Yes,Rarely,Sometimes,Very satisfied,Achievement,Daily,No,9,Yes,Not motivated,Somewhat,No,20,0,5,Consider regular exercise and mindfulness.
+672,Sad,6,Very well,Sometimes,Few times,Sometimes,Neutral,Nature/Relaxing,Sometimes,Sometimes,5,Yes,Highly motivated,No,Yes,35,20,0,Talk to a trusted friend or therapist.
+673,Anxious,1,Okay,Yes,Rarely,No,Neutral,Nature/Relaxing,Daily,Yes,6,Trying,Not motivated,No,Maybe,70,45,25,Practice relaxation and hobbies more often.
+674,Neutral,10,Poorly,Sometimes,Daily,No,Very satisfied,Nature/Relaxing,Sometimes,No,1,Trying,Not motivated,No,Maybe,65,20,30,Focus on better sleep habits.
+675,Neutral,3,Very well,No,Rarely,No,Not satisfied,Nature/Relaxing,Daily,No,1,Yes,Not motivated,Somewhat,Maybe,65,20,5,Practice relaxation and hobbies more often.
+676,Happy,1,Okay,Yes,Few times,Yes,Neutral,Nature/Relaxing,Sometimes,No,6,Yes,Highly motivated,No,Yes,15,0,0,Focus on better sleep habits.
+677,Happy,3,Poorly,Yes,Daily,No,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,2,No,Highly motivated,No,Yes,75,20,10,Seek professional help if feeling overwhelmed.
+678,Neutral,5,Very well,No,Daily,Yes,Neutral,Nature/Relaxing,Sometimes,Sometimes,1,Trying,Highly motivated,Somewhat,Maybe,20,10,0,Seek professional help if feeling overwhelmed.
+679,Anxious,3,Very well,No,Few times,No,Very satisfied,Nature/Relaxing,Sometimes,No,10,No,Not motivated,Yes,No,65,30,0,Talk to a trusted friend or therapist.
+680,Neutral,7,Poorly,Sometimes,Daily,Yes,Neutral,Family/Friends,Sometimes,Sometimes,8,Trying,Not motivated,No,Maybe,40,0,10,Talk to a trusted friend or therapist.
+681,Neutral,6,Very well,Yes,Rarely,No,Not satisfied,Nature/Relaxing,Sometimes,Yes,8,Trying,Somewhat,Somewhat,Maybe,35,25,25,Set small achievable goals for motivation.
+682,Neutral,2,Okay,No,Daily,Sometimes,Not satisfied,Nature/Relaxing,Daily,No,6,Trying,Highly motivated,No,Maybe,35,0,0,Maintain a balanced diet and hydration.
+683,Anxious,2,Very well,Yes,Rarely,Sometimes,Neutral,Family/Friends,Rarely,No,9,Yes,Highly motivated,Somewhat,Yes,30,20,15,Talk to a trusted friend or therapist.
+684,Sad,9,Poorly,Yes,Few times,No,Very satisfied,Family/Friends,Rarely,No,10,Yes,Highly motivated,No,Maybe,65,30,40,Consider regular exercise and mindfulness.
+685,Neutral,4,Very well,Sometimes,Daily,Sometimes,Very satisfied,Achievement,Rarely,No,9,Yes,Not motivated,Somewhat,Yes,10,0,10,Seek professional help if feeling overwhelmed.
+686,Neutral,9,Okay,No,Rarely,Sometimes,Neutral,Nature/Relaxing,Sometimes,Sometimes,8,Yes,Somewhat,Somewhat,Yes,20,0,25,Seek professional help if feeling overwhelmed.
+687,Anxious,4,Very well,Sometimes,Rarely,No,Not satisfied,Nature/Relaxing,Rarely,No,1,Yes,Highly motivated,Yes,Yes,65,40,15,Maintain a balanced diet and hydration.
+688,Neutral,9,Very well,No,Rarely,No,Very satisfied,Achievement,Sometimes,Yes,8,Trying,Not motivated,Somewhat,No,45,25,45,Practice relaxation and hobbies more often.
+689,Sad,9,Poorly,No,Daily,Yes,Neutral,Nature/Relaxing,Rarely,No,5,Trying,Highly motivated,Somewhat,Maybe,45,20,40,Practice relaxation and hobbies more often.
+690,Neutral,10,Poorly,No,Rarely,No,Neutral,Family/Friends,Rarely,Yes,2,No,Not motivated,Yes,Maybe,80,35,65,Increase social interactions or join groups.
+691,Neutral,4,Very well,No,Daily,Yes,Neutral,Nature/Relaxing,Sometimes,No,2,No,Highly motivated,Somewhat,Maybe,30,10,0,Increase social interactions or join groups.
+692,Sad,10,Poorly,Sometimes,Few times,Sometimes,Not satisfied,Achievement,Daily,No,1,Yes,Not motivated,No,Maybe,80,30,30,Increase social interactions or join groups.
+693,Neutral,7,Very well,Yes,Daily,Yes,Very satisfied,Achievement,Daily,No,2,No,Highly motivated,Yes,No,20,10,0,Seek professional help if feeling overwhelmed.
+694,Sad,10,Poorly,No,Few times,Sometimes,Neutral,Family/Friends,Daily,No,2,No,Not motivated,Yes,Yes,75,30,30,Focus on better sleep habits.
+695,Happy,2,Very well,Sometimes,Daily,Yes,Not satisfied,Nature/Relaxing,Sometimes,No,6,Yes,Somewhat,Somewhat,Maybe,10,0,0,Focus on better sleep habits.
+696,Happy,9,Okay,Sometimes,Rarely,No,Neutral,Achievement,Sometimes,No,6,Trying,Not motivated,Somewhat,No,35,10,25,Focus on better sleep habits.
+697,Happy,6,Very well,No,Few times,Yes,Neutral,Family/Friends,Daily,No,8,Yes,Highly motivated,Somewhat,Maybe,10,0,0,Practice relaxation and hobbies more often.
+698,Happy,9,Poorly,Yes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Daily,No,9,Trying,Not motivated,No,Yes,50,0,30,Talk to a trusted friend or therapist.
+699,Neutral,10,Poorly,No,Rarely,No,Very satisfied,Achievement,Daily,No,5,No,Highly motivated,Somewhat,No,60,10,35,Increase social interactions or join groups.
+700,Neutral,10,Very well,No,Few times,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,2,Trying,Highly motivated,Yes,Maybe,30,10,20,Set small achievable goals for motivation.
+701,Anxious,4,Poorly,Sometimes,Few times,No,Not satisfied,Achievement,Rarely,Sometimes,5,Trying,Not motivated,Yes,Yes,70,30,20,Consider regular exercise and mindfulness.
+702,Neutral,9,Very well,Sometimes,Rarely,Yes,Not satisfied,Achievement,Daily,Sometimes,10,Yes,Not motivated,No,Maybe,45,0,25,Set small achievable goals for motivation.
+703,Sad,7,Very well,No,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,No,2,Yes,Somewhat,No,Maybe,65,30,15,Maintain a balanced diet and hydration.
+704,Sad,3,Very well,Sometimes,Few times,Sometimes,Not satisfied,Family/Friends,Sometimes,No,8,Yes,Highly motivated,Somewhat,No,30,20,0,Set small achievable goals for motivation.
+705,Neutral,1,Okay,No,Daily,No,Very satisfied,Nature/Relaxing,Rarely,No,10,Trying,Somewhat,Yes,Yes,25,10,10,Practice relaxation and hobbies more often.
+706,Neutral,3,Very well,Yes,Rarely,Yes,Neutral,Family/Friends,Daily,Yes,4,Trying,Somewhat,Yes,Maybe,10,15,25,Seek professional help if feeling overwhelmed.
+707,Anxious,5,Very well,No,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,Sometimes,10,No,Highly motivated,Yes,Yes,40,20,10,Seek professional help if feeling overwhelmed.
+708,Neutral,2,Very well,Sometimes,Few times,No,Neutral,Family/Friends,Daily,Sometimes,3,Trying,Somewhat,Somewhat,Maybe,25,20,0,Focus on better sleep habits.
+709,Neutral,10,Okay,Sometimes,Daily,Yes,Very satisfied,Nature/Relaxing,Daily,Yes,6,No,Somewhat,Yes,Yes,10,15,40,Focus on better sleep habits.
+710,Sad,2,Okay,Sometimes,Few times,Sometimes,Not satisfied,Achievement,Rarely,Sometimes,9,Trying,Highly motivated,Yes,No,30,20,10,Consider regular exercise and mindfulness.
+711,Happy,7,Okay,Sometimes,Daily,Sometimes,Very satisfied,Achievement,Rarely,Sometimes,9,Yes,Somewhat,Somewhat,No,0,0,10,Practice relaxation and hobbies more often.
+712,Neutral,2,Poorly,No,Few times,Yes,Very satisfied,Achievement,Daily,Sometimes,9,Yes,Somewhat,Yes,No,25,0,10,Set small achievable goals for motivation.
+713,Sad,2,Okay,No,Daily,No,Very satisfied,Family/Friends,Sometimes,Sometimes,1,Yes,Somewhat,Yes,No,55,40,0,Focus on better sleep habits.
+714,Happy,7,Very well,Sometimes,Rarely,Yes,Not satisfied,Achievement,Rarely,Yes,7,No,Highly motivated,No,Maybe,45,15,35,Increase social interactions or join groups.
+715,Happy,3,Very well,No,Daily,Sometimes,Very satisfied,Achievement,Daily,Yes,4,No,Somewhat,No,Yes,35,15,20,Focus on better sleep habits.
+716,Anxious,2,Okay,Sometimes,Daily,No,Neutral,Achievement,Daily,Sometimes,8,No,Somewhat,Somewhat,Maybe,45,30,0,Consider regular exercise and mindfulness.
+717,Sad,5,Okay,Yes,Rarely,Yes,Very satisfied,Family/Friends,Rarely,Yes,8,Trying,Somewhat,No,Maybe,45,35,35,Practice relaxation and hobbies more often.
+718,Happy,4,Very well,Yes,Daily,Yes,Very satisfied,Achievement,Rarely,Sometimes,7,Trying,Not motivated,Yes,No,10,0,10,Practice relaxation and hobbies more often.
+719,Anxious,3,Very well,No,Daily,Sometimes,Neutral,Family/Friends,Sometimes,Sometimes,7,Yes,Not motivated,Yes,Maybe,40,20,0,Seek professional help if feeling overwhelmed.
+720,Neutral,6,Very well,No,Rarely,Yes,Not satisfied,Family/Friends,Daily,No,4,No,Somewhat,Yes,Maybe,40,0,5,Focus on better sleep habits.
+721,Happy,8,Poorly,Yes,Few times,Sometimes,Not satisfied,Achievement,Daily,No,1,Yes,Highly motivated,Yes,No,35,10,30,Increase social interactions or join groups.
+722,Sad,8,Very well,No,Rarely,Sometimes,Very satisfied,Achievement,Sometimes,Yes,5,No,Highly motivated,Yes,Maybe,50,35,45,Seek professional help if feeling overwhelmed.
+723,Anxious,10,Very well,Sometimes,Daily,Sometimes,Neutral,Achievement,Rarely,Sometimes,4,Yes,Somewhat,Somewhat,No,20,20,30,Practice relaxation and hobbies more often.
+724,Anxious,6,Okay,Yes,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Yes,9,No,Somewhat,Yes,No,40,35,25,Practice relaxation and hobbies more often.
+725,Happy,9,Poorly,Sometimes,Daily,Sometimes,Neutral,Achievement,Daily,Sometimes,4,Yes,Highly motivated,Yes,Yes,15,0,30,Practice relaxation and hobbies more often.
+726,Neutral,2,Very well,No,Rarely,Sometimes,Not satisfied,Achievement,Sometimes,No,4,Yes,Not motivated,No,Maybe,55,0,5,Maintain a balanced diet and hydration.
+727,Neutral,3,Very well,No,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Yes,9,No,Somewhat,No,Maybe,35,15,20,Seek professional help if feeling overwhelmed.
+728,Happy,3,Okay,Sometimes,Daily,Sometimes,Very satisfied,Achievement,Sometimes,No,4,Trying,Not motivated,Yes,Yes,10,0,0,Set small achievable goals for motivation.
+729,Anxious,7,Poorly,No,Daily,Yes,Neutral,Nature/Relaxing,Sometimes,No,1,Yes,Highly motivated,Yes,No,55,30,10,Maintain a balanced diet and hydration.
+730,Anxious,3,Poorly,No,Rarely,No,Neutral,Family/Friends,Rarely,Sometimes,5,Yes,Highly motivated,Yes,No,70,30,25,Practice relaxation and hobbies more often.
+731,Sad,6,Poorly,No,Rarely,No,Neutral,Achievement,Daily,Yes,10,Trying,Not motivated,No,No,95,45,35,Seek professional help if feeling overwhelmed.
+732,Anxious,8,Very well,No,Daily,No,Neutral,Family/Friends,Daily,No,10,Yes,Not motivated,Yes,Maybe,55,30,20,Talk to a trusted friend or therapist.
+733,Happy,9,Poorly,Yes,Daily,Yes,Neutral,Family/Friends,Daily,No,2,Yes,Highly motivated,Yes,Maybe,25,10,30,Set small achievable goals for motivation.
+734,Anxious,3,Very well,Yes,Few times,Sometimes,Not satisfied,Achievement,Daily,Yes,8,No,Somewhat,Yes,No,40,35,20,Talk to a trusted friend or therapist.
+735,Anxious,10,Poorly,Sometimes,Rarely,Sometimes,Not satisfied,Achievement,Rarely,Sometimes,6,No,Somewhat,Yes,No,65,20,45,Consider regular exercise and mindfulness.
+736,Anxious,5,Very well,No,Few times,No,Neutral,Nature/Relaxing,Daily,No,3,Trying,Somewhat,Yes,Maybe,55,40,0,Consider regular exercise and mindfulness.
+737,Neutral,4,Poorly,Sometimes,Rarely,No,Very satisfied,Nature/Relaxing,Daily,Yes,6,Trying,Somewhat,Somewhat,Maybe,40,25,35,Focus on better sleep habits.
+738,Happy,1,Poorly,Yes,Few times,Sometimes,Very satisfied,Family/Friends,Rarely,Yes,8,Trying,Not motivated,Somewhat,No,25,15,40,Increase social interactions or join groups.
+739,Anxious,9,Poorly,No,Rarely,Sometimes,Not satisfied,Achievement,Daily,Sometimes,7,No,Not motivated,Yes,No,85,20,35,Set small achievable goals for motivation.
+740,Happy,10,Okay,Yes,Daily,Sometimes,Neutral,Achievement,Rarely,Yes,6,Trying,Not motivated,Yes,Yes,10,15,50,Increase social interactions or join groups.
+741,Sad,2,Poorly,No,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,No,9,Yes,Somewhat,No,Maybe,70,20,25,Talk to a trusted friend or therapist.
+742,Happy,3,Okay,Yes,Daily,Sometimes,Neutral,Achievement,Sometimes,Yes,10,Trying,Somewhat,Somewhat,Yes,0,15,20,Seek professional help if feeling overwhelmed.
+743,Happy,4,Okay,Sometimes,Daily,No,Neutral,Family/Friends,Rarely,Sometimes,10,Yes,Somewhat,Somewhat,Maybe,15,10,10,Maintain a balanced diet and hydration.
+744,Anxious,5,Okay,No,Few times,Yes,Not satisfied,Achievement,Daily,Sometimes,10,Yes,Not motivated,No,Maybe,65,20,0,Maintain a balanced diet and hydration.
+745,Happy,1,Very well,Yes,Daily,Sometimes,Not satisfied,Achievement,Daily,Yes,3,No,Somewhat,No,No,45,25,20,Maintain a balanced diet and hydration.
+746,Anxious,3,Poorly,No,Daily,Yes,Neutral,Family/Friends,Daily,No,3,Yes,Somewhat,Somewhat,No,55,30,10,Set small achievable goals for motivation.
+747,Anxious,3,Poorly,Sometimes,Daily,Yes,Neutral,Achievement,Sometimes,Yes,7,No,Not motivated,Yes,No,55,35,30,Maintain a balanced diet and hydration.
+748,Sad,8,Okay,Yes,Few times,Yes,Neutral,Achievement,Daily,No,10,No,Highly motivated,Somewhat,Maybe,30,20,20,Maintain a balanced diet and hydration.
+749,Happy,3,Poorly,Yes,Few times,Yes,Very satisfied,Nature/Relaxing,Daily,Yes,6,No,Highly motivated,Somewhat,Maybe,25,15,30,Maintain a balanced diet and hydration.
+750,Neutral,3,Very well,Sometimes,Rarely,No,Very satisfied,Achievement,Rarely,No,1,Trying,Somewhat,No,Maybe,50,20,15,Maintain a balanced diet and hydration.
+751,Happy,1,Poorly,Sometimes,Rarely,Yes,Not satisfied,Family/Friends,Rarely,Yes,2,Trying,Not motivated,No,Maybe,70,25,45,Focus on better sleep habits.
+752,Happy,8,Okay,Yes,Daily,No,Very satisfied,Achievement,Daily,No,5,Trying,Somewhat,Yes,Maybe,15,10,20,Focus on better sleep habits.
+753,Neutral,10,Poorly,Yes,Rarely,Yes,Not satisfied,Family/Friends,Sometimes,Sometimes,1,Trying,Not motivated,Somewhat,Maybe,55,10,35,Talk to a trusted friend or therapist.
+754,Happy,1,Very well,Sometimes,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,Yes,8,Trying,Highly motivated,No,Maybe,25,15,35,Seek professional help if feeling overwhelmed.
+755,Neutral,1,Poorly,No,Daily,No,Neutral,Family/Friends,Daily,No,3,No,Somewhat,Somewhat,Maybe,60,20,10,Focus on better sleep habits.
+756,Anxious,8,Very well,Yes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,No,3,No,Not motivated,Somewhat,Maybe,50,30,20,Set small achievable goals for motivation.
+757,Sad,1,Very well,Yes,Rarely,Sometimes,Not satisfied,Achievement,Rarely,No,5,Trying,Somewhat,No,Maybe,55,20,15,Focus on better sleep habits.
+758,Neutral,2,Okay,No,Daily,Sometimes,Not satisfied,Family/Friends,Rarely,Yes,5,Trying,Not motivated,No,No,45,15,30,Consider regular exercise and mindfulness.
+759,Neutral,8,Poorly,Yes,Rarely,No,Not satisfied,Family/Friends,Rarely,No,5,Trying,Highly motivated,Yes,Yes,50,10,45,Set small achievable goals for motivation.
+760,Sad,4,Very well,Yes,Few times,No,Neutral,Family/Friends,Rarely,No,9,Trying,Not motivated,Yes,Maybe,45,30,10,Practice relaxation and hobbies more often.
+761,Neutral,9,Okay,Sometimes,Daily,Yes,Neutral,Family/Friends,Sometimes,Sometimes,6,No,Highly motivated,Somewhat,No,10,0,20,Practice relaxation and hobbies more often.
+762,Anxious,9,Poorly,No,Few times,No,Not satisfied,Achievement,Rarely,No,9,No,Not motivated,No,No,100,30,40,Practice relaxation and hobbies more often.
+763,Sad,1,Okay,No,Rarely,Yes,Neutral,Nature/Relaxing,Rarely,No,8,Yes,Somewhat,No,No,55,20,15,Practice relaxation and hobbies more often.
+764,Neutral,1,Very well,Sometimes,Daily,Sometimes,Very satisfied,Achievement,Rarely,Sometimes,2,Yes,Not motivated,Somewhat,Maybe,20,10,10,Practice relaxation and hobbies more often.
+765,Anxious,3,Poorly,No,Few times,No,Neutral,Family/Friends,Daily,Yes,8,No,Not motivated,No,Yes,95,45,30,Seek professional help if feeling overwhelmed.
+766,Anxious,7,Very well,Sometimes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Sometimes,8,No,Highly motivated,No,No,45,20,0,Practice relaxation and hobbies more often.
+767,Neutral,10,Poorly,Yes,Rarely,No,Not satisfied,Family/Friends,Sometimes,No,5,No,Not motivated,No,No,85,10,35,Increase social interactions or join groups.
+768,Happy,4,Okay,Yes,Daily,No,Very satisfied,Achievement,Daily,Sometimes,9,Yes,Not motivated,Somewhat,Maybe,25,10,0,Increase social interactions or join groups.
+769,Happy,1,Very well,No,Few times,Sometimes,Very satisfied,Family/Friends,Rarely,Yes,2,Trying,Not motivated,Yes,Maybe,30,25,30,Maintain a balanced diet and hydration.
+770,Sad,8,Poorly,Sometimes,Rarely,No,Very satisfied,Family/Friends,Rarely,Yes,4,Trying,Somewhat,Yes,Yes,60,45,65,Maintain a balanced diet and hydration.
+771,Anxious,1,Poorly,Sometimes,Few times,Yes,Neutral,Family/Friends,Daily,Yes,8,Trying,Highly motivated,Somewhat,Yes,35,35,30,Seek professional help if feeling overwhelmed.
+772,Anxious,2,Very well,No,Rarely,Yes,Not satisfied,Achievement,Sometimes,No,8,Yes,Somewhat,Somewhat,No,50,20,5,Seek professional help if feeling overwhelmed.
+773,Sad,10,Poorly,Yes,Daily,Yes,Neutral,Nature/Relaxing,Sometimes,No,1,Yes,Highly motivated,Somewhat,Maybe,45,30,30,Maintain a balanced diet and hydration.
+774,Neutral,4,Okay,Sometimes,Daily,Yes,Not satisfied,Achievement,Daily,Sometimes,6,Trying,Somewhat,No,Maybe,25,0,0,Set small achievable goals for motivation.
+775,Happy,4,Okay,Yes,Few times,Yes,Not satisfied,Family/Friends,Rarely,No,4,Yes,Somewhat,Somewhat,Maybe,10,0,10,Talk to a trusted friend or therapist.
+776,Anxious,2,Okay,Sometimes,Rarely,Yes,Very satisfied,Nature/Relaxing,Daily,Sometimes,7,No,Not motivated,No,Yes,65,20,5,Seek professional help if feeling overwhelmed.
+777,Happy,2,Poorly,No,Rarely,Sometimes,Neutral,Family/Friends,Daily,Sometimes,4,No,Highly motivated,No,No,60,0,15,Consider regular exercise and mindfulness.
+778,Neutral,5,Okay,Yes,Daily,Sometimes,Neutral,Nature/Relaxing,Daily,Yes,2,Yes,Somewhat,No,No,25,25,20,Practice relaxation and hobbies more often.
+779,Neutral,5,Okay,No,Rarely,No,Neutral,Achievement,Sometimes,No,5,Yes,Somewhat,Yes,Maybe,35,10,5,Increase social interactions or join groups.
+780,Happy,7,Okay,Sometimes,Few times,Yes,Neutral,Nature/Relaxing,Sometimes,Yes,9,Trying,Not motivated,Yes,Maybe,10,15,20,Consider regular exercise and mindfulness.
+781,Neutral,10,Okay,Sometimes,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,Yes,1,No,Somewhat,Yes,No,30,25,55,Seek professional help if feeling overwhelmed.
+782,Anxious,7,Very well,No,Daily,Sometimes,Neutral,Family/Friends,Sometimes,Yes,8,Yes,Somewhat,Yes,Maybe,30,35,20,Set small achievable goals for motivation.
+783,Happy,5,Very well,Sometimes,Few times,Sometimes,Very satisfied,Family/Friends,Rarely,No,9,Trying,Highly motivated,Somewhat,Maybe,0,0,10,Seek professional help if feeling overwhelmed.
+784,Anxious,7,Very well,Yes,Few times,No,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,6,No,Not motivated,No,Yes,80,30,0,Seek professional help if feeling overwhelmed.
+785,Anxious,8,Poorly,Sometimes,Few times,Sometimes,Neutral,Nature/Relaxing,Daily,Yes,10,Trying,Somewhat,Somewhat,Maybe,35,35,50,Seek professional help if feeling overwhelmed.
+786,Anxious,8,Okay,Yes,Few times,No,Not satisfied,Family/Friends,Daily,Yes,9,Yes,Not motivated,Yes,No,55,45,40,Maintain a balanced diet and hydration.
+787,Happy,7,Okay,No,Rarely,Sometimes,Neutral,Family/Friends,Rarely,Yes,10,No,Not motivated,Yes,Maybe,40,15,35,Maintain a balanced diet and hydration.
+788,Sad,10,Poorly,No,Rarely,Yes,Very satisfied,Family/Friends,Rarely,Yes,2,No,Highly motivated,Yes,No,75,45,65,Set small achievable goals for motivation.
+789,Neutral,9,Very well,No,Few times,No,Neutral,Family/Friends,Sometimes,Yes,9,No,Not motivated,Somewhat,No,45,25,40,Maintain a balanced diet and hydration.
+790,Happy,4,Poorly,Yes,Few times,Yes,Very satisfied,Nature/Relaxing,Daily,Sometimes,7,Yes,Highly motivated,No,No,30,0,10,Set small achievable goals for motivation.
+791,Happy,3,Very well,No,Few times,No,Very satisfied,Nature/Relaxing,Rarely,Sometimes,2,No,Somewhat,No,Maybe,60,20,10,Consider regular exercise and mindfulness.
+792,Anxious,7,Okay,Yes,Daily,No,Not satisfied,Nature/Relaxing,Daily,Sometimes,1,Yes,Highly motivated,No,Maybe,70,40,0,Consider regular exercise and mindfulness.
+793,Happy,2,Poorly,Yes,Rarely,Yes,Very satisfied,Achievement,Daily,Yes,2,Trying,Highly motivated,Yes,No,35,25,35,Maintain a balanced diet and hydration.
+794,Neutral,9,Poorly,No,Daily,No,Not satisfied,Achievement,Sometimes,Yes,7,Yes,Highly motivated,Somewhat,Maybe,50,25,50,Consider regular exercise and mindfulness.
+795,Happy,4,Okay,Yes,Few times,Yes,Neutral,Family/Friends,Rarely,Yes,6,No,Somewhat,No,No,25,15,30,Maintain a balanced diet and hydration.
+796,Happy,7,Poorly,No,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,No,5,No,Somewhat,Somewhat,Maybe,35,0,10,Maintain a balanced diet and hydration.
+797,Sad,9,Poorly,Sometimes,Rarely,Sometimes,Not satisfied,Achievement,Rarely,Sometimes,2,Yes,Not motivated,No,Yes,90,30,45,Focus on better sleep habits.
+798,Anxious,7,Okay,Sometimes,Daily,Yes,Not satisfied,Family/Friends,Sometimes,No,9,Yes,Somewhat,Yes,Yes,30,20,0,Focus on better sleep habits.
+799,Happy,4,Poorly,Sometimes,Rarely,Yes,Neutral,Nature/Relaxing,Sometimes,No,6,Yes,Somewhat,Yes,Yes,25,0,15,Increase social interactions or join groups.
+800,Happy,9,Poorly,Sometimes,Few times,Yes,Neutral,Nature/Relaxing,Daily,No,10,Trying,Not motivated,Yes,Maybe,25,0,30,Focus on better sleep habits.
+801,Anxious,7,Poorly,No,Few times,Sometimes,Neutral,Achievement,Rarely,No,1,No,Not motivated,No,Yes,90,30,20,Seek professional help if feeling overwhelmed.
+802,Happy,2,Very well,Yes,Daily,No,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,5,Trying,Not motivated,Yes,Yes,35,10,0,Maintain a balanced diet and hydration.
+803,Happy,8,Okay,No,Rarely,No,Neutral,Achievement,Rarely,Yes,7,Trying,Not motivated,No,Maybe,60,25,55,Focus on better sleep habits.
+804,Neutral,5,Very well,No,Rarely,Yes,Neutral,Achievement,Rarely,No,1,No,Highly motivated,No,No,55,10,15,Consider regular exercise and mindfulness.
+805,Anxious,6,Okay,Yes,Daily,Sometimes,Not satisfied,Family/Friends,Sometimes,No,9,Yes,Highly motivated,Somewhat,No,30,20,0,Talk to a trusted friend or therapist.
+806,Happy,2,Very well,Sometimes,Rarely,No,Very satisfied,Family/Friends,Rarely,Yes,9,Yes,Highly motivated,No,Yes,40,25,35,Seek professional help if feeling overwhelmed.
+807,Happy,7,Very well,Sometimes,Few times,No,Neutral,Achievement,Daily,No,10,Trying,Somewhat,Yes,Maybe,15,10,0,Seek professional help if feeling overwhelmed.
+808,Anxious,1,Okay,No,Daily,No,Neutral,Nature/Relaxing,Daily,No,2,Yes,Somewhat,Yes,Maybe,55,40,0,Set small achievable goals for motivation.
+809,Happy,9,Okay,Yes,Daily,Sometimes,Very satisfied,Family/Friends,Sometimes,Yes,7,Yes,Not motivated,Yes,Yes,10,15,40,Practice relaxation and hobbies more often.
+810,Happy,2,Okay,No,Daily,Yes,Not satisfied,Nature/Relaxing,Sometimes,Yes,3,Trying,Highly motivated,Somewhat,No,30,25,20,Consider regular exercise and mindfulness.
+811,Sad,10,Okay,Yes,Daily,Sometimes,Not satisfied,Family/Friends,Sometimes,Yes,10,Yes,Not motivated,Somewhat,Maybe,40,35,40,Maintain a balanced diet and hydration.
+812,Anxious,5,Very well,Sometimes,Daily,No,Not satisfied,Family/Friends,Sometimes,No,8,No,Not motivated,Yes,Maybe,65,30,0,Consider regular exercise and mindfulness.
+813,Happy,2,Okay,Sometimes,Rarely,No,Very satisfied,Nature/Relaxing,Daily,Yes,6,Yes,Somewhat,No,No,40,25,25,Practice relaxation and hobbies more often.
+814,Happy,2,Okay,Yes,Few times,No,Very satisfied,Nature/Relaxing,Rarely,No,10,Yes,Somewhat,No,Maybe,30,10,10,Practice relaxation and hobbies more often.
+815,Anxious,9,Poorly,No,Rarely,No,Very satisfied,Achievement,Rarely,Sometimes,7,No,Somewhat,No,Yes,95,30,45,Consider regular exercise and mindfulness.
+816,Happy,10,Okay,No,Daily,Yes,Neutral,Family/Friends,Sometimes,Sometimes,6,Yes,Somewhat,Yes,Yes,10,0,20,Increase social interactions or join groups.
+817,Neutral,2,Poorly,Sometimes,Daily,No,Very satisfied,Family/Friends,Rarely,Sometimes,10,Yes,Not motivated,Yes,Yes,40,10,20,Practice relaxation and hobbies more often.
+818,Happy,3,Very well,No,Daily,Sometimes,Neutral,Achievement,Daily,No,5,No,Highly motivated,No,Maybe,35,0,0,Maintain a balanced diet and hydration.
+819,Sad,8,Very well,Yes,Daily,Yes,Neutral,Nature/Relaxing,Rarely,Sometimes,3,No,Highly motivated,Yes,No,40,30,30,Consider regular exercise and mindfulness.
+820,Neutral,7,Okay,Yes,Rarely,Yes,Neutral,Family/Friends,Rarely,Yes,5,Trying,Not motivated,No,Maybe,35,15,35,Talk to a trusted friend or therapist.
+821,Sad,3,Very well,No,Rarely,Sometimes,Neutral,Achievement,Rarely,Yes,7,Yes,Not motivated,Yes,Maybe,50,35,35,Maintain a balanced diet and hydration.
+822,Neutral,9,Poorly,Yes,Rarely,Sometimes,Neutral,Achievement,Daily,Yes,5,No,Not motivated,Somewhat,Maybe,45,15,55,Talk to a trusted friend or therapist.
+823,Neutral,8,Very well,No,Daily,Sometimes,Not satisfied,Nature/Relaxing,Daily,No,6,Trying,Highly motivated,Somewhat,Yes,20,0,20,Practice relaxation and hobbies more often.
+824,Anxious,10,Very well,Yes,Few times,Yes,Not satisfied,Family/Friends,Daily,No,10,Trying,Highly motivated,Somewhat,Maybe,30,20,20,Increase social interactions or join groups.
+825,Anxious,5,Very well,No,Rarely,Yes,Very satisfied,Achievement,Daily,No,3,Yes,Not motivated,No,No,75,30,5,Increase social interactions or join groups.
+826,Sad,6,Poorly,Yes,Daily,Sometimes,Very satisfied,Nature/Relaxing,Rarely,No,9,Yes,Highly motivated,Yes,Maybe,35,20,20,Practice relaxation and hobbies more often.
+827,Anxious,4,Very well,Yes,Rarely,Yes,Very satisfied,Achievement,Rarely,Yes,8,No,Somewhat,Somewhat,Yes,40,35,35,Increase social interactions or join groups.
+828,Neutral,6,Very well,No,Rarely,Yes,Very satisfied,Achievement,Daily,No,6,No,Not motivated,Somewhat,Yes,40,0,5,Consider regular exercise and mindfulness.
+829,Happy,8,Poorly,Yes,Rarely,Sometimes,Neutral,Family/Friends,Rarely,No,8,Trying,Not motivated,No,Yes,50,0,45,Increase social interactions or join groups.
+830,Neutral,7,Poorly,Sometimes,Few times,Yes,Not satisfied,Achievement,Daily,Yes,6,No,Not motivated,No,Yes,60,15,30,Consider regular exercise and mindfulness.
+831,Sad,10,Poorly,Yes,Rarely,No,Neutral,Achievement,Rarely,Yes,2,Yes,Somewhat,Somewhat,Yes,70,55,65,Focus on better sleep habits.
+832,Anxious,5,Okay,Yes,Daily,Sometimes,Not satisfied,Family/Friends,Daily,Sometimes,3,Yes,Not motivated,Yes,No,50,30,0,Maintain a balanced diet and hydration.
+833,Neutral,1,Very well,Sometimes,Rarely,No,Not satisfied,Family/Friends,Sometimes,Yes,5,Yes,Not motivated,Yes,Maybe,45,25,25,Talk to a trusted friend or therapist.
+834,Anxious,3,Poorly,Sometimes,Daily,Yes,Neutral,Achievement,Daily,Sometimes,7,Trying,Somewhat,No,No,50,20,10,Consider regular exercise and mindfulness.
+835,Sad,10,Poorly,No,Few times,Sometimes,Neutral,Achievement,Rarely,Sometimes,8,No,Not motivated,No,Maybe,80,20,40,Seek professional help if feeling overwhelmed.
+836,Sad,6,Very well,Yes,Daily,No,Very satisfied,Achievement,Sometimes,Sometimes,7,Trying,Highly motivated,Yes,Maybe,35,30,0,Seek professional help if feeling overwhelmed.
+837,Neutral,7,Poorly,Yes,Daily,Yes,Not satisfied,Achievement,Sometimes,Yes,1,No,Not motivated,Yes,Yes,55,25,30,Maintain a balanced diet and hydration.
+838,Neutral,1,Very well,Yes,Few times,Yes,Neutral,Achievement,Sometimes,No,8,Trying,Not motivated,No,Yes,25,0,0,Practice relaxation and hobbies more often.
+839,Neutral,3,Very well,Sometimes,Rarely,Sometimes,Not satisfied,Achievement,Daily,Yes,3,Trying,Highly motivated,Yes,Yes,30,25,25,Focus on better sleep habits.
+840,Happy,2,Very well,Yes,Rarely,No,Not satisfied,Achievement,Sometimes,Sometimes,6,No,Somewhat,Somewhat,Yes,45,10,5,Practice relaxation and hobbies more often.
+841,Sad,6,Very well,Sometimes,Daily,Yes,Not satisfied,Nature/Relaxing,Rarely,No,9,Trying,Highly motivated,Somewhat,Yes,30,20,10,Increase social interactions or join groups.
+842,Neutral,10,Okay,Sometimes,Rarely,Yes,Neutral,Family/Friends,Daily,Yes,4,Trying,Not motivated,Somewhat,Yes,20,15,45,Increase social interactions or join groups.
+843,Happy,8,Very well,Yes,Few times,Yes,Not satisfied,Family/Friends,Rarely,No,1,Trying,Somewhat,Somewhat,No,20,10,30,Consider regular exercise and mindfulness.
+844,Sad,8,Very well,Yes,Few times,Sometimes,Neutral,Family/Friends,Rarely,No,5,Trying,Somewhat,No,Maybe,35,20,30,Practice relaxation and hobbies more often.
+845,Anxious,6,Poorly,No,Few times,No,Very satisfied,Achievement,Sometimes,Yes,5,No,Highly motivated,Yes,Maybe,70,45,30,Set small achievable goals for motivation.
+846,Happy,6,Very well,No,Few times,Sometimes,Neutral,Family/Friends,Rarely,Sometimes,2,Trying,Somewhat,Yes,No,20,10,10,Focus on better sleep habits.
+847,Anxious,8,Poorly,No,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,No,3,Yes,Highly motivated,Yes,Yes,65,30,45,Maintain a balanced diet and hydration.
+848,Neutral,5,Very well,Yes,Daily,No,Very satisfied,Achievement,Rarely,No,5,Yes,Highly motivated,Yes,Maybe,15,10,10,Focus on better sleep habits.
+849,Anxious,6,Poorly,Yes,Daily,Yes,Neutral,Achievement,Rarely,No,10,Trying,Somewhat,No,Yes,50,20,20,Talk to a trusted friend or therapist.
+850,Neutral,9,Very well,Yes,Few times,No,Neutral,Family/Friends,Rarely,Sometimes,4,Trying,Not motivated,Yes,No,25,10,30,Focus on better sleep habits.
+851,Anxious,3,Poorly,Yes,Few times,No,Very satisfied,Nature/Relaxing,Sometimes,Yes,6,Trying,Highly motivated,Yes,No,50,45,30,Seek professional help if feeling overwhelmed.
+852,Anxious,3,Okay,Sometimes,Rarely,Yes,Neutral,Nature/Relaxing,Rarely,Sometimes,4,Trying,Not motivated,No,Yes,55,20,15,Maintain a balanced diet and hydration.
+853,Neutral,9,Very well,Yes,Daily,Sometimes,Very satisfied,Achievement,Sometimes,Yes,6,Trying,Not motivated,No,Maybe,25,15,40,Increase social interactions or join groups.
+854,Anxious,8,Poorly,No,Rarely,No,Not satisfied,Family/Friends,Sometimes,No,9,Yes,Somewhat,Somewhat,Yes,80,30,35,Increase social interactions or join groups.
+855,Happy,6,Very well,No,Rarely,Sometimes,Not satisfied,Achievement,Rarely,No,9,Trying,Somewhat,Somewhat,Yes,30,0,15,Seek professional help if feeling overwhelmed.
+856,Neutral,5,Okay,Sometimes,Rarely,Yes,Neutral,Achievement,Daily,Yes,7,No,Somewhat,No,No,35,15,25,Practice relaxation and hobbies more often.
+857,Anxious,3,Very well,Sometimes,Daily,Yes,Not satisfied,Nature/Relaxing,Sometimes,No,5,Yes,Not motivated,No,No,55,20,0,Talk to a trusted friend or therapist.
+858,Neutral,8,Poorly,Yes,Few times,No,Not satisfied,Achievement,Rarely,No,1,No,Not motivated,No,Yes,85,20,40,Increase social interactions or join groups.
+859,Sad,8,Very well,Yes,Few times,No,Not satisfied,Family/Friends,Sometimes,Sometimes,3,No,Not motivated,No,Yes,90,40,20,Increase social interactions or join groups.
+860,Happy,1,Poorly,No,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,No,5,No,Not motivated,No,Yes,60,0,20,Set small achievable goals for motivation.
+861,Happy,6,Poorly,No,Daily,Yes,Neutral,Achievement,Rarely,Yes,4,Trying,Somewhat,Somewhat,No,25,15,40,Practice relaxation and hobbies more often.
+862,Neutral,3,Very well,No,Few times,No,Neutral,Nature/Relaxing,Sometimes,Sometimes,7,Trying,Highly motivated,No,No,40,10,0,Set small achievable goals for motivation.
+863,Anxious,6,Okay,No,Few times,Sometimes,Very satisfied,Achievement,Sometimes,No,1,Trying,Not motivated,Yes,Yes,50,30,0,Seek professional help if feeling overwhelmed.
+864,Sad,1,Very well,Yes,Daily,Yes,Neutral,Nature/Relaxing,Rarely,Yes,10,No,Somewhat,Yes,Yes,30,35,30,Practice relaxation and hobbies more often.
+865,Anxious,8,Okay,Yes,Daily,Sometimes,Not satisfied,Family/Friends,Daily,Sometimes,2,No,Somewhat,No,Maybe,65,30,20,Set small achievable goals for motivation.
+866,Neutral,5,Poorly,Yes,Daily,No,Very satisfied,Family/Friends,Sometimes,Yes,4,Trying,Highly motivated,No,No,45,25,30,Increase social interactions or join groups.
+867,Anxious,5,Very well,No,Daily,Yes,Neutral,Achievement,Daily,Sometimes,6,No,Not motivated,Somewhat,Maybe,50,20,0,Seek professional help if feeling overwhelmed.
+868,Neutral,7,Okay,Yes,Rarely,Yes,Not satisfied,Family/Friends,Sometimes,Sometimes,10,Yes,Not motivated,Yes,Maybe,30,0,5,Maintain a balanced diet and hydration.
+869,Neutral,7,Very well,No,Rarely,Yes,Not satisfied,Family/Friends,Daily,Sometimes,5,No,Not motivated,No,Maybe,65,0,5,Focus on better sleep habits.
+870,Anxious,6,Poorly,No,Few times,Yes,Very satisfied,Nature/Relaxing,Sometimes,Sometimes,1,No,Highly motivated,Somewhat,No,65,30,10,Seek professional help if feeling overwhelmed.
+871,Neutral,8,Very well,Yes,Few times,No,Not satisfied,Achievement,Sometimes,No,10,No,Not motivated,Somewhat,No,45,10,20,Increase social interactions or join groups.
+872,Neutral,3,Poorly,Sometimes,Rarely,Sometimes,Not satisfied,Achievement,Daily,Sometimes,1,Trying,Highly motivated,No,Yes,60,10,15,Practice relaxation and hobbies more often.
+873,Sad,3,Okay,No,Few times,Sometimes,Very satisfied,Achievement,Rarely,Yes,1,Trying,Somewhat,Yes,Yes,40,45,30,Seek professional help if feeling overwhelmed.
+874,Happy,5,Okay,Yes,Rarely,Yes,Very satisfied,Family/Friends,Daily,No,3,Yes,Somewhat,Yes,Yes,20,10,5,Increase social interactions or join groups.
+875,Anxious,5,Okay,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Sometimes,No,5,No,Not motivated,Somewhat,Maybe,50,20,0,Practice relaxation and hobbies more often.
+876,Anxious,9,Okay,Sometimes,Few times,Sometimes,Neutral,Nature/Relaxing,Sometimes,Sometimes,7,Trying,Not motivated,Yes,No,30,20,20,Seek professional help if feeling overwhelmed.
+877,Neutral,10,Poorly,Yes,Rarely,Yes,Very satisfied,Achievement,Daily,No,3,Yes,Not motivated,Somewhat,No,45,10,35,Seek professional help if feeling overwhelmed.
+878,Sad,7,Poorly,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Sometimes,No,1,No,Highly motivated,No,Yes,80,30,10,Focus on better sleep habits.
+879,Sad,9,Poorly,Yes,Few times,Yes,Very satisfied,Family/Friends,Daily,No,6,No,Not motivated,Yes,Maybe,55,20,30,Seek professional help if feeling overwhelmed.
+880,Happy,8,Poorly,No,Rarely,Sometimes,Neutral,Family/Friends,Daily,Yes,9,Yes,Highly motivated,Yes,Maybe,35,15,55,Practice relaxation and hobbies more often.
+881,Anxious,9,Okay,Sometimes,Daily,Sometimes,Very satisfied,Family/Friends,Sometimes,Sometimes,9,Trying,Somewhat,Yes,Maybe,20,20,20,Maintain a balanced diet and hydration.
+882,Neutral,2,Okay,Sometimes,Daily,Sometimes,Neutral,Nature/Relaxing,Daily,Sometimes,7,Yes,Highly motivated,No,Yes,15,0,0,Practice relaxation and hobbies more often.
+883,Happy,3,Poorly,No,Rarely,Yes,Not satisfied,Achievement,Rarely,Sometimes,3,Trying,Highly motivated,Somewhat,Yes,55,10,25,Focus on better sleep habits.
+884,Sad,7,Very well,Yes,Daily,Sometimes,Not satisfied,Achievement,Sometimes,Sometimes,3,Trying,Not motivated,Yes,No,50,30,0,Practice relaxation and hobbies more often.
+885,Happy,6,Okay,No,Rarely,No,Very satisfied,Nature/Relaxing,Rarely,Yes,3,Trying,Highly motivated,Somewhat,Maybe,45,35,35,Focus on better sleep habits.
+886,Happy,7,Okay,No,Few times,No,Neutral,Family/Friends,Rarely,Sometimes,10,Trying,Not motivated,Somewhat,Yes,35,10,10,Set small achievable goals for motivation.
+887,Sad,10,Okay,No,Few times,Sometimes,Not satisfied,Achievement,Daily,Yes,5,Yes,Highly motivated,Yes,No,40,35,40,Maintain a balanced diet and hydration.
+888,Anxious,6,Okay,Yes,Rarely,Sometimes,Not satisfied,Achievement,Daily,Sometimes,8,No,Somewhat,Yes,Yes,50,20,5,Set small achievable goals for motivation.
+889,Anxious,3,Poorly,Yes,Daily,No,Not satisfied,Achievement,Sometimes,Yes,9,Trying,Highly motivated,Somewhat,Maybe,60,45,30,Focus on better sleep habits.
+890,Anxious,1,Poorly,No,Daily,No,Neutral,Nature/Relaxing,Daily,No,2,Trying,Somewhat,Somewhat,No,70,40,10,Practice relaxation and hobbies more often.
+891,Happy,1,Okay,No,Daily,No,Very satisfied,Achievement,Sometimes,Yes,3,Yes,Not motivated,Yes,No,45,35,20,Talk to a trusted friend or therapist.
+892,Neutral,10,Very well,Sometimes,Daily,Yes,Not satisfied,Achievement,Daily,No,6,Yes,Not motivated,No,No,35,0,20,Talk to a trusted friend or therapist.
+893,Anxious,6,Very well,No,Daily,Yes,Not satisfied,Family/Friends,Sometimes,No,9,No,Not motivated,Yes,No,60,20,0,Set small achievable goals for motivation.
+894,Happy,1,Okay,Sometimes,Rarely,No,Neutral,Nature/Relaxing,Sometimes,No,9,Yes,Somewhat,Somewhat,Yes,25,10,5,Talk to a trusted friend or therapist.
+895,Neutral,5,Poorly,No,Rarely,No,Not satisfied,Family/Friends,Sometimes,Yes,2,Yes,Highly motivated,No,Yes,85,35,35,Seek professional help if feeling overwhelmed.
+896,Happy,10,Very well,No,Few times,Yes,Neutral,Nature/Relaxing,Rarely,No,5,Yes,Highly motivated,Yes,Maybe,10,0,30,Consider regular exercise and mindfulness.
+897,Anxious,1,Poorly,No,Rarely,Yes,Not satisfied,Achievement,Rarely,No,2,No,Highly motivated,No,Maybe,100,30,25,Set small achievable goals for motivation.
+898,Happy,4,Poorly,Yes,Few times,Sometimes,Not satisfied,Achievement,Sometimes,Yes,2,No,Not motivated,Yes,Yes,55,25,30,Practice relaxation and hobbies more often.
+899,Sad,9,Poorly,Yes,Daily,No,Very satisfied,Nature/Relaxing,Sometimes,Sometimes,2,No,Somewhat,No,No,85,40,30,Set small achievable goals for motivation.
+900,Sad,1,Okay,Sometimes,Daily,Yes,Not satisfied,Nature/Relaxing,Sometimes,Yes,2,Trying,Highly motivated,Yes,No,40,45,20,Maintain a balanced diet and hydration.
+901,Happy,7,Okay,Yes,Daily,Yes,Very satisfied,Family/Friends,Daily,Sometimes,9,Yes,Highly motivated,Yes,No,0,0,0,Talk to a trusted friend or therapist.
+902,Sad,2,Okay,No,Daily,Sometimes,Not satisfied,Nature/Relaxing,Rarely,No,10,Yes,Somewhat,Somewhat,Maybe,40,20,10,Talk to a trusted friend or therapist.
+903,Happy,6,Poorly,Sometimes,Rarely,Yes,Neutral,Nature/Relaxing,Sometimes,Yes,7,No,Highly motivated,Yes,Yes,35,15,35,Consider regular exercise and mindfulness.
+904,Neutral,6,Very well,No,Daily,No,Very satisfied,Family/Friends,Daily,No,5,No,Highly motivated,Yes,Yes,35,10,0,Seek professional help if feeling overwhelmed.
+905,Neutral,5,Very well,Yes,Few times,No,Very satisfied,Family/Friends,Sometimes,No,6,No,Highly motivated,Yes,No,25,10,0,Consider regular exercise and mindfulness.
+906,Sad,9,Very well,Yes,Few times,No,Very satisfied,Nature/Relaxing,Daily,No,1,Trying,Highly motivated,Somewhat,Yes,45,40,20,Seek professional help if feeling overwhelmed.
+907,Happy,3,Very well,No,Rarely,No,Very satisfied,Family/Friends,Sometimes,Sometimes,2,Trying,Highly motivated,No,Yes,60,20,5,Talk to a trusted friend or therapist.
+908,Neutral,4,Very well,Sometimes,Rarely,Yes,Very satisfied,Nature/Relaxing,Rarely,No,7,Trying,Highly motivated,Yes,No,10,0,15,Set small achievable goals for motivation.
+909,Anxious,8,Very well,No,Few times,No,Very satisfied,Nature/Relaxing,Sometimes,No,9,No,Highly motivated,No,Yes,70,30,20,Consider regular exercise and mindfulness.
+910,Anxious,10,Poorly,Yes,Daily,No,Very satisfied,Nature/Relaxing,Rarely,Sometimes,3,Yes,Highly motivated,No,Yes,75,40,40,Seek professional help if feeling overwhelmed.
+911,Happy,6,Very well,No,Daily,Sometimes,Neutral,Family/Friends,Rarely,Sometimes,10,Trying,Highly motivated,Somewhat,Yes,10,0,10,Consider regular exercise and mindfulness.
+912,Sad,3,Very well,No,Few times,Yes,Not satisfied,Achievement,Sometimes,Yes,2,Yes,Highly motivated,No,Yes,65,45,20,Maintain a balanced diet and hydration.
+913,Neutral,1,Poorly,No,Rarely,Yes,Neutral,Family/Friends,Sometimes,Yes,1,No,Somewhat,Yes,Yes,55,25,35,Increase social interactions or join groups.
+914,Happy,9,Poorly,Yes,Rarely,Sometimes,Very satisfied,Achievement,Daily,Sometimes,10,Yes,Highly motivated,Yes,Yes,25,0,35,Practice relaxation and hobbies more often.
+915,Sad,8,Very well,Yes,Daily,No,Very satisfied,Achievement,Daily,No,10,Trying,Not motivated,Yes,No,45,30,20,Consider regular exercise and mindfulness.
+916,Sad,8,Poorly,Yes,Rarely,Yes,Not satisfied,Nature/Relaxing,Daily,Yes,6,No,Not motivated,Yes,Maybe,75,35,55,Increase social interactions or join groups.
+917,Sad,5,Okay,No,Daily,Yes,Neutral,Family/Friends,Daily,Yes,10,Trying,Highly motivated,Yes,Maybe,30,35,20,Talk to a trusted friend or therapist.
+918,Sad,10,Okay,Yes,Few times,Sometimes,Neutral,Family/Friends,Rarely,Yes,4,Trying,Somewhat,No,Maybe,35,35,50,Maintain a balanced diet and hydration.
+919,Sad,8,Okay,No,Rarely,No,Not satisfied,Family/Friends,Sometimes,No,8,Yes,Somewhat,Yes,Maybe,65,30,25,Focus on better sleep habits.
+920,Neutral,1,Very well,No,Daily,No,Not satisfied,Family/Friends,Sometimes,No,7,Yes,Somewhat,Yes,Yes,35,10,0,Increase social interactions or join groups.
+921,Neutral,9,Very well,Yes,Daily,No,Not satisfied,Achievement,Daily,Sometimes,2,No,Highly motivated,Somewhat,Yes,45,20,20,Consider regular exercise and mindfulness.
+922,Neutral,3,Very well,Sometimes,Few times,Yes,Not satisfied,Family/Friends,Sometimes,Sometimes,10,Trying,Not motivated,Yes,Yes,20,0,0,Focus on better sleep habits.
+923,Sad,1,Very well,Yes,Few times,Yes,Very satisfied,Achievement,Daily,Sometimes,7,Yes,Not motivated,Somewhat,No,30,20,0,Seek professional help if feeling overwhelmed.
+924,Neutral,5,Okay,Yes,Daily,Yes,Very satisfied,Family/Friends,Daily,No,5,No,Somewhat,Yes,Maybe,10,0,0,Talk to a trusted friend or therapist.
+925,Anxious,2,Okay,Sometimes,Rarely,No,Not satisfied,Achievement,Rarely,Sometimes,5,No,Highly motivated,No,Yes,80,30,15,Consider regular exercise and mindfulness.
+926,Neutral,5,Okay,Yes,Daily,Yes,Neutral,Nature/Relaxing,Rarely,Yes,5,Yes,Not motivated,Somewhat,Yes,10,15,30,Talk to a trusted friend or therapist.
+927,Sad,6,Okay,Yes,Few times,Sometimes,Not satisfied,Family/Friends,Sometimes,Yes,9,Yes,Not motivated,Yes,No,40,35,20,Seek professional help if feeling overwhelmed.
+928,Anxious,6,Poorly,No,Daily,Yes,Neutral,Achievement,Rarely,Yes,2,Yes,Highly motivated,No,No,70,45,40,Set small achievable goals for motivation.
+929,Happy,9,Very well,No,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Yes,10,No,Somewhat,Yes,Yes,30,15,45,Increase social interactions or join groups.
+930,Happy,4,Poorly,No,Daily,No,Very satisfied,Achievement,Sometimes,No,10,No,Not motivated,Yes,Yes,60,10,10,Seek professional help if feeling overwhelmed.
+931,Happy,3,Okay,Yes,Rarely,Yes,Very satisfied,Achievement,Sometimes,No,5,No,Highly motivated,Somewhat,No,20,0,5,Set small achievable goals for motivation.
+932,Anxious,4,Poorly,Yes,Rarely,No,Very satisfied,Achievement,Sometimes,Sometimes,5,Yes,Highly motivated,Somewhat,Yes,60,30,15,Maintain a balanced diet and hydration.
+933,Happy,5,Very well,Sometimes,Rarely,Yes,Not satisfied,Achievement,Sometimes,Yes,9,No,Somewhat,No,Yes,45,15,25,Practice relaxation and hobbies more often.
+934,Anxious,4,Very well,No,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,Yes,8,Trying,Somewhat,Somewhat,Maybe,30,35,20,Consider regular exercise and mindfulness.
+935,Sad,8,Okay,No,Few times,Yes,Neutral,Family/Friends,Rarely,Sometimes,1,No,Not motivated,No,Yes,75,30,30,Talk to a trusted friend or therapist.
+936,Happy,10,Very well,No,Rarely,No,Very satisfied,Family/Friends,Rarely,No,5,No,Somewhat,Yes,No,45,10,35,Consider regular exercise and mindfulness.
+937,Sad,9,Okay,No,Few times,Yes,Very satisfied,Achievement,Daily,Sometimes,7,No,Somewhat,Yes,Yes,40,20,20,Set small achievable goals for motivation.
+938,Anxious,3,Very well,Yes,Rarely,No,Not satisfied,Nature/Relaxing,Daily,No,1,Trying,Highly motivated,Yes,Maybe,65,40,5,Consider regular exercise and mindfulness.
+939,Sad,1,Very well,Yes,Few times,Yes,Very satisfied,Family/Friends,Daily,No,2,Trying,Somewhat,Yes,Yes,30,30,0,Seek professional help if feeling overwhelmed.
+940,Happy,9,Very well,Sometimes,Daily,Yes,Neutral,Family/Friends,Rarely,No,7,Yes,Not motivated,No,Yes,25,0,30,Seek professional help if feeling overwhelmed.
+941,Sad,4,Very well,No,Rarely,Sometimes,Neutral,Achievement,Rarely,Sometimes,2,Trying,Somewhat,Yes,Yes,50,30,15,Seek professional help if feeling overwhelmed.
+942,Sad,3,Okay,No,Rarely,No,Not satisfied,Achievement,Daily,Sometimes,9,Trying,Highly motivated,Yes,Yes,65,30,5,Consider regular exercise and mindfulness.
+943,Neutral,1,Okay,Yes,Daily,Sometimes,Not satisfied,Achievement,Sometimes,No,9,No,Somewhat,Yes,Maybe,20,0,0,Focus on better sleep habits.
+944,Happy,4,Poorly,Sometimes,Rarely,Yes,Neutral,Achievement,Rarely,Yes,8,No,Somewhat,No,Maybe,50,15,45,Set small achievable goals for motivation.
+945,Happy,6,Poorly,No,Daily,No,Not satisfied,Nature/Relaxing,Daily,Yes,2,Yes,Highly motivated,Yes,Yes,60,35,30,Talk to a trusted friend or therapist.
+946,Happy,2,Poorly,No,Daily,No,Neutral,Nature/Relaxing,Rarely,Sometimes,4,Yes,Somewhat,Somewhat,Maybe,40,10,20,Consider regular exercise and mindfulness.
+947,Happy,10,Very well,Yes,Rarely,Yes,Very satisfied,Achievement,Sometimes,Yes,1,Yes,Somewhat,Yes,No,20,25,45,Set small achievable goals for motivation.
+948,Sad,4,Very well,Yes,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,Sometimes,5,Yes,Somewhat,Yes,Yes,20,20,0,Set small achievable goals for motivation.
+949,Neutral,4,Okay,Sometimes,Rarely,No,Not satisfied,Nature/Relaxing,Daily,Yes,1,Yes,Highly motivated,Somewhat,Maybe,45,35,25,Maintain a balanced diet and hydration.
+950,Happy,5,Okay,Yes,Rarely,Sometimes,Not satisfied,Achievement,Daily,Yes,2,No,Somewhat,No,Maybe,55,25,25,Maintain a balanced diet and hydration.
+951,Anxious,7,Poorly,Yes,Few times,No,Not satisfied,Family/Friends,Daily,Yes,6,Yes,Somewhat,Somewhat,Maybe,60,45,30,Practice relaxation and hobbies more often.
+952,Neutral,5,Okay,Sometimes,Few times,Yes,Neutral,Nature/Relaxing,Sometimes,Yes,3,No,Somewhat,Yes,Yes,20,25,20,Consider regular exercise and mindfulness.
+953,Neutral,5,Poorly,Yes,Few times,Sometimes,Not satisfied,Achievement,Daily,Sometimes,1,Yes,Not motivated,No,Yes,60,10,10,Set small achievable goals for motivation.
+954,Anxious,1,Very well,Sometimes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,4,Trying,Highly motivated,Somewhat,No,30,20,0,Increase social interactions or join groups.
+955,Neutral,7,Poorly,Yes,Rarely,No,Not satisfied,Family/Friends,Rarely,No,1,No,Not motivated,Yes,Maybe,80,20,25,Practice relaxation and hobbies more often.
+956,Sad,1,Okay,No,Rarely,No,Neutral,Achievement,Sometimes,No,1,Yes,Somewhat,Somewhat,Maybe,65,40,5,Focus on better sleep habits.
+957,Happy,5,Poorly,Sometimes,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,No,8,No,Not motivated,Somewhat,No,45,0,25,Consider regular exercise and mindfulness.
+958,Sad,8,Okay,Yes,Daily,No,Neutral,Family/Friends,Rarely,Sometimes,2,Yes,Highly motivated,Somewhat,No,45,40,30,Increase social interactions or join groups.
+959,Sad,3,Very well,No,Few times,No,Not satisfied,Nature/Relaxing,Sometimes,Yes,6,Trying,Somewhat,No,Yes,70,45,20,Talk to a trusted friend or therapist.
+960,Neutral,7,Poorly,No,Daily,No,Not satisfied,Nature/Relaxing,Sometimes,No,6,Yes,Highly motivated,No,Maybe,65,10,10,Practice relaxation and hobbies more often.
+961,Sad,2,Very well,Yes,Daily,No,Very satisfied,Family/Friends,Rarely,No,7,No,Somewhat,Yes,Yes,45,30,10,Seek professional help if feeling overwhelmed.
+962,Sad,4,Poorly,Sometimes,Daily,Yes,Neutral,Nature/Relaxing,Daily,Sometimes,6,Yes,Not motivated,No,No,60,20,10,Seek professional help if feeling overwhelmed.
+963,Happy,3,Okay,Sometimes,Few times,Sometimes,Not satisfied,Family/Friends,Rarely,No,6,Yes,Highly motivated,Yes,Maybe,10,0,10,Increase social interactions or join groups.
+964,Neutral,2,Poorly,Yes,Daily,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,No,5,No,Somewhat,Somewhat,Maybe,35,0,10,Consider regular exercise and mindfulness.
+965,Sad,7,Okay,Yes,Rarely,Sometimes,Very satisfied,Family/Friends,Daily,Yes,5,No,Not motivated,Somewhat,No,50,35,25,Set small achievable goals for motivation.
+966,Anxious,10,Poorly,No,Few times,No,Not satisfied,Nature/Relaxing,Sometimes,Yes,1,Trying,Somewhat,No,Maybe,95,55,50,Focus on better sleep habits.
+967,Happy,1,Poorly,Sometimes,Daily,Yes,Very satisfied,Nature/Relaxing,Sometimes,Yes,6,Yes,Highly motivated,Somewhat,Maybe,15,15,30,Increase social interactions or join groups.
+968,Neutral,8,Okay,No,Few times,No,Very satisfied,Achievement,Daily,No,1,Yes,Highly motivated,Yes,Yes,35,20,20,Practice relaxation and hobbies more often.
+969,Anxious,7,Very well,Yes,Few times,No,Not satisfied,Family/Friends,Daily,No,2,Yes,Somewhat,Yes,Yes,55,40,0,Maintain a balanced diet and hydration.
+970,Anxious,4,Poorly,Sometimes,Few times,No,Neutral,Nature/Relaxing,Daily,Yes,7,Yes,Somewhat,Yes,No,50,45,30,Practice relaxation and hobbies more often.
+971,Anxious,7,Very well,No,Few times,No,Not satisfied,Nature/Relaxing,Daily,No,9,No,Highly motivated,Somewhat,No,65,30,0,Focus on better sleep habits.
+972,Happy,2,Very well,Sometimes,Few times,Yes,Neutral,Nature/Relaxing,Sometimes,No,5,Yes,Highly motivated,No,Maybe,15,0,0,Consider regular exercise and mindfulness.
+973,Neutral,5,Very well,Sometimes,Few times,No,Neutral,Family/Friends,Rarely,No,8,Yes,Somewhat,Yes,Yes,15,10,10,Increase social interactions or join groups.
+974,Happy,1,Very well,Sometimes,Rarely,No,Very satisfied,Nature/Relaxing,Rarely,Yes,5,Yes,Somewhat,Somewhat,Yes,25,25,35,Consider regular exercise and mindfulness.
+975,Anxious,6,Okay,Sometimes,Daily,Yes,Not satisfied,Nature/Relaxing,Daily,Yes,5,Trying,Not motivated,Yes,Yes,40,35,20,Set small achievable goals for motivation.
+976,Anxious,1,Poorly,Yes,Few times,Yes,Neutral,Achievement,Sometimes,Yes,1,Trying,Not motivated,Yes,Maybe,55,45,30,Set small achievable goals for motivation.
+977,Anxious,2,Very well,Sometimes,Daily,Yes,Neutral,Achievement,Sometimes,No,7,Yes,Not motivated,Yes,No,30,20,0,Seek professional help if feeling overwhelmed.
+978,Sad,7,Poorly,No,Few times,No,Very satisfied,Achievement,Rarely,No,9,No,Highly motivated,Yes,No,70,30,20,Practice relaxation and hobbies more often.
+979,Happy,6,Very well,Sometimes,Rarely,Sometimes,Not satisfied,Achievement,Rarely,No,4,No,Somewhat,Yes,Yes,30,0,15,Focus on better sleep habits.
+980,Neutral,10,Okay,Yes,Rarely,Yes,Neutral,Family/Friends,Sometimes,Sometimes,4,No,Not motivated,Somewhat,No,30,0,25,Consider regular exercise and mindfulness.
+981,Neutral,8,Okay,Yes,Few times,No,Very satisfied,Achievement,Sometimes,Yes,7,Trying,Not motivated,No,No,40,25,40,Increase social interactions or join groups.
+982,Happy,5,Poorly,Sometimes,Daily,No,Very satisfied,Achievement,Sometimes,Yes,1,Yes,Not motivated,Yes,No,50,35,30,Focus on better sleep habits.
+983,Neutral,5,Poorly,Sometimes,Daily,Yes,Not satisfied,Achievement,Rarely,Yes,5,Trying,Somewhat,Somewhat,Yes,25,15,40,Focus on better sleep habits.
+984,Happy,4,Very well,No,Rarely,No,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,5,Yes,Highly motivated,No,No,60,10,5,Increase social interactions or join groups.
+985,Happy,1,Okay,No,Rarely,Yes,Neutral,Family/Friends,Sometimes,Sometimes,5,Trying,Somewhat,Somewhat,No,20,0,5,Consider regular exercise and mindfulness.
+986,Sad,7,Very well,Sometimes,Few times,Yes,Not satisfied,Family/Friends,Daily,Sometimes,3,Trying,Highly motivated,No,Maybe,55,30,0,Set small achievable goals for motivation.
+987,Anxious,6,Okay,Yes,Few times,Yes,Not satisfied,Nature/Relaxing,Daily,Sometimes,2,Yes,Somewhat,No,Maybe,55,30,0,Maintain a balanced diet and hydration.
+988,Happy,10,Very well,Sometimes,Rarely,Yes,Very satisfied,Achievement,Daily,Sometimes,1,No,Somewhat,Somewhat,Yes,30,10,25,Seek professional help if feeling overwhelmed.
+989,Sad,4,Very well,Sometimes,Daily,Yes,Very satisfied,Family/Friends,Sometimes,Yes,10,No,Somewhat,Somewhat,No,30,35,20,Seek professional help if feeling overwhelmed.
+990,Anxious,8,Poorly,Yes,Few times,Yes,Very satisfied,Nature/Relaxing,Daily,Sometimes,7,Trying,Not motivated,No,Maybe,60,20,30,Increase social interactions or join groups.
+991,Happy,9,Very well,Sometimes,Daily,Sometimes,Neutral,Achievement,Sometimes,No,6,Trying,Not motivated,Yes,Yes,10,0,20,Seek professional help if feeling overwhelmed.
+992,Anxious,9,Very well,No,Rarely,No,Very satisfied,Family/Friends,Daily,Yes,3,Yes,Somewhat,Somewhat,Yes,65,55,45,Seek professional help if feeling overwhelmed.
+993,Happy,6,Poorly,Yes,Few times,Sometimes,Very satisfied,Family/Friends,Rarely,No,2,Trying,Highly motivated,No,Maybe,40,10,20,Set small achievable goals for motivation.
+994,Happy,2,Poorly,Yes,Rarely,No,Neutral,Nature/Relaxing,Daily,Sometimes,10,Trying,Somewhat,No,Maybe,55,10,15,Consider regular exercise and mindfulness.
+995,Anxious,1,Okay,Sometimes,Rarely,Yes,Not satisfied,Achievement,Daily,No,8,Trying,Not motivated,Yes,Yes,50,20,5,Maintain a balanced diet and hydration.
+996,Sad,3,Very well,Yes,Few times,Yes,Neutral,Achievement,Rarely,No,5,Yes,Not motivated,No,No,45,20,10,Maintain a balanced diet and hydration.
+997,Sad,3,Very well,Sometimes,Daily,Sometimes,Very satisfied,Family/Friends,Daily,Yes,5,Trying,Highly motivated,No,Maybe,35,35,20,Consider regular exercise and mindfulness.
+998,Happy,5,Very well,Yes,Few times,Sometimes,Not satisfied,Family/Friends,Rarely,Sometimes,1,Trying,Somewhat,Yes,No,20,10,10,Practice relaxation and hobbies more often.
+999,Sad,1,Okay,No,Few times,No,Very satisfied,Nature/Relaxing,Sometimes,Yes,6,No,Somewhat,No,Yes,70,45,20,Maintain a balanced diet and hydration.
+1000,Sad,4,Very well,Yes,Daily,Yes,Not satisfied,Family/Friends,Sometimes,Sometimes,4,Trying,Not motivated,Yes,No,40,20,0,Consider regular exercise and mindfulness.
+1001,Sad,8,Okay,Sometimes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Rarely,No,4,Yes,Not motivated,Yes,Yes,40,20,30,Talk to a trusted friend or therapist.
+1002,Anxious,5,Very well,Sometimes,Rarely,Sometimes,Very satisfied,Achievement,Daily,No,4,No,Not motivated,Yes,Yes,50,20,5,Set small achievable goals for motivation.
+1003,Anxious,9,Okay,No,Rarely,No,Not satisfied,Nature/Relaxing,Sometimes,No,5,Trying,Not motivated,Somewhat,No,75,30,25,Consider regular exercise and mindfulness.
+1004,Anxious,9,Poorly,Yes,Few times,Sometimes,Neutral,Achievement,Daily,Sometimes,10,Yes,Not motivated,No,No,60,20,30,Set small achievable goals for motivation.
+1005,Happy,9,Very well,No,Daily,No,Very satisfied,Family/Friends,Sometimes,No,10,Yes,Not motivated,Yes,Yes,35,10,20,Talk to a trusted friend or therapist.
+1006,Anxious,8,Poorly,No,Few times,Yes,Neutral,Achievement,Daily,No,4,Trying,Not motivated,Yes,No,55,20,30,Maintain a balanced diet and hydration.
+1007,Anxious,7,Okay,Yes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,No,8,No,Highly motivated,No,Yes,45,20,0,Consider regular exercise and mindfulness.
+1008,Anxious,10,Very well,Yes,Daily,Sometimes,Not satisfied,Nature/Relaxing,Rarely,Yes,10,No,Not motivated,Yes,Yes,50,35,50,Seek professional help if feeling overwhelmed.
+1009,Anxious,7,Okay,No,Daily,Yes,Neutral,Family/Friends,Sometimes,Yes,3,Yes,Somewhat,No,No,55,45,20,Focus on better sleep habits.
+1010,Anxious,7,Okay,No,Few times,No,Very satisfied,Nature/Relaxing,Rarely,No,4,No,Not motivated,No,Yes,80,30,10,Focus on better sleep habits.
+1011,Neutral,10,Okay,Yes,Few times,Sometimes,Not satisfied,Family/Friends,Daily,No,7,Trying,Somewhat,Yes,Yes,10,0,20,Set small achievable goals for motivation.
+1012,Anxious,6,Okay,No,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,10,No,Somewhat,Somewhat,No,60,20,5,Focus on better sleep habits.
+1013,Neutral,4,Okay,No,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,No,6,No,Somewhat,Somewhat,No,20,0,0,Consider regular exercise and mindfulness.
+1014,Anxious,7,Poorly,Sometimes,Daily,Yes,Neutral,Nature/Relaxing,Daily,Sometimes,10,No,Somewhat,Yes,Maybe,45,20,10,Practice relaxation and hobbies more often.
+1015,Anxious,7,Poorly,Sometimes,Few times,No,Neutral,Nature/Relaxing,Rarely,Yes,2,No,Somewhat,Yes,Yes,70,55,40,Maintain a balanced diet and hydration.
+1016,Anxious,10,Very well,Yes,Few times,No,Very satisfied,Family/Friends,Sometimes,No,2,No,Somewhat,Yes,Maybe,55,40,20,Focus on better sleep habits.
+1017,Happy,7,Poorly,Yes,Rarely,Sometimes,Neutral,Nature/Relaxing,Sometimes,Sometimes,5,No,Somewhat,No,Yes,50,0,15,Increase social interactions or join groups.
+1018,Sad,10,Very well,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Rarely,Sometimes,4,No,Somewhat,Somewhat,Maybe,40,20,30,Talk to a trusted friend or therapist.
+1019,Anxious,9,Okay,No,Daily,Yes,Not satisfied,Achievement,Daily,No,5,Yes,Not motivated,Somewhat,Yes,50,20,20,Talk to a trusted friend or therapist.
+1020,Happy,9,Poorly,No,Rarely,No,Not satisfied,Achievement,Daily,Sometimes,5,Yes,Highly motivated,No,Yes,75,10,35,Consider regular exercise and mindfulness.
+1021,Neutral,6,Poorly,No,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,Sometimes,6,Yes,Somewhat,Somewhat,No,25,0,20,Seek professional help if feeling overwhelmed.
+1022,Anxious,9,Okay,Sometimes,Few times,No,Very satisfied,Nature/Relaxing,Sometimes,Yes,4,Yes,Highly motivated,Yes,Maybe,35,45,40,Set small achievable goals for motivation.
+1023,Neutral,2,Okay,Yes,Few times,Sometimes,Not satisfied,Achievement,Rarely,No,10,Yes,Highly motivated,No,Yes,25,0,10,Seek professional help if feeling overwhelmed.
+1024,Happy,10,Very well,Sometimes,Daily,Sometimes,Neutral,Family/Friends,Daily,Sometimes,2,Yes,Somewhat,Yes,Yes,10,10,20,Talk to a trusted friend or therapist.
+1025,Anxious,9,Poorly,No,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Sometimes,3,No,Somewhat,No,Yes,90,30,45,Seek professional help if feeling overwhelmed.
+1026,Anxious,1,Okay,Yes,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Rarely,Yes,2,Yes,Not motivated,Somewhat,No,60,45,35,Set small achievable goals for motivation.
+1027,Anxious,1,Very well,Yes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Rarely,No,7,No,Highly motivated,Somewhat,Yes,40,20,10,Practice relaxation and hobbies more often.
+1028,Happy,1,Poorly,Yes,Daily,No,Neutral,Family/Friends,Rarely,Yes,1,Yes,Highly motivated,Somewhat,Yes,40,35,40,Set small achievable goals for motivation.
+1029,Sad,1,Poorly,Yes,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Yes,7,Trying,Highly motivated,No,Yes,60,35,35,Focus on better sleep habits.
+1030,Anxious,1,Poorly,Yes,Few times,Sometimes,Very satisfied,Family/Friends,Daily,No,6,Yes,Somewhat,Yes,No,35,20,10,Seek professional help if feeling overwhelmed.
+1031,Neutral,6,Okay,Sometimes,Rarely,Yes,Neutral,Achievement,Rarely,No,7,Trying,Highly motivated,Yes,No,10,0,15,Seek professional help if feeling overwhelmed.
+1032,Anxious,3,Very well,Yes,Daily,Yes,Neutral,Family/Friends,Sometimes,Sometimes,7,Yes,Not motivated,Somewhat,No,30,20,0,Maintain a balanced diet and hydration.
+1033,Sad,10,Okay,Yes,Few times,Yes,Very satisfied,Family/Friends,Daily,Yes,6,Trying,Highly motivated,No,No,35,35,40,Increase social interactions or join groups.
+1034,Sad,10,Okay,No,Daily,Yes,Neutral,Nature/Relaxing,Rarely,Yes,3,No,Highly motivated,No,Maybe,65,45,50,Practice relaxation and hobbies more often.
+1035,Anxious,8,Very well,Yes,Rarely,No,Not satisfied,Nature/Relaxing,Rarely,Sometimes,6,Yes,Highly motivated,Somewhat,Maybe,55,30,35,Seek professional help if feeling overwhelmed.
+1036,Anxious,8,Okay,Yes,Daily,No,Very satisfied,Nature/Relaxing,Daily,Sometimes,2,No,Highly motivated,No,Yes,70,40,20,Talk to a trusted friend or therapist.
+1037,Happy,1,Okay,Yes,Rarely,No,Not satisfied,Family/Friends,Rarely,Sometimes,6,Yes,Somewhat,Somewhat,Yes,35,10,15,Practice relaxation and hobbies more often.
+1038,Sad,9,Okay,No,Daily,Yes,Neutral,Nature/Relaxing,Sometimes,No,4,Yes,Somewhat,No,Yes,45,20,20,Practice relaxation and hobbies more often.
+1039,Happy,7,Very well,Yes,Few times,No,Very satisfied,Family/Friends,Rarely,No,4,Trying,Somewhat,No,Maybe,30,10,10,Set small achievable goals for motivation.
+1040,Anxious,1,Poorly,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Daily,No,10,Trying,Highly motivated,No,Yes,60,20,10,Focus on better sleep habits.
+1041,Sad,3,Very well,Yes,Daily,Sometimes,Very satisfied,Family/Friends,Daily,Sometimes,8,Trying,Somewhat,Somewhat,Yes,20,20,0,Consider regular exercise and mindfulness.
+1042,Anxious,5,Poorly,Sometimes,Rarely,Sometimes,Not satisfied,Family/Friends,Daily,Sometimes,9,Yes,Highly motivated,Yes,Maybe,55,20,15,Set small achievable goals for motivation.
+1043,Anxious,9,Okay,Yes,Rarely,No,Neutral,Family/Friends,Daily,Sometimes,1,Trying,Not motivated,No,Maybe,80,40,25,Increase social interactions or join groups.
+1044,Anxious,7,Poorly,Sometimes,Rarely,Yes,Neutral,Achievement,Daily,Sometimes,1,Yes,Highly motivated,Somewhat,Maybe,55,30,15,Talk to a trusted friend or therapist.
+1045,Neutral,6,Okay,No,Few times,Sometimes,Neutral,Achievement,Rarely,No,8,Yes,Highly motivated,No,Yes,25,0,10,Increase social interactions or join groups.
+1046,Happy,5,Very well,No,Few times,No,Neutral,Family/Friends,Sometimes,Yes,1,Yes,Highly motivated,No,Maybe,50,35,20,Focus on better sleep habits.
+1047,Happy,4,Okay,Yes,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,Yes,3,Yes,Not motivated,Yes,Yes,20,25,30,Focus on better sleep habits.
+1048,Happy,6,Poorly,No,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Yes,3,Yes,Not motivated,Yes,Maybe,55,25,45,Set small achievable goals for motivation.
+1049,Anxious,1,Poorly,No,Few times,Yes,Not satisfied,Family/Friends,Sometimes,No,10,Trying,Highly motivated,No,Maybe,70,20,10,Increase social interactions or join groups.
+1050,Sad,6,Poorly,No,Daily,Yes,Very satisfied,Family/Friends,Daily,Yes,3,Trying,Somewhat,No,Yes,70,45,30,Consider regular exercise and mindfulness.
+1051,Sad,7,Very well,No,Daily,No,Neutral,Achievement,Rarely,Yes,10,No,Not motivated,No,Maybe,80,45,30,Talk to a trusted friend or therapist.
+1052,Neutral,6,Poorly,Yes,Daily,Yes,Neutral,Achievement,Daily,No,8,Yes,Not motivated,No,Yes,40,0,10,Maintain a balanced diet and hydration.
+1053,Happy,4,Very well,Sometimes,Daily,Sometimes,Neutral,Nature/Relaxing,Daily,Sometimes,2,No,Somewhat,No,Yes,35,10,0,Talk to a trusted friend or therapist.
+1054,Sad,10,Okay,No,Few times,Yes,Very satisfied,Family/Friends,Sometimes,No,7,No,Highly motivated,No,Yes,55,20,20,Increase social interactions or join groups.
+1055,Sad,2,Very well,No,Rarely,No,Neutral,Family/Friends,Daily,No,3,Yes,Not motivated,No,Yes,90,40,5,Seek professional help if feeling overwhelmed.
+1056,Happy,1,Okay,Sometimes,Few times,No,Not satisfied,Achievement,Sometimes,Sometimes,3,No,Somewhat,Yes,No,45,20,0,Set small achievable goals for motivation.
+1057,Neutral,7,Okay,Sometimes,Daily,No,Not satisfied,Family/Friends,Daily,Yes,6,Yes,Highly motivated,No,No,40,25,20,Focus on better sleep habits.
+1058,Happy,9,Okay,No,Few times,Yes,Neutral,Family/Friends,Daily,Yes,9,No,Highly motivated,Yes,No,20,15,40,Set small achievable goals for motivation.
+1059,Happy,5,Okay,Yes,Few times,No,Very satisfied,Family/Friends,Daily,Sometimes,8,Yes,Highly motivated,Yes,No,15,10,0,Talk to a trusted friend or therapist.
+1060,Happy,7,Very well,Yes,Daily,Yes,Neutral,Family/Friends,Daily,No,8,No,Somewhat,No,Maybe,25,0,0,Increase social interactions or join groups.
+1061,Happy,5,Okay,Sometimes,Daily,Sometimes,Neutral,Achievement,Sometimes,No,6,Trying,Highly motivated,No,No,15,0,0,Practice relaxation and hobbies more often.
+1062,Happy,10,Very well,Yes,Daily,Yes,Not satisfied,Nature/Relaxing,Daily,No,6,Trying,Somewhat,Somewhat,Maybe,10,0,20,Practice relaxation and hobbies more often.
+1063,Happy,2,Okay,Yes,Daily,Yes,Neutral,Family/Friends,Daily,No,9,Trying,Somewhat,Yes,No,0,0,0,Set small achievable goals for motivation.
+1064,Anxious,8,Okay,Sometimes,Few times,Yes,Not satisfied,Achievement,Sometimes,Sometimes,9,Yes,Not motivated,Somewhat,Maybe,40,20,20,Practice relaxation and hobbies more often.
+1065,Sad,7,Poorly,Yes,Few times,Yes,Very satisfied,Achievement,Rarely,Sometimes,5,Yes,Somewhat,Somewhat,Maybe,35,20,20,Consider regular exercise and mindfulness.
+1066,Neutral,2,Very well,Sometimes,Few times,No,Very satisfied,Family/Friends,Daily,Yes,1,Trying,Not motivated,Yes,Yes,35,35,20,Increase social interactions or join groups.
+1067,Sad,2,Poorly,Yes,Few times,Yes,Neutral,Family/Friends,Sometimes,No,4,Trying,Highly motivated,Yes,Yes,35,20,10,Talk to a trusted friend or therapist.
+1068,Happy,2,Very well,No,Few times,Sometimes,Not satisfied,Achievement,Rarely,Yes,1,Yes,Somewhat,Somewhat,Yes,30,25,30,Increase social interactions or join groups.
+1069,Neutral,8,Very well,Yes,Rarely,Sometimes,Neutral,Nature/Relaxing,Daily,Yes,2,No,Not motivated,Somewhat,No,40,25,45,Practice relaxation and hobbies more often.
+1070,Anxious,6,Poorly,Yes,Rarely,Sometimes,Not satisfied,Achievement,Daily,Yes,9,No,Somewhat,Yes,Yes,65,35,35,Maintain a balanced diet and hydration.
+1071,Neutral,9,Very well,Sometimes,Rarely,Yes,Very satisfied,Family/Friends,Sometimes,Sometimes,10,No,Somewhat,Somewhat,Maybe,20,0,25,Talk to a trusted friend or therapist.
+1072,Sad,2,Poorly,No,Daily,Yes,Very satisfied,Achievement,Sometimes,Yes,7,Yes,Somewhat,No,No,60,35,30,Set small achievable goals for motivation.
+1073,Neutral,9,Very well,Yes,Few times,Yes,Very satisfied,Achievement,Rarely,Sometimes,6,No,Not motivated,No,Maybe,35,0,30,Focus on better sleep habits.
+1074,Neutral,4,Very well,Sometimes,Rarely,No,Neutral,Nature/Relaxing,Sometimes,Sometimes,10,No,Highly motivated,No,Yes,50,10,5,Consider regular exercise and mindfulness.
+1075,Neutral,10,Okay,Yes,Rarely,Yes,Very satisfied,Nature/Relaxing,Daily,Sometimes,3,No,Somewhat,No,Maybe,45,10,25,Talk to a trusted friend or therapist.
+1076,Neutral,9,Okay,Yes,Daily,No,Not satisfied,Nature/Relaxing,Rarely,Sometimes,10,Trying,Highly motivated,Yes,Maybe,25,10,30,Increase social interactions or join groups.
+1077,Anxious,7,Poorly,Yes,Few times,Yes,Neutral,Achievement,Rarely,No,8,Yes,Highly motivated,No,Maybe,50,20,20,Practice relaxation and hobbies more often.
+1078,Sad,7,Poorly,No,Few times,Yes,Very satisfied,Family/Friends,Daily,No,10,Trying,Not motivated,No,No,70,20,10,Practice relaxation and hobbies more often.
+1079,Sad,3,Poorly,No,Few times,Sometimes,Neutral,Nature/Relaxing,Daily,Sometimes,9,No,Somewhat,No,No,70,20,10,Focus on better sleep habits.
+1080,Anxious,2,Okay,Yes,Rarely,Yes,Neutral,Nature/Relaxing,Rarely,No,7,No,Not motivated,Somewhat,Maybe,50,20,15,Maintain a balanced diet and hydration.
+1081,Sad,5,Very well,No,Rarely,Yes,Very satisfied,Family/Friends,Daily,Yes,6,Trying,Not motivated,Somewhat,Yes,50,35,25,Talk to a trusted friend or therapist.
+1082,Neutral,1,Okay,No,Few times,Yes,Very satisfied,Family/Friends,Sometimes,Yes,7,Yes,Highly motivated,Somewhat,Maybe,10,15,20,Seek professional help if feeling overwhelmed.
+1083,Sad,3,Very well,Sometimes,Few times,Yes,Not satisfied,Nature/Relaxing,Sometimes,Yes,9,No,Highly motivated,Somewhat,Maybe,40,35,20,Focus on better sleep habits.
+1084,Neutral,3,Very well,No,Daily,Yes,Neutral,Nature/Relaxing,Daily,No,6,No,Not motivated,Yes,Yes,30,0,0,Set small achievable goals for motivation.
+1085,Neutral,4,Okay,No,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,Yes,6,Trying,Somewhat,Somewhat,No,30,15,25,Maintain a balanced diet and hydration.
+1086,Sad,9,Okay,Yes,Rarely,No,Not satisfied,Achievement,Sometimes,Yes,3,Yes,Somewhat,Yes,Yes,65,55,45,Consider regular exercise and mindfulness.
+1087,Anxious,3,Very well,Sometimes,Rarely,Yes,Neutral,Nature/Relaxing,Daily,Yes,7,No,Highly motivated,Yes,No,40,35,25,Consider regular exercise and mindfulness.
+1088,Neutral,1,Very well,Yes,Daily,No,Neutral,Achievement,Daily,No,5,Yes,Not motivated,Somewhat,No,25,10,0,Talk to a trusted friend or therapist.
+1089,Happy,1,Very well,Yes,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,No,10,Trying,Highly motivated,Somewhat,No,0,0,10,Seek professional help if feeling overwhelmed.
+1090,Anxious,1,Poorly,No,Few times,No,Not satisfied,Achievement,Daily,Sometimes,6,Yes,Not motivated,Yes,No,80,30,10,Focus on better sleep habits.
+1091,Anxious,10,Okay,Sometimes,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,No,8,Trying,Highly motivated,Somewhat,Yes,20,20,20,Consider regular exercise and mindfulness.
+1092,Happy,4,Okay,No,Few times,Sometimes,Not satisfied,Nature/Relaxing,Daily,Sometimes,7,Yes,Somewhat,No,Maybe,35,0,0,Increase social interactions or join groups.
+1093,Neutral,9,Poorly,Yes,Few times,Sometimes,Very satisfied,Achievement,Rarely,Yes,9,Trying,Somewhat,Yes,No,15,15,60,Focus on better sleep habits.
+1094,Sad,5,Okay,No,Few times,No,Not satisfied,Nature/Relaxing,Rarely,Yes,4,No,Somewhat,Yes,Maybe,65,45,30,Maintain a balanced diet and hydration.
+1095,Anxious,7,Poorly,Sometimes,Rarely,No,Very satisfied,Family/Friends,Sometimes,Sometimes,10,Yes,Highly motivated,Yes,No,60,30,15,Seek professional help if feeling overwhelmed.
+1096,Sad,9,Poorly,No,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,Yes,3,Trying,Somewhat,Yes,Maybe,55,45,50,Consider regular exercise and mindfulness.
+1097,Happy,7,Okay,Yes,Few times,No,Neutral,Nature/Relaxing,Daily,Yes,10,Yes,Not motivated,Somewhat,Yes,25,25,20,Seek professional help if feeling overwhelmed.
+1098,Happy,1,Very well,Yes,Rarely,Sometimes,Neutral,Family/Friends,Sometimes,Yes,7,Trying,Highly motivated,Somewhat,No,10,15,25,Set small achievable goals for motivation.
+1099,Neutral,2,Very well,Yes,Daily,No,Very satisfied,Nature/Relaxing,Rarely,Sometimes,10,Yes,Not motivated,No,No,40,10,10,Consider regular exercise and mindfulness.
+1100,Neutral,1,Poorly,Yes,Rarely,Sometimes,Neutral,Family/Friends,Daily,Yes,10,Yes,Not motivated,Somewhat,Yes,35,15,35,Consider regular exercise and mindfulness.
+1101,Sad,9,Poorly,Sometimes,Daily,Sometimes,Not satisfied,Family/Friends,Daily,No,5,Trying,Not motivated,Somewhat,Maybe,55,20,30,Maintain a balanced diet and hydration.
+1102,Sad,5,Very well,Sometimes,Rarely,Yes,Not satisfied,Achievement,Daily,Yes,5,Yes,Not motivated,Somewhat,Maybe,50,35,25,Increase social interactions or join groups.
+1103,Happy,4,Very well,Yes,Rarely,Sometimes,Not satisfied,Family/Friends,Sometimes,Yes,3,No,Somewhat,Somewhat,Maybe,40,25,25,Seek professional help if feeling overwhelmed.
+1104,Anxious,5,Okay,No,Daily,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,No,8,No,Somewhat,Somewhat,Maybe,50,20,0,Practice relaxation and hobbies more often.
+1105,Sad,3,Very well,Yes,Daily,Sometimes,Not satisfied,Achievement,Rarely,No,5,No,Somewhat,Yes,Maybe,40,20,10,Focus on better sleep habits.
+1106,Happy,6,Okay,Yes,Few times,No,Neutral,Nature/Relaxing,Sometimes,Yes,9,Trying,Highly motivated,Yes,Yes,15,25,20,Practice relaxation and hobbies more often.
+1107,Happy,4,Very well,No,Daily,No,Neutral,Nature/Relaxing,Daily,Yes,9,No,Somewhat,Yes,No,35,25,20,Increase social interactions or join groups.
+1108,Neutral,2,Okay,Sometimes,Rarely,Yes,Not satisfied,Nature/Relaxing,Daily,No,4,No,Somewhat,Yes,Yes,30,0,5,Practice relaxation and hobbies more often.
+1109,Sad,4,Poorly,Sometimes,Rarely,Yes,Neutral,Nature/Relaxing,Daily,No,2,No,Somewhat,No,Yes,80,30,15,Seek professional help if feeling overwhelmed.
+1110,Happy,10,Poorly,No,Few times,Sometimes,Not satisfied,Family/Friends,Rarely,Yes,2,No,Somewhat,No,No,70,25,60,Seek professional help if feeling overwhelmed.
+1111,Anxious,4,Poorly,No,Rarely,Yes,Not satisfied,Achievement,Rarely,Sometimes,1,No,Somewhat,Yes,No,85,30,25,Practice relaxation and hobbies more often.
+1112,Happy,4,Very well,No,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Rarely,No,6,Yes,Somewhat,Yes,Maybe,30,0,15,Set small achievable goals for motivation.
+1113,Neutral,10,Very well,No,Daily,No,Neutral,Family/Friends,Sometimes,Sometimes,4,No,Somewhat,No,Yes,50,10,20,Focus on better sleep habits.
+1114,Anxious,7,Poorly,Yes,Rarely,Sometimes,Very satisfied,Family/Friends,Daily,No,9,Trying,Highly motivated,No,No,60,20,15,Increase social interactions or join groups.
+1115,Anxious,7,Very well,Sometimes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,No,2,Trying,Somewhat,No,Maybe,45,30,0,Seek professional help if feeling overwhelmed.
+1116,Sad,6,Okay,Sometimes,Daily,No,Neutral,Nature/Relaxing,Rarely,Yes,8,Yes,Not motivated,No,No,60,45,30,Practice relaxation and hobbies more often.
+1117,Happy,6,Very well,No,Few times,Sometimes,Neutral,Family/Friends,Sometimes,Sometimes,5,Trying,Somewhat,Somewhat,Maybe,10,0,0,Talk to a trusted friend or therapist.
+1118,Happy,4,Very well,Yes,Daily,No,Not satisfied,Family/Friends,Daily,No,6,Trying,Somewhat,No,Yes,40,10,0,Set small achievable goals for motivation.
+1119,Neutral,8,Poorly,No,Few times,Yes,Not satisfied,Nature/Relaxing,Daily,Sometimes,6,Yes,Not motivated,Yes,Yes,45,0,30,Talk to a trusted friend or therapist.
+1120,Sad,9,Very well,Sometimes,Few times,No,Neutral,Achievement,Sometimes,No,6,Trying,Not motivated,Yes,Yes,45,30,20,Focus on better sleep habits.
+1121,Happy,1,Okay,Yes,Daily,Yes,Very satisfied,Family/Friends,Daily,Yes,10,Trying,Not motivated,Yes,No,10,15,20,Set small achievable goals for motivation.
+1122,Anxious,9,Very well,No,Few times,No,Not satisfied,Nature/Relaxing,Sometimes,Yes,2,No,Highly motivated,Yes,No,75,55,40,Practice relaxation and hobbies more often.
+1123,Neutral,9,Poorly,Sometimes,Daily,No,Neutral,Nature/Relaxing,Rarely,No,3,Yes,Not motivated,Yes,Yes,50,20,40,Set small achievable goals for motivation.
+1124,Happy,1,Poorly,Sometimes,Daily,Yes,Neutral,Achievement,Daily,Yes,1,Yes,Highly motivated,Yes,Yes,25,25,30,Talk to a trusted friend or therapist.
+1125,Anxious,3,Poorly,No,Rarely,Sometimes,Very satisfied,Achievement,Rarely,Sometimes,8,Yes,Somewhat,Somewhat,Yes,55,20,25,Focus on better sleep habits.
+1126,Anxious,1,Poorly,Sometimes,Few times,Yes,Not satisfied,Achievement,Sometimes,No,2,Trying,Not motivated,Somewhat,Yes,65,30,10,Practice relaxation and hobbies more often.
+1127,Neutral,8,Very well,Sometimes,Daily,Sometimes,Not satisfied,Nature/Relaxing,Daily,No,4,Trying,Somewhat,Somewhat,Maybe,10,0,20,Seek professional help if feeling overwhelmed.
+1128,Sad,10,Okay,Sometimes,Few times,Sometimes,Neutral,Achievement,Sometimes,Yes,3,No,Somewhat,Somewhat,No,40,45,40,Practice relaxation and hobbies more often.
+1129,Anxious,5,Okay,Yes,Rarely,Sometimes,Very satisfied,Achievement,Daily,Sometimes,7,Trying,Highly motivated,Somewhat,Yes,30,20,5,Seek professional help if feeling overwhelmed.
+1130,Neutral,5,Very well,Yes,Daily,Yes,Very satisfied,Achievement,Daily,Yes,4,Trying,Highly motivated,Yes,Maybe,0,15,20,Talk to a trusted friend or therapist.
+1131,Neutral,8,Poorly,Sometimes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Daily,Yes,4,Trying,Somewhat,Yes,Maybe,25,15,50,Increase social interactions or join groups.
+1132,Sad,2,Very well,No,Few times,No,Not satisfied,Nature/Relaxing,Rarely,No,10,No,Somewhat,Somewhat,Yes,65,30,10,Maintain a balanced diet and hydration.
+1133,Happy,2,Very well,No,Few times,No,Not satisfied,Nature/Relaxing,Daily,Sometimes,7,Yes,Somewhat,Somewhat,Yes,35,10,0,Increase social interactions or join groups.
+1134,Happy,8,Poorly,Sometimes,Daily,Sometimes,Neutral,Achievement,Rarely,Yes,9,Yes,Somewhat,Somewhat,Maybe,15,15,60,Maintain a balanced diet and hydration.
+1135,Sad,8,Very well,Sometimes,Daily,Yes,Neutral,Nature/Relaxing,Sometimes,No,10,No,Highly motivated,No,No,45,20,20,Set small achievable goals for motivation.
+1136,Neutral,7,Poorly,No,Rarely,Sometimes,Neutral,Nature/Relaxing,Rarely,Sometimes,2,Trying,Somewhat,No,Yes,60,10,25,Maintain a balanced diet and hydration.
+1137,Sad,7,Very well,Sometimes,Rarely,Yes,Very satisfied,Achievement,Rarely,Yes,8,Yes,Not motivated,Yes,Yes,40,35,35,Increase social interactions or join groups.
+1138,Neutral,4,Poorly,Sometimes,Rarely,Sometimes,Very satisfied,Family/Friends,Rarely,Yes,3,Trying,Highly motivated,Somewhat,Yes,35,25,45,Set small achievable goals for motivation.
+1139,Sad,3,Poorly,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Rarely,Yes,1,Trying,Not motivated,Yes,No,65,45,40,Increase social interactions or join groups.
+1140,Happy,9,Okay,No,Few times,No,Not satisfied,Family/Friends,Daily,Sometimes,7,Yes,Not motivated,Yes,Yes,45,10,20,Consider regular exercise and mindfulness.
+1141,Happy,6,Very well,Yes,Few times,Yes,Very satisfied,Nature/Relaxing,Daily,Sometimes,8,No,Not motivated,Yes,Maybe,20,0,0,Increase social interactions or join groups.
+1142,Anxious,7,Poorly,Sometimes,Daily,Sometimes,Not satisfied,Achievement,Daily,No,5,Trying,Highly motivated,Somewhat,Yes,45,20,10,Seek professional help if feeling overwhelmed.
+1143,Anxious,7,Very well,Yes,Daily,Sometimes,Not satisfied,Family/Friends,Sometimes,Sometimes,9,No,Highly motivated,Somewhat,No,40,20,0,Focus on better sleep habits.
+1144,Happy,9,Poorly,Yes,Daily,Sometimes,Very satisfied,Nature/Relaxing,Daily,No,2,No,Highly motivated,Somewhat,Maybe,35,10,30,Set small achievable goals for motivation.
+1145,Neutral,8,Poorly,Sometimes,Daily,No,Very satisfied,Achievement,Daily,No,9,Yes,Not motivated,No,Maybe,55,10,30,Practice relaxation and hobbies more often.
+1146,Happy,8,Okay,Sometimes,Few times,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,No,10,Yes,Not motivated,Yes,No,10,0,20,Set small achievable goals for motivation.
+1147,Neutral,3,Okay,No,Daily,No,Not satisfied,Achievement,Daily,Yes,10,Trying,Highly motivated,Somewhat,Maybe,35,25,20,Set small achievable goals for motivation.
+1148,Anxious,2,Poorly,Sometimes,Daily,Yes,Not satisfied,Nature/Relaxing,Daily,Yes,9,No,Highly motivated,Somewhat,No,55,35,30,Talk to a trusted friend or therapist.
+1149,Neutral,3,Very well,No,Daily,No,Neutral,Achievement,Daily,Yes,7,No,Not motivated,Somewhat,Yes,45,25,20,Set small achievable goals for motivation.
+1150,Sad,8,Very well,Sometimes,Daily,No,Not satisfied,Achievement,Daily,No,4,Yes,Highly motivated,No,Maybe,60,30,20,Practice relaxation and hobbies more often.
+1151,Anxious,8,Poorly,Sometimes,Few times,Yes,Very satisfied,Family/Friends,Sometimes,Sometimes,2,Yes,Somewhat,Yes,No,45,30,30,Talk to a trusted friend or therapist.
+1152,Anxious,6,Okay,Sometimes,Daily,Yes,Very satisfied,Nature/Relaxing,Rarely,Yes,10,No,Highly motivated,Somewhat,Yes,30,35,30,Consider regular exercise and mindfulness.
+1153,Neutral,2,Very well,Sometimes,Daily,Yes,Neutral,Nature/Relaxing,Daily,No,4,No,Not motivated,Somewhat,No,20,0,0,Focus on better sleep habits.
+1154,Sad,8,Okay,Yes,Daily,Sometimes,Not satisfied,Family/Friends,Rarely,Sometimes,5,Yes,Somewhat,Yes,Maybe,30,20,30,Seek professional help if feeling overwhelmed.
+1155,Happy,1,Poorly,Sometimes,Few times,No,Very satisfied,Achievement,Rarely,No,5,Yes,Highly motivated,Somewhat,Maybe,30,10,20,Focus on better sleep habits.
+1156,Sad,10,Poorly,Yes,Rarely,No,Not satisfied,Nature/Relaxing,Sometimes,No,2,No,Somewhat,Somewhat,Maybe,90,40,35,Talk to a trusted friend or therapist.
+1157,Anxious,5,Okay,No,Daily,Sometimes,Neutral,Achievement,Sometimes,Sometimes,8,Yes,Not motivated,Somewhat,No,40,20,0,Maintain a balanced diet and hydration.
+1158,Anxious,6,Poorly,Sometimes,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Rarely,Yes,5,Yes,Somewhat,No,Yes,60,35,45,Practice relaxation and hobbies more often.
+1159,Anxious,7,Okay,No,Rarely,Sometimes,Not satisfied,Family/Friends,Daily,Sometimes,1,No,Not motivated,Somewhat,No,80,30,5,Seek professional help if feeling overwhelmed.
+1160,Neutral,1,Poorly,Yes,Few times,Yes,Neutral,Achievement,Rarely,Yes,7,Yes,Highly motivated,Somewhat,Yes,15,15,40,Maintain a balanced diet and hydration.
+1161,Happy,7,Very well,No,Daily,Sometimes,Neutral,Nature/Relaxing,Sometimes,Sometimes,6,No,Not motivated,Somewhat,Yes,30,0,0,Set small achievable goals for motivation.
+1162,Neutral,5,Poorly,Sometimes,Daily,Yes,Very satisfied,Family/Friends,Rarely,Sometimes,9,Yes,Somewhat,Yes,Maybe,15,0,20,Consider regular exercise and mindfulness.
+1163,Neutral,4,Okay,Yes,Rarely,Sometimes,Neutral,Family/Friends,Rarely,Yes,3,Trying,Highly motivated,No,No,35,25,35,Practice relaxation and hobbies more often.
+1164,Sad,6,Poorly,No,Rarely,Sometimes,Very satisfied,Nature/Relaxing,Sometimes,Yes,4,Trying,Highly motivated,No,No,70,35,35,Set small achievable goals for motivation.
+1165,Sad,4,Very well,Sometimes,Few times,Sometimes,Neutral,Family/Friends,Sometimes,Sometimes,4,Yes,Not motivated,Somewhat,Maybe,30,20,0,Practice relaxation and hobbies more often.
+1166,Sad,7,Okay,Yes,Daily,Sometimes,Not satisfied,Achievement,Daily,No,7,Trying,Not motivated,Somewhat,Maybe,40,20,0,Consider regular exercise and mindfulness.
+1167,Sad,7,Very well,No,Few times,No,Neutral,Nature/Relaxing,Daily,Sometimes,8,Yes,Somewhat,Yes,Yes,45,30,0,Maintain a balanced diet and hydration.
+1168,Happy,8,Okay,Yes,Daily,No,Neutral,Family/Friends,Daily,Yes,5,No,Highly motivated,Somewhat,No,25,25,40,Consider regular exercise and mindfulness.
+1169,Happy,5,Very well,Sometimes,Few times,Yes,Not satisfied,Family/Friends,Sometimes,Sometimes,8,Yes,Somewhat,Somewhat,Maybe,10,0,0,Increase social interactions or join groups.
+1170,Sad,6,Very well,Yes,Rarely,Yes,Neutral,Family/Friends,Daily,Sometimes,4,Yes,Not motivated,Somewhat,No,40,20,5,Focus on better sleep habits.
+1171,Happy,5,Okay,No,Rarely,Yes,Not satisfied,Family/Friends,Daily,Sometimes,3,No,Not motivated,Yes,Yes,60,10,5,Talk to a trusted friend or therapist.
+1172,Happy,9,Poorly,Sometimes,Few times,Sometimes,Neutral,Family/Friends,Daily,Yes,6,No,Not motivated,Yes,Maybe,35,15,50,Maintain a balanced diet and hydration.
+1173,Sad,8,Okay,No,Rarely,Yes,Very satisfied,Achievement,Daily,Yes,5,Yes,Somewhat,Yes,No,40,35,45,Talk to a trusted friend or therapist.
+1174,Neutral,4,Okay,Yes,Daily,No,Not satisfied,Achievement,Daily,Sometimes,6,Yes,Somewhat,Yes,No,25,10,0,Maintain a balanced diet and hydration.
+1175,Sad,3,Poorly,Sometimes,Rarely,Yes,Very satisfied,Nature/Relaxing,Rarely,Yes,9,Trying,Highly motivated,No,No,60,35,45,Increase social interactions or join groups.
+1176,Sad,8,Poorly,Sometimes,Few times,Sometimes,Neutral,Achievement,Rarely,Yes,10,Trying,Somewhat,Yes,No,35,35,60,Consider regular exercise and mindfulness.
+1177,Neutral,2,Very well,Sometimes,Rarely,No,Not satisfied,Family/Friends,Sometimes,Yes,3,Trying,Highly motivated,Somewhat,Maybe,45,35,25,Talk to a trusted friend or therapist.
+1178,Happy,3,Poorly,Yes,Daily,Sometimes,Neutral,Achievement,Sometimes,Yes,5,No,Highly motivated,No,No,40,15,30,Talk to a trusted friend or therapist.
+1179,Sad,10,Very well,No,Daily,Sometimes,Neutral,Nature/Relaxing,Rarely,No,7,Trying,Highly motivated,No,Maybe,45,20,30,Talk to a trusted friend or therapist.
+1180,Neutral,6,Okay,Yes,Rarely,No,Not satisfied,Family/Friends,Daily,No,5,Yes,Somewhat,Somewhat,Maybe,35,10,5,Maintain a balanced diet and hydration.
+1181,Happy,1,Okay,Sometimes,Few times,Sometimes,Very satisfied,Family/Friends,Daily,Sometimes,9,Yes,Not motivated,No,Yes,25,0,0,Focus on better sleep habits.
+1182,Happy,3,Very well,Yes,Daily,No,Not satisfied,Family/Friends,Sometimes,Sometimes,10,No,Not motivated,Yes,No,45,10,0,Set small achievable goals for motivation.
+1183,Neutral,3,Poorly,Yes,Daily,No,Neutral,Family/Friends,Rarely,No,5,No,Somewhat,No,No,55,10,20,Increase social interactions or join groups.
+1184,Sad,2,Okay,Sometimes,Daily,No,Not satisfied,Nature/Relaxing,Sometimes,Yes,10,No,Not motivated,Somewhat,Yes,65,45,20,Seek professional help if feeling overwhelmed.
+1185,Happy,4,Okay,Sometimes,Daily,Sometimes,Neutral,Achievement,Daily,Sometimes,9,Trying,Highly motivated,No,Yes,15,0,0,Talk to a trusted friend or therapist.
+1186,Sad,2,Okay,No,Rarely,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,3,No,Not motivated,Somewhat,No,80,30,5,Talk to a trusted friend or therapist.
+1187,Sad,5,Okay,No,Few times,Yes,Very satisfied,Family/Friends,Sometimes,Yes,8,Trying,Highly motivated,Yes,Yes,30,35,20,Practice relaxation and hobbies more often.
+1188,Anxious,5,Very well,Sometimes,Rarely,Yes,Neutral,Achievement,Rarely,Yes,7,Yes,Highly motivated,No,Yes,45,35,35,Consider regular exercise and mindfulness.
+1189,Neutral,7,Okay,Yes,Few times,No,Not satisfied,Achievement,Daily,No,2,Trying,Highly motivated,Somewhat,Maybe,35,20,0,Seek professional help if feeling overwhelmed.
+1190,Happy,8,Very well,Yes,Rarely,Yes,Neutral,Family/Friends,Daily,Sometimes,8,No,Not motivated,Yes,Maybe,30,0,25,Practice relaxation and hobbies more often.
+1191,Happy,8,Okay,Sometimes,Rarely,Yes,Neutral,Achievement,Rarely,No,5,Yes,Highly motivated,No,Maybe,25,0,35,Consider regular exercise and mindfulness.
+1192,Anxious,7,Okay,Yes,Daily,No,Very satisfied,Achievement,Sometimes,Sometimes,10,Trying,Highly motivated,Yes,No,35,30,0,Maintain a balanced diet and hydration.
+1193,Neutral,4,Okay,No,Few times,No,Very satisfied,Family/Friends,Rarely,No,4,Yes,Somewhat,No,Yes,40,10,10,Maintain a balanced diet and hydration.
+1194,Neutral,10,Poorly,No,Daily,No,Very satisfied,Family/Friends,Rarely,Yes,6,Yes,Not motivated,No,No,65,25,60,Practice relaxation and hobbies more often.
+1195,Neutral,2,Very well,Sometimes,Daily,Yes,Very satisfied,Family/Friends,Sometimes,Yes,7,Yes,Not motivated,No,Maybe,25,15,20,Set small achievable goals for motivation.
+1196,Sad,8,Very well,Yes,Rarely,Sometimes,Not satisfied,Achievement,Daily,Yes,5,No,Not motivated,Yes,Yes,60,35,45,Focus on better sleep habits.
+1197,Happy,4,Very well,Yes,Few times,Yes,Very satisfied,Family/Friends,Sometimes,Yes,6,Yes,Not motivated,Yes,Maybe,10,15,20,Maintain a balanced diet and hydration.
+1198,Happy,1,Very well,No,Few times,No,Not satisfied,Nature/Relaxing,Sometimes,Sometimes,1,Yes,Not motivated,Yes,Yes,55,20,0,Practice relaxation and hobbies more often.
+1199,Happy,3,Poorly,Sometimes,Few times,Sometimes,Not satisfied,Nature/Relaxing,Sometimes,No,5,No,Not motivated,Somewhat,No,45,0,10,Focus on better sleep habits.
+1200,Neutral,1,Okay,Sometimes,Rarely,Sometimes,Neutral,Achievement,Daily,No,7,Yes,Somewhat,No,Maybe,25,0,5,Set small achievable goals for motivation.

@@ -1,0 +1,35 @@
+<!-- templates/therapist.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}">
+  <title>Therapist Cat</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/therapist.css') }}">
+</head>
+<body>
+
+  <!-- Fixed header -->
+  <div class="cat-header">
+    <img src="{{ url_for('static', filename='images/cb4.gif') }}" alt="Meowsha" class="cat-avatar">
+    <div class="cat-info">
+      <h2>Oscar</h2>
+      <p>Your therapy cat</p>
+    </div>
+  </div>
+
+  <!-- Chat interface -->
+  <div class="chat-container">
+    <div id="chat-box" class="chat-box"></div>
+
+    <form class="input-area" id="chat-form">
+      <input type="text" id="user-input" placeholder="Share how you're feeling..." required>
+      <button type="submit">Send</button>
+    </form>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/therapist.js') }}"></script>
+</body>
+</html>

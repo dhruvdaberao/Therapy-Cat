@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}">
+  <title>Your Mental Health Results</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/results.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="page-wrapper">
+    <h1>Analysis Results 🧠</h1>
+
+    <div class="results-container">
+      <div class="result-item">
+        <strong>Depression:</strong>
+        <span id="depression">0%</span>
+        <p id="suggestion-depression"></p>
+        <div class="progress-bar-container">
+          <div id="depression-progress" class="progress-bar"></div>
+        </div>
+      </div>
+
+      <div class="result-item">
+        <strong>Anxiety:</strong>
+        <span id="anxiety">0%</span>
+        <p id="suggestion-anxiety"></p>
+        <div class="progress-bar-container">
+          <div id="anxiety-progress" class="progress-bar"></div>
+        </div>
+      </div>
+
+      <div class="result-item">
+        <strong>Stress:</strong>
+        <span id="stress">0%</span>
+        <p id="suggestion-stress"></p>
+        <div class="progress-bar-container">
+          <div id="stress-progress" class="progress-bar"></div>
+        </div>
+      </div>
+
+      <a href="/chat" class="button">Start Over</a>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const result = JSON.parse(localStorage.getItem("resultData"));
+
+      if (result) {
+        const animateNumber = (id, value) => {
+          let start = 0;
+          let end = value;
+          let duration = 2000;
+          let step = (end - start) / (duration / 10);
+
+          const interval = setInterval(() => {
+            start += step;
+            if (start >= end) {
+              clearInterval(interval);
+              start = end;
+            }
+            document.getElementById(id).textContent = Math.round(start) + "%";
+          }, 10);
+        };
+
+        animateNumber("depression", result.depression);
+        animateNumber("anxiety", result.anxiety);
+        animateNumber("stress", result.stress);
+
+        document.getElementById("suggestion-depression").textContent = result.suggestions.depression;
+        document.getElementById("suggestion-anxiety").textContent = result.suggestions.anxiety;
+        document.getElementById("suggestion-stress").textContent = result.suggestions.stress;
+
+        document.getElementById("depression-progress").style.width = result.depression + "%";
+        document.getElementById("anxiety-progress").style.width = result.anxiety + "%";
+        document.getElementById("stress-progress").style.width = result.stress + "%";
+      } else {
+        document.body.innerHTML = "<p>Error: No result data found.</p>";
+      }
+    });
+  </script>
+</body>
+</html>
