@@ -3,3 +3,4 @@ therapy-cat
 .env
 Procfile
 
+__pycache__
