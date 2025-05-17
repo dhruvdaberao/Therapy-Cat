@@ -84,71 +84,170 @@
 
 
 
-from flask import Flask, render_template, request, jsonify
+
+
+
+
+# from flask import Flask, render_template, request, jsonify
+# import pickle
+# import pandas as pd
+# from llama_engine import get_response
+
+# app = Flask(__name__)
+
+# # Load ML model and encoders
+# model = pickle.load(open('mental_health_model.pkl', 'rb'))
+# label_encoders = pickle.load(open('label_encoders.pkl', 'rb'))
+
+# @app.route('/')
+# def home():
+#     return render_template('index.html')
+
+# @app.route('/chat')
+# def chat():
+#     return render_template('chat.html')
+
+# @app.route('/therapist')
+# def therapist():
+#     return render_template('therapist.html')
+
+# @app.route('/result')
+# def result():
+#     return render_template("results.html")
+
+# # Safe label encoding
+# def safe_transform(le, series):
+#     return series.map(lambda val: le.transform([val])[0] if val in le.classes_ else -1)
+
+# @app.route('/predict', methods=['POST'])
+# def predict():
+#     user_data = request.get_json()
+#     input_df = pd.DataFrame([user_data])
+
+#     for col in input_df.columns:
+#         if col in label_encoders:
+#             input_df[col] = safe_transform(label_encoders[col], input_df[col])
+
+#     predictions = model.predict(input_df)
+#     result = interpret_results(predictions)
+#     return jsonify(result)
+
+# def interpret_results(predictions):
+#     depression_percent, anxiety_percent, stress_percent = predictions[0]
+#     return {
+#         "depression": float(depression_percent),
+#         "anxiety": float(anxiety_percent),
+#         "stress": float(stress_percent),
+#         "suggestions": generate_suggestions(depression_percent, anxiety_percent, stress_percent)
+#     }
+
+# def generate_suggestions(depression, anxiety, stress):
+#     return {
+#         'depression': "Consider seeing a counselor or practicing relaxation techniques." if depression > 50 else "Keep up with healthy habits and stay active.",
+#         'anxiety': "Practice mindfulness or talk to a therapist." if anxiety > 50 else "Keep maintaining your healthy habits.",
+#         'stress': "Consider reducing workload or practicing stress-relieving exercises." if stress > 50 else "Continue maintaining a stress-free routine."
+#     }
+
+# @app.route('/get_response', methods=['POST'])
+# def chatbot_response():
+#     user_input = request.json.get('user_input')
+#     bot_response = get_response(user_input)
+#     return jsonify({'response': bot_response})
+
+# if __name__ == '__main__':
+#     app.run(port=8000, debug=True)
+
+
+
+import os
 import pickle
+
+from flask import Flask, render_template, request, jsonify
 import pandas as pd
 from llama_engine import get_response
 
 app = Flask(__name__)
 
-# Load ML model and encoders
-model = pickle.load(open('mental_health_model.pkl', 'rb'))
-label_encoders = pickle.load(open('label_encoders.pkl', 'rb'))
+# ── Load model & encoders ──────────────────────────────────────────────────────
+model = pickle.load(open("mental_health_model.pkl", "rb"))
+label_encoders = pickle.load(open("label_encoders.pkl", "rb"))
 
-@app.route('/')
+
+# ── Routes ────────────────────────────────────────────────────────────────────
+@app.route("/")
 def home():
-    return render_template('index.html')
+    return render_template("index.html")
 
-@app.route('/chat')
+
+@app.route("/chat")
 def chat():
-    return render_template('chat.html')
+    return render_template("chat.html")
 
-@app.route('/therapist')
+
+@app.route("/therapist")
 def therapist():
-    return render_template('therapist.html')
+    return render_template("therapist.html")
 
-@app.route('/result')
+
+@app.route("/result")
 def result():
     return render_template("results.html")
 
-# Safe label encoding
-def safe_transform(le, series):
-    return series.map(lambda val: le.transform([val])[0] if val in le.classes_ else -1)
 
-@app.route('/predict', methods=['POST'])
+# ── ML helpers ────────────────────────────────────────────────────────────────
+def safe_transform(le, series):
+    """Encode a Series with a LabelEncoder; unseen labels → -1."""
+    return series.map(lambda v: le.transform([v])[0] if v in le.classes_ else -1)
+
+
+def interpret_results(pred):
+    depression, anxiety, stress = pred[0]
+    return {
+        "depression": float(depression),
+        "anxiety": float(anxiety),
+        "stress": float(stress),
+        "suggestions": {
+            "depression": (
+                "Consider seeing a counselor or practicing relaxation techniques."
+                if depression > 50
+                else "Keep up with healthy habits and stay active."
+            ),
+            "anxiety": (
+                "Practice mindfulness or talk to a therapist."
+                if anxiety > 50
+                else "Keep maintaining your healthy habits."
+            ),
+            "stress": (
+                "Consider reducing workload or practicing stress-relieving exercises."
+                if stress > 50
+                else "Continue maintaining a stress-free routine."
+            ),
+        },
+    }
+
+
+# ── API endpoints ─────────────────────────────────────────────────────────────
+@app.route("/predict", methods=["POST"])
 def predict():
     user_data = request.get_json()
-    input_df = pd.DataFrame([user_data])
+    df = pd.DataFrame([user_data])
 
-    for col in input_df.columns:
+    for col in df.columns:
         if col in label_encoders:
-            input_df[col] = safe_transform(label_encoders[col], input_df[col])
+            df[col] = safe_transform(label_encoders[col], df[col])
 
-    predictions = model.predict(input_df)
-    result = interpret_results(predictions)
-    return jsonify(result)
+    return jsonify(interpret_results(model.predict(df)))
 
-def interpret_results(predictions):
-    depression_percent, anxiety_percent, stress_percent = predictions[0]
-    return {
-        "depression": float(depression_percent),
-        "anxiety": float(anxiety_percent),
-        "stress": float(stress_percent),
-        "suggestions": generate_suggestions(depression_percent, anxiety_percent, stress_percent)
-    }
 
-def generate_suggestions(depression, anxiety, stress):
-    return {
-        'depression': "Consider seeing a counselor or practicing relaxation techniques." if depression > 50 else "Keep up with healthy habits and stay active.",
-        'anxiety': "Practice mindfulness or talk to a therapist." if anxiety > 50 else "Keep maintaining your healthy habits.",
-        'stress': "Consider reducing workload or practicing stress-relieving exercises." if stress > 50 else "Continue maintaining a stress-free routine."
-    }
-
-@app.route('/get_response', methods=['POST'])
+@app.route("/get_response", methods=["POST"])
 def chatbot_response():
-    user_input = request.json.get('user_input')
-    bot_response = get_response(user_input)
-    return jsonify({'response': bot_response})
+    user_input = request.json.get("user_input", "")
+    return jsonify({"response": get_response(user_input)})
 
-if __name__ == '__main__':
-    app.run(port=8000, debug=True)
+
+# ── Main ──────────────────────────────────────────────────────────────────────
+if __name__ == "__main__":
+    # Render sets PORT; default to 8000 for local runs
+    port = int(os.getenv("PORT", 8000))
+    # Bind to 0.0.0.0 so Render’s router can reach the container
+    app.run(host="0.0.0.0", port=port, debug=True)
